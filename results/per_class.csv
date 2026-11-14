@@ -1,0 +1,2917 @@
+dataset,seed,subject,edit_length_s,mode,class,f1,windows
+HAPT,17,1,2,no_correction,Walk,0.842490842,116
+HAPT,17,1,2,no_correction,Stairs up,0.859504132,68
+HAPT,17,1,2,no_correction,Stairs down,0.697674419,56
+HAPT,17,1,2,no_correction,Sit,0.666666667,56
+HAPT,17,1,2,no_correction,Stand,0.829268293,68
+HAPT,17,1,2,no_correction,Lie,1.000000000,56
+HAPT,17,1,2,add_only,Walk,0.815602837,116
+HAPT,17,1,2,add_only,Stairs up,0.778761062,68
+HAPT,17,1,2,add_only,Stairs down,0.682352941,56
+HAPT,17,1,2,add_only,Sit,0.666666667,56
+HAPT,17,1,2,add_only,Stand,0.829268293,68
+HAPT,17,1,2,add_only,Lie,1.000000000,56
+HAPT,17,1,2,proposed,Walk,0.821428571,116
+HAPT,17,1,2,proposed,Stairs up,0.789473684,68
+HAPT,17,1,2,proposed,Stairs down,0.697674419,56
+HAPT,17,1,2,proposed,Sit,0.666666667,56
+HAPT,17,1,2,proposed,Stand,0.829268293,68
+HAPT,17,1,2,proposed,Lie,1.000000000,56
+HAPT,43,1,2,no_correction,Walk,0.851063830,116
+HAPT,43,1,2,no_correction,Stairs up,0.855345912,68
+HAPT,43,1,2,no_correction,Stairs down,0.697674419,56
+HAPT,43,1,2,no_correction,Sit,1.000000000,56
+HAPT,43,1,2,no_correction,Stand,1.000000000,68
+HAPT,43,1,2,no_correction,Lie,1.000000000,56
+HAPT,43,1,2,add_only,Walk,0.864661654,116
+HAPT,43,1,2,add_only,Stairs up,0.921875000,68
+HAPT,43,1,2,add_only,Stairs down,0.697674419,56
+HAPT,43,1,2,add_only,Sit,1.000000000,56
+HAPT,43,1,2,add_only,Stand,1.000000000,68
+HAPT,43,1,2,add_only,Lie,1.000000000,56
+HAPT,43,1,2,proposed,Walk,0.807142857,116
+HAPT,43,1,2,proposed,Stairs up,0.767857143,68
+HAPT,43,1,2,proposed,Stairs down,0.681818182,56
+HAPT,43,1,2,proposed,Sit,1.000000000,56
+HAPT,43,1,2,proposed,Stand,1.000000000,68
+HAPT,43,1,2,proposed,Lie,1.000000000,56
+HAPT,101,1,2,no_correction,Walk,0.771331058,116
+HAPT,101,1,2,no_correction,Stairs up,0.585858586,68
+HAPT,101,1,2,no_correction,Stairs down,0.704545455,56
+HAPT,101,1,2,no_correction,Sit,1.000000000,56
+HAPT,101,1,2,no_correction,Stand,1.000000000,68
+HAPT,101,1,2,no_correction,Lie,1.000000000,56
+HAPT,101,1,2,add_only,Walk,0.807017544,116
+HAPT,101,1,2,add_only,Stairs up,0.756756757,68
+HAPT,101,1,2,add_only,Stairs down,0.666666667,56
+HAPT,101,1,2,add_only,Sit,1.000000000,56
+HAPT,101,1,2,add_only,Stand,1.000000000,68
+HAPT,101,1,2,add_only,Lie,1.000000000,56
+HAPT,101,1,2,proposed,Walk,0.824372760,116
+HAPT,101,1,2,proposed,Stairs up,0.820512821,68
+HAPT,101,1,2,proposed,Stairs down,0.666666667,56
+HAPT,101,1,2,proposed,Sit,1.000000000,56
+HAPT,101,1,2,proposed,Stand,1.000000000,68
+HAPT,101,1,2,proposed,Lie,1.000000000,56
+HAPT,17,2,2,no_correction,Walk,0.743169399,68
+HAPT,17,2,2,no_correction,Stairs up,0.769230769,56
+HAPT,17,2,2,no_correction,Stairs down,0.712643678,56
+HAPT,17,2,2,no_correction,Sit,0.000000000,56
+HAPT,17,2,2,no_correction,Stand,0.674285714,60
+HAPT,17,2,2,no_correction,Lie,1.000000000,60
+HAPT,17,2,2,add_only,Walk,0.743169399,68
+HAPT,17,2,2,add_only,Stairs up,0.769230769,56
+HAPT,17,2,2,add_only,Stairs down,0.712643678,56
+HAPT,17,2,2,add_only,Sit,0.101694915,56
+HAPT,17,2,2,add_only,Stand,0.686046512,60
+HAPT,17,2,2,add_only,Lie,1.000000000,60
+HAPT,17,2,2,proposed,Walk,0.739130435,68
+HAPT,17,2,2,proposed,Stairs up,0.727272727,56
+HAPT,17,2,2,proposed,Stairs down,0.741573034,56
+HAPT,17,2,2,proposed,Sit,1.000000000,56
+HAPT,17,2,2,proposed,Stand,0.991596639,60
+HAPT,17,2,2,proposed,Lie,1.000000000,60
+HAPT,43,2,2,no_correction,Walk,0.690355330,68
+HAPT,43,2,2,no_correction,Stairs up,0.465753425,56
+HAPT,43,2,2,no_correction,Stairs down,0.769230769,56
+HAPT,43,2,2,no_correction,Sit,1.000000000,56
+HAPT,43,2,2,no_correction,Stand,0.991596639,60
+HAPT,43,2,2,no_correction,Lie,1.000000000,60
+HAPT,43,2,2,add_only,Walk,0.690355330,68
+HAPT,43,2,2,add_only,Stairs up,0.376811594,56
+HAPT,43,2,2,add_only,Stairs down,0.821052632,56
+HAPT,43,2,2,add_only,Sit,1.000000000,56
+HAPT,43,2,2,add_only,Stand,0.991596639,60
+HAPT,43,2,2,add_only,Lie,1.000000000,60
+HAPT,43,2,2,proposed,Walk,0.697435897,68
+HAPT,43,2,2,proposed,Stairs up,0.486486486,56
+HAPT,43,2,2,proposed,Stairs down,0.782608696,56
+HAPT,43,2,2,proposed,Sit,1.000000000,56
+HAPT,43,2,2,proposed,Stand,0.991596639,60
+HAPT,43,2,2,proposed,Lie,1.000000000,60
+HAPT,101,2,2,no_correction,Walk,0.701030928,68
+HAPT,101,2,2,no_correction,Stairs up,0.582278481,56
+HAPT,101,2,2,no_correction,Stairs down,0.727272727,56
+HAPT,101,2,2,no_correction,Sit,0.666666667,56
+HAPT,101,2,2,no_correction,Stand,0.802721088,60
+HAPT,101,2,2,no_correction,Lie,1.000000000,60
+HAPT,101,2,2,add_only,Walk,0.701030928,68
+HAPT,101,2,2,add_only,Stairs up,0.526315789,56
+HAPT,101,2,2,add_only,Stairs down,0.769230769,56
+HAPT,101,2,2,add_only,Sit,0.933333333,56
+HAPT,101,2,2,add_only,Stand,0.936507937,60
+HAPT,101,2,2,add_only,Lie,1.000000000,60
+HAPT,101,2,2,proposed,Walk,0.660194175,68
+HAPT,101,2,2,proposed,Stairs up,0.250000000,56
+HAPT,101,2,2,proposed,Stairs down,0.769230769,56
+HAPT,101,2,2,proposed,Sit,1.000000000,56
+HAPT,101,2,2,proposed,Stand,0.991596639,60
+HAPT,101,2,2,proposed,Lie,1.000000000,60
+HAPT,17,3,2,no_correction,Walk,0.656410256,64
+HAPT,17,3,2,no_correction,Stairs up,0.638297872,64
+HAPT,17,3,2,no_correction,Stairs down,0.680412371,64
+HAPT,17,3,2,no_correction,Sit,0.577777778,64
+HAPT,17,3,2,no_correction,Stand,0.806122449,80
+HAPT,17,3,2,no_correction,Lie,1.000000000,80
+HAPT,17,3,2,add_only,Walk,0.656410256,64
+HAPT,17,3,2,add_only,Stairs up,0.638297872,64
+HAPT,17,3,2,add_only,Stairs down,0.680412371,64
+HAPT,17,3,2,add_only,Sit,0.608695652,64
+HAPT,17,3,2,add_only,Stand,0.814432990,80
+HAPT,17,3,2,add_only,Lie,1.000000000,80
+HAPT,17,3,2,proposed,Walk,0.670157068,64
+HAPT,17,3,2,proposed,Stairs up,0.707070707,64
+HAPT,17,3,2,proposed,Stairs down,0.652631579,64
+HAPT,17,3,2,proposed,Sit,0.608695652,64
+HAPT,17,3,2,proposed,Stand,0.820512821,80
+HAPT,17,3,2,proposed,Lie,1.000000000,80
+HAPT,43,3,2,no_correction,Walk,0.728476821,64
+HAPT,43,3,2,no_correction,Stairs up,0.920863309,64
+HAPT,43,3,2,no_correction,Stairs down,0.652631579,64
+HAPT,43,3,2,no_correction,Sit,0.915254237,64
+HAPT,43,3,2,no_correction,Stand,0.946745562,80
+HAPT,43,3,2,no_correction,Lie,1.000000000,80
+HAPT,43,3,2,add_only,Walk,0.704545455,64
+HAPT,43,3,2,add_only,Stairs up,0.824561404,64
+HAPT,43,3,2,add_only,Stairs down,0.666666667,64
+HAPT,43,3,2,add_only,Sit,0.950819672,64
+HAPT,43,3,2,add_only,Stand,0.963414634,80
+HAPT,43,3,2,add_only,Lie,1.000000000,80
+HAPT,43,3,2,proposed,Walk,0.680851064,64
+HAPT,43,3,2,proposed,Stairs up,0.720000000,64
+HAPT,43,3,2,proposed,Stairs down,0.680412371,64
+HAPT,43,3,2,proposed,Sit,0.992125984,64
+HAPT,43,3,2,proposed,Stand,1.000000000,80
+HAPT,43,3,2,proposed,Lie,1.000000000,80
+HAPT,101,3,2,no_correction,Walk,0.680851064,64
+HAPT,101,3,2,no_correction,Stairs up,0.720000000,64
+HAPT,101,3,2,no_correction,Stairs down,0.680412371,64
+HAPT,101,3,2,no_correction,Sit,0.000000000,64
+HAPT,101,3,2,no_correction,Stand,0.717488789,80
+HAPT,101,3,2,no_correction,Lie,1.000000000,80
+HAPT,101,3,2,add_only,Walk,0.677248677,64
+HAPT,101,3,2,add_only,Stairs up,0.720000000,64
+HAPT,101,3,2,add_only,Stairs down,0.666666667,64
+HAPT,101,3,2,add_only,Sit,0.593406593,64
+HAPT,101,3,2,add_only,Stand,0.816326531,80
+HAPT,101,3,2,add_only,Lie,1.000000000,80
+HAPT,101,3,2,proposed,Walk,0.666666667,64
+HAPT,101,3,2,proposed,Stairs up,0.666666667,64
+HAPT,101,3,2,proposed,Stairs down,0.680412371,64
+HAPT,101,3,2,proposed,Sit,0.608695652,64
+HAPT,101,3,2,proposed,Stand,0.820512821,80
+HAPT,101,3,2,proposed,Lie,1.000000000,80
+HAPT,17,4,2,no_correction,Walk,0.768361582,68
+HAPT,17,4,2,no_correction,Stairs up,0.811881188,60
+HAPT,17,4,2,no_correction,Stairs down,0.731707317,52
+HAPT,17,4,2,no_correction,Sit,0.695652174,60
+HAPT,17,4,2,no_correction,Stand,0.820512821,64
+HAPT,17,4,2,no_correction,Lie,1.000000000,56
+HAPT,17,4,2,add_only,Walk,0.768361582,68
+HAPT,17,4,2,add_only,Stairs up,0.800000000,60
+HAPT,17,4,2,add_only,Stairs down,0.746987952,52
+HAPT,17,4,2,add_only,Sit,0.695652174,60
+HAPT,17,4,2,add_only,Stand,0.820512821,64
+HAPT,17,4,2,add_only,Lie,1.000000000,56
+HAPT,17,4,2,proposed,Walk,0.777142857,68
+HAPT,17,4,2,proposed,Stairs up,0.775510204,60
+HAPT,17,4,2,proposed,Stairs down,0.804597701,52
+HAPT,17,4,2,proposed,Sit,0.695652174,60
+HAPT,17,4,2,proposed,Stand,0.820512821,64
+HAPT,17,4,2,proposed,Lie,1.000000000,56
+HAPT,43,4,2,no_correction,Walk,0.814371257,68
+HAPT,43,4,2,no_correction,Stairs up,0.811881188,60
+HAPT,43,4,2,no_correction,Stairs down,0.869565217,52
+HAPT,43,4,2,no_correction,Sit,0.695652174,60
+HAPT,43,4,2,no_correction,Stand,0.820512821,64
+HAPT,43,4,2,no_correction,Lie,1.000000000,56
+HAPT,43,4,2,add_only,Walk,0.800000000,68
+HAPT,43,4,2,add_only,Stairs up,0.823529412,60
+HAPT,43,4,2,add_only,Stairs down,0.818181818,52
+HAPT,43,4,2,add_only,Sit,0.695652174,60
+HAPT,43,4,2,add_only,Stand,0.820512821,64
+HAPT,43,4,2,add_only,Lie,1.000000000,56
+HAPT,43,4,2,proposed,Walk,0.772727273,68
+HAPT,43,4,2,proposed,Stairs up,0.750000000,60
+HAPT,43,4,2,proposed,Stairs down,0.818181818,52
+HAPT,43,4,2,proposed,Sit,0.923076923,60
+HAPT,43,4,2,proposed,Stand,0.915254237,64
+HAPT,43,4,2,proposed,Lie,1.000000000,56
+HAPT,101,4,2,no_correction,Walk,0.786127168,68
+HAPT,101,4,2,no_correction,Stairs up,0.750000000,60
+HAPT,101,4,2,no_correction,Stairs down,0.857142857,52
+HAPT,101,4,2,no_correction,Sit,0.695652174,60
+HAPT,101,4,2,no_correction,Stand,0.820512821,64
+HAPT,101,4,2,no_correction,Lie,1.000000000,56
+HAPT,101,4,2,add_only,Walk,0.777142857,68
+HAPT,101,4,2,add_only,Stairs up,0.750000000,60
+HAPT,101,4,2,add_only,Stairs down,0.831460674,52
+HAPT,101,4,2,add_only,Sit,0.695652174,60
+HAPT,101,4,2,add_only,Stand,0.820512821,64
+HAPT,101,4,2,add_only,Lie,1.000000000,56
+HAPT,101,4,2,proposed,Walk,0.759776536,68
+HAPT,101,4,2,proposed,Stairs up,0.723404255,60
+HAPT,101,4,2,proposed,Stairs down,0.804597701,52
+HAPT,101,4,2,proposed,Sit,0.695652174,60
+HAPT,101,4,2,proposed,Stand,0.820512821,64
+HAPT,101,4,2,proposed,Lie,1.000000000,56
+HAPT,17,5,2,no_correction,Walk,0.805031447,64
+HAPT,17,5,2,no_correction,Stairs up,0.881720430,52
+HAPT,17,5,2,no_correction,Stairs down,0.761904762,52
+HAPT,17,5,2,no_correction,Sit,0.000000000,52
+HAPT,17,5,2,no_correction,Stand,0.723404255,68
+HAPT,17,5,2,no_correction,Lie,1.000000000,60
+HAPT,17,5,2,add_only,Walk,0.805031447,64
+HAPT,17,5,2,add_only,Stairs up,0.881720430,52
+HAPT,17,5,2,add_only,Stairs down,0.761904762,52
+HAPT,17,5,2,add_only,Sit,0.000000000,52
+HAPT,17,5,2,add_only,Stand,0.723404255,68
+HAPT,17,5,2,add_only,Lie,1.000000000,60
+HAPT,17,5,2,proposed,Walk,0.810126582,64
+HAPT,17,5,2,proposed,Stairs up,0.857142857,52
+HAPT,17,5,2,proposed,Stairs down,0.804597701,52
+HAPT,17,5,2,proposed,Sit,0.037735849,52
+HAPT,17,5,2,proposed,Stand,0.727272727,68
+HAPT,17,5,2,proposed,Lie,1.000000000,60
+HAPT,43,5,2,no_correction,Walk,0.790123457,64
+HAPT,43,5,2,no_correction,Stairs up,0.818181818,52
+HAPT,43,5,2,no_correction,Stairs down,0.790697674,52
+HAPT,43,5,2,no_correction,Sit,0.700000000,52
+HAPT,43,5,2,no_correction,Stand,0.850000000,68
+HAPT,43,5,2,no_correction,Lie,1.000000000,60
+HAPT,43,5,2,add_only,Walk,0.795031056,64
+HAPT,43,5,2,add_only,Stairs up,0.857142857,52
+HAPT,43,5,2,add_only,Stairs down,0.761904762,52
+HAPT,43,5,2,add_only,Sit,0.700000000,52
+HAPT,43,5,2,add_only,Stand,0.850000000,68
+HAPT,43,5,2,add_only,Lie,1.000000000,60
+HAPT,43,5,2,proposed,Walk,0.815286624,64
+HAPT,43,5,2,proposed,Stairs up,0.869565217,52
+HAPT,43,5,2,proposed,Stairs down,0.804597701,52
+HAPT,43,5,2,proposed,Sit,0.037735849,52
+HAPT,43,5,2,proposed,Stand,0.727272727,68
+HAPT,43,5,2,proposed,Lie,1.000000000,60
+HAPT,101,5,2,no_correction,Walk,0.831168831,64
+HAPT,101,5,2,no_correction,Stairs up,0.905263158,52
+HAPT,101,5,2,no_correction,Stairs down,0.804597701,52
+HAPT,101,5,2,no_correction,Sit,0.700000000,52
+HAPT,101,5,2,no_correction,Stand,0.850000000,68
+HAPT,101,5,2,no_correction,Lie,1.000000000,60
+HAPT,101,5,2,add_only,Walk,0.847682119,64
+HAPT,101,5,2,add_only,Stairs up,0.938775510,52
+HAPT,101,5,2,add_only,Stairs down,0.804597701,52
+HAPT,101,5,2,add_only,Sit,0.700000000,52
+HAPT,101,5,2,add_only,Stand,0.850000000,68
+HAPT,101,5,2,add_only,Lie,1.000000000,60
+HAPT,101,5,2,proposed,Walk,0.820512821,64
+HAPT,101,5,2,proposed,Stairs up,0.881720430,52
+HAPT,101,5,2,proposed,Stairs down,0.804597701,52
+HAPT,101,5,2,proposed,Sit,0.405797101,52
+HAPT,101,5,2,proposed,Stand,0.196078431,68
+HAPT,101,5,2,proposed,Lie,1.000000000,60
+HAPT,17,6,2,no_correction,Walk,0.790123457,64
+HAPT,17,6,2,no_correction,Stairs up,0.750000000,60
+HAPT,17,6,2,no_correction,Stairs down,0.918918919,60
+HAPT,17,6,2,no_correction,Sit,0.000000000,64
+HAPT,17,6,2,no_correction,Stand,0.683417085,68
+HAPT,17,6,2,no_correction,Lie,1.000000000,68
+HAPT,17,6,2,add_only,Walk,0.800000000,64
+HAPT,17,6,2,add_only,Stairs up,0.775510204,60
+HAPT,17,6,2,add_only,Stairs down,0.918918919,60
+HAPT,17,6,2,add_only,Sit,0.000000000,64
+HAPT,17,6,2,add_only,Stand,0.683417085,68
+HAPT,17,6,2,add_only,Lie,1.000000000,68
+HAPT,17,6,2,proposed,Walk,0.805031447,64
+HAPT,17,6,2,proposed,Stairs up,0.775510204,60
+HAPT,17,6,2,proposed,Stairs down,0.928571429,60
+HAPT,17,6,2,proposed,Sit,0.608695652,64
+HAPT,17,6,2,proposed,Stand,0.795321637,68
+HAPT,17,6,2,proposed,Lie,1.000000000,68
+HAPT,43,6,2,no_correction,Walk,0.628571429,64
+HAPT,43,6,2,no_correction,Stairs up,0.151515152,60
+HAPT,43,6,2,no_correction,Stairs down,0.921875000,60
+HAPT,43,6,2,no_correction,Sit,0.000000000,64
+HAPT,43,6,2,no_correction,Stand,0.683417085,68
+HAPT,43,6,2,no_correction,Lie,1.000000000,68
+HAPT,43,6,2,add_only,Walk,0.783216783,64
+HAPT,43,6,2,add_only,Stairs up,0.787878788,60
+HAPT,43,6,2,add_only,Stairs down,0.929133858,60
+HAPT,43,6,2,add_only,Sit,0.000000000,64
+HAPT,43,6,2,add_only,Stand,0.683417085,68
+HAPT,43,6,2,add_only,Lie,1.000000000,68
+HAPT,43,6,2,proposed,Walk,0.805555556,64
+HAPT,43,6,2,proposed,Stairs up,0.780000000,60
+HAPT,43,6,2,proposed,Stairs down,0.944000000,60
+HAPT,43,6,2,proposed,Sit,0.608695652,64
+HAPT,43,6,2,proposed,Stand,0.795321637,68
+HAPT,43,6,2,proposed,Lie,1.000000000,68
+HAPT,101,6,2,no_correction,Walk,0.800000000,64
+HAPT,101,6,2,no_correction,Stairs up,0.775510204,60
+HAPT,101,6,2,no_correction,Stairs down,0.918918919,60
+HAPT,101,6,2,no_correction,Sit,0.000000000,64
+HAPT,101,6,2,no_correction,Stand,0.683417085,68
+HAPT,101,6,2,no_correction,Lie,1.000000000,68
+HAPT,101,6,2,add_only,Walk,0.800000000,64
+HAPT,101,6,2,add_only,Stairs up,0.775510204,60
+HAPT,101,6,2,add_only,Stairs down,0.918918919,60
+HAPT,101,6,2,add_only,Sit,0.000000000,64
+HAPT,101,6,2,add_only,Stand,0.683417085,68
+HAPT,101,6,2,add_only,Lie,1.000000000,68
+HAPT,101,6,2,proposed,Walk,0.800000000,64
+HAPT,101,6,2,proposed,Stairs up,0.775510204,60
+HAPT,101,6,2,proposed,Stairs down,0.918918919,60
+HAPT,101,6,2,proposed,Sit,0.608695652,64
+HAPT,101,6,2,proposed,Stand,0.795321637,68
+HAPT,101,6,2,proposed,Lie,1.000000000,68
+HAPT,17,7,2,no_correction,Walk,0.831168831,64
+HAPT,17,7,2,no_correction,Stairs up,0.938053097,60
+HAPT,17,7,2,no_correction,Stairs down,0.776470588,52
+HAPT,17,7,2,no_correction,Sit,0.000000000,52
+HAPT,17,7,2,no_correction,Stand,0.723404255,68
+HAPT,17,7,2,no_correction,Lie,1.000000000,60
+HAPT,17,7,2,add_only,Walk,0.831168831,64
+HAPT,17,7,2,add_only,Stairs up,0.938053097,60
+HAPT,17,7,2,add_only,Stairs down,0.776470588,52
+HAPT,17,7,2,add_only,Sit,0.000000000,52
+HAPT,17,7,2,add_only,Stand,0.723404255,68
+HAPT,17,7,2,add_only,Lie,1.000000000,60
+HAPT,17,7,2,proposed,Walk,0.785276074,64
+HAPT,17,7,2,proposed,Stairs up,0.846153846,60
+HAPT,17,7,2,proposed,Stairs down,0.776470588,52
+HAPT,17,7,2,proposed,Sit,0.638036810,52
+HAPT,17,7,2,proposed,Stand,0.233766234,68
+HAPT,17,7,2,proposed,Lie,1.000000000,60
+HAPT,43,7,2,no_correction,Walk,0.216216216,64
+HAPT,43,7,2,no_correction,Stairs up,0.723404255,60
+HAPT,43,7,2,no_correction,Stairs down,0.585034014,52
+HAPT,43,7,2,no_correction,Sit,0.776859504,52
+HAPT,43,7,2,no_correction,Stand,0.773109244,68
+HAPT,43,7,2,no_correction,Lie,1.000000000,60
+HAPT,43,7,2,add_only,Walk,0.214285714,64
+HAPT,43,7,2,add_only,Stairs up,0.709677419,60
+HAPT,43,7,2,add_only,Stairs down,0.585034014,52
+HAPT,43,7,2,add_only,Sit,0.622754491,52
+HAPT,43,7,2,add_only,Stand,0.136986301,68
+HAPT,43,7,2,add_only,Lie,1.000000000,60
+HAPT,43,7,2,proposed,Walk,0.558823529,64
+HAPT,43,7,2,proposed,Stairs up,0.834951456,60
+HAPT,43,7,2,proposed,Stairs down,0.619469027,52
+HAPT,43,7,2,proposed,Sit,0.615384615,52
+HAPT,43,7,2,proposed,Stand,0.084507042,68
+HAPT,43,7,2,proposed,Lie,1.000000000,60
+HAPT,101,7,2,no_correction,Walk,0.757763975,64
+HAPT,101,7,2,no_correction,Stairs up,0.787878788,60
+HAPT,101,7,2,no_correction,Stairs down,0.804347826,52
+HAPT,101,7,2,no_correction,Sit,0.000000000,52
+HAPT,101,7,2,no_correction,Stand,0.723404255,68
+HAPT,101,7,2,no_correction,Lie,1.000000000,60
+HAPT,101,7,2,add_only,Walk,0.745341615,64
+HAPT,101,7,2,add_only,Stairs up,0.762886598,60
+HAPT,101,7,2,add_only,Stairs down,0.808510638,52
+HAPT,101,7,2,add_only,Sit,0.000000000,52
+HAPT,101,7,2,add_only,Stand,0.723404255,68
+HAPT,101,7,2,add_only,Lie,1.000000000,60
+HAPT,101,7,2,proposed,Walk,0.790123457,64
+HAPT,101,7,2,proposed,Stairs up,0.857142857,60
+HAPT,101,7,2,proposed,Stairs down,0.776470588,52
+HAPT,101,7,2,proposed,Sit,0.604651163,52
+HAPT,101,7,2,proposed,Stand,0.000000000,68
+HAPT,101,7,2,proposed,Lie,1.000000000,60
+HAPT,17,8,2,no_correction,Walk,0.948275862,56
+HAPT,17,8,2,no_correction,Stairs up,0.990476190,52
+HAPT,17,8,2,no_correction,Stairs down,0.945054945,48
+HAPT,17,8,2,no_correction,Sit,1.000000000,56
+HAPT,17,8,2,no_correction,Stand,1.000000000,80
+HAPT,17,8,2,no_correction,Lie,1.000000000,72
+HAPT,17,8,2,add_only,Walk,0.939130435,56
+HAPT,17,8,2,add_only,Stairs up,0.981132075,52
+HAPT,17,8,2,add_only,Stairs down,0.945054945,48
+HAPT,17,8,2,add_only,Sit,1.000000000,56
+HAPT,17,8,2,add_only,Stand,1.000000000,80
+HAPT,17,8,2,add_only,Lie,1.000000000,72
+HAPT,17,8,2,proposed,Walk,0.871287129,56
+HAPT,17,8,2,proposed,Stairs up,0.888888889,52
+HAPT,17,8,2,proposed,Stairs down,0.957446809,48
+HAPT,17,8,2,proposed,Sit,1.000000000,56
+HAPT,17,8,2,proposed,Stand,1.000000000,80
+HAPT,17,8,2,proposed,Lie,1.000000000,72
+HAPT,43,8,2,no_correction,Walk,0.734693878,56
+HAPT,43,8,2,no_correction,Stairs up,0.818897638,52
+HAPT,43,8,2,no_correction,Stairs down,0.896551724,48
+HAPT,43,8,2,no_correction,Sit,0.617283951,56
+HAPT,43,8,2,no_correction,Stand,0.837696335,80
+HAPT,43,8,2,no_correction,Lie,1.000000000,72
+HAPT,43,8,2,add_only,Walk,0.925619835,56
+HAPT,43,8,2,add_only,Stairs up,1.000000000,52
+HAPT,43,8,2,add_only,Stairs down,0.896551724,48
+HAPT,43,8,2,add_only,Sit,0.600000000,56
+HAPT,43,8,2,add_only,Stand,0.833333333,80
+HAPT,43,8,2,add_only,Lie,1.000000000,72
+HAPT,43,8,2,proposed,Walk,0.862068966,56
+HAPT,43,8,2,proposed,Stairs up,0.936936937,52
+HAPT,43,8,2,proposed,Stairs down,0.870588235,48
+HAPT,43,8,2,proposed,Sit,0.600000000,56
+HAPT,43,8,2,proposed,Stand,0.833333333,80
+HAPT,43,8,2,proposed,Lie,1.000000000,72
+HAPT,101,8,2,no_correction,Walk,0.918032787,56
+HAPT,101,8,2,no_correction,Stairs up,1.000000000,52
+HAPT,101,8,2,no_correction,Stairs down,0.883720930,48
+HAPT,101,8,2,no_correction,Sit,0.600000000,56
+HAPT,101,8,2,no_correction,Stand,0.833333333,80
+HAPT,101,8,2,no_correction,Lie,1.000000000,72
+HAPT,101,8,2,add_only,Walk,0.918032787,56
+HAPT,101,8,2,add_only,Stairs up,1.000000000,52
+HAPT,101,8,2,add_only,Stairs down,0.883720930,48
+HAPT,101,8,2,add_only,Sit,0.600000000,56
+HAPT,101,8,2,add_only,Stand,0.833333333,80
+HAPT,101,8,2,add_only,Lie,1.000000000,72
+HAPT,101,8,2,proposed,Walk,0.896551724,56
+HAPT,101,8,2,proposed,Stairs up,0.962962963,52
+HAPT,101,8,2,proposed,Stairs down,0.909090909,48
+HAPT,101,8,2,proposed,Sit,0.990990991,56
+HAPT,101,8,2,proposed,Stand,0.993788820,80
+HAPT,101,8,2,proposed,Lie,1.000000000,72
+HAPT,17,9,2,no_correction,Walk,0.762711864,64
+HAPT,17,9,2,no_correction,Stairs up,0.800000000,56
+HAPT,17,9,2,no_correction,Stairs down,0.808080808,56
+HAPT,17,9,2,no_correction,Sit,0.356164384,60
+HAPT,17,9,2,no_correction,Stand,0.718562874,60
+HAPT,17,9,2,no_correction,Lie,1.000000000,72
+HAPT,17,9,2,add_only,Walk,0.815286624,64
+HAPT,17,9,2,add_only,Stairs up,0.868686869,56
+HAPT,17,9,2,add_only,Stairs down,0.791666667,56
+HAPT,17,9,2,add_only,Sit,0.356164384,60
+HAPT,17,9,2,add_only,Stand,0.718562874,60
+HAPT,17,9,2,add_only,Lie,1.000000000,72
+HAPT,17,9,2,proposed,Walk,0.800000000,64
+HAPT,17,9,2,proposed,Stairs up,0.868686869,56
+HAPT,17,9,2,proposed,Stairs down,0.778947368,56
+HAPT,17,9,2,proposed,Sit,0.260869565,60
+HAPT,17,9,2,proposed,Stand,0.698224852,60
+HAPT,17,9,2,proposed,Lie,1.000000000,72
+HAPT,43,9,2,no_correction,Walk,0.805031447,64
+HAPT,43,9,2,no_correction,Stairs up,0.891089109,56
+HAPT,43,9,2,no_correction,Stairs down,0.774193548,56
+HAPT,43,9,2,no_correction,Sit,0.356164384,60
+HAPT,43,9,2,no_correction,Stand,0.710843373,60
+HAPT,43,9,2,no_correction,Lie,1.000000000,72
+HAPT,43,9,2,add_only,Walk,0.805031447,64
+HAPT,43,9,2,add_only,Stairs up,0.891089109,56
+HAPT,43,9,2,add_only,Stairs down,0.774193548,56
+HAPT,43,9,2,add_only,Sit,0.356164384,60
+HAPT,43,9,2,add_only,Stand,0.710843373,60
+HAPT,43,9,2,add_only,Lie,1.000000000,72
+HAPT,43,9,2,proposed,Walk,0.790123457,64
+HAPT,43,9,2,proposed,Stairs up,0.857142857,56
+HAPT,43,9,2,proposed,Stairs down,0.774193548,56
+HAPT,43,9,2,proposed,Sit,0.000000000,60
+HAPT,43,9,2,proposed,Stand,0.659217877,60
+HAPT,43,9,2,proposed,Lie,1.000000000,72
+HAPT,101,9,2,no_correction,Walk,0.795031056,64
+HAPT,101,9,2,no_correction,Stairs up,0.868686869,56
+HAPT,101,9,2,no_correction,Stairs down,0.778947368,56
+HAPT,101,9,2,no_correction,Sit,0.356164384,60
+HAPT,101,9,2,no_correction,Stand,0.719512195,60
+HAPT,101,9,2,no_correction,Lie,1.000000000,72
+HAPT,101,9,2,add_only,Walk,0.795031056,64
+HAPT,101,9,2,add_only,Stairs up,0.868686869,56
+HAPT,101,9,2,add_only,Stairs down,0.778947368,56
+HAPT,101,9,2,add_only,Sit,0.356164384,60
+HAPT,101,9,2,add_only,Stand,0.719512195,60
+HAPT,101,9,2,add_only,Lie,1.000000000,72
+HAPT,101,9,2,proposed,Walk,0.790123457,64
+HAPT,101,9,2,proposed,Stairs up,0.868686869,56
+HAPT,101,9,2,proposed,Stairs down,0.778947368,56
+HAPT,101,9,2,proposed,Sit,0.423841060,60
+HAPT,101,9,2,proposed,Stand,0.000000000,60
+HAPT,101,9,2,proposed,Lie,1.000000000,72
+HAPT,17,10,2,no_correction,Walk,0.711111111,64
+HAPT,17,10,2,no_correction,Stairs up,0.541176471,60
+HAPT,17,10,2,no_correction,Stairs down,0.814814815,48
+HAPT,17,10,2,no_correction,Sit,0.000000000,76
+HAPT,17,10,2,no_correction,Stand,0.592592593,56
+HAPT,17,10,2,no_correction,Lie,0.978723404,72
+HAPT,17,10,2,add_only,Walk,0.744186047,64
+HAPT,17,10,2,add_only,Stairs up,0.688172043,60
+HAPT,17,10,2,add_only,Stairs down,0.800000000,48
+HAPT,17,10,2,add_only,Sit,0.000000000,76
+HAPT,17,10,2,add_only,Stand,0.592592593,56
+HAPT,17,10,2,add_only,Lie,0.985915493,72
+HAPT,17,10,2,proposed,Walk,0.761904762,64
+HAPT,17,10,2,proposed,Stairs up,0.767676768,60
+HAPT,17,10,2,proposed,Stairs down,0.769230769,48
+HAPT,17,10,2,proposed,Sit,0.000000000,76
+HAPT,17,10,2,proposed,Stand,0.595744681,56
+HAPT,17,10,2,proposed,Lie,0.993006993,72
+HAPT,43,10,2,no_correction,Walk,0.752941176,64
+HAPT,43,10,2,no_correction,Stairs up,0.715789474,60
+HAPT,43,10,2,no_correction,Stairs down,0.800000000,48
+HAPT,43,10,2,no_correction,Sit,0.000000000,76
+HAPT,43,10,2,no_correction,Stand,0.595744681,56
+HAPT,43,10,2,no_correction,Lie,0.993006993,72
+HAPT,43,10,2,add_only,Walk,0.761904762,64
+HAPT,43,10,2,add_only,Stairs up,0.755102041,60
+HAPT,43,10,2,add_only,Stairs down,0.784810127,48
+HAPT,43,10,2,add_only,Sit,0.000000000,76
+HAPT,43,10,2,add_only,Stand,0.595744681,56
+HAPT,43,10,2,add_only,Lie,0.993006993,72
+HAPT,43,10,2,proposed,Walk,0.752941176,64
+HAPT,43,10,2,proposed,Stairs up,0.762886598,60
+HAPT,43,10,2,proposed,Stairs down,0.769230769,48
+HAPT,43,10,2,proposed,Sit,0.000000000,76
+HAPT,43,10,2,proposed,Stand,0.595744681,56
+HAPT,43,10,2,proposed,Lie,0.993006993,72
+HAPT,101,10,2,no_correction,Walk,0.780487805,64
+HAPT,101,10,2,no_correction,Stairs up,0.784313725,60
+HAPT,101,10,2,no_correction,Stairs down,0.800000000,48
+HAPT,101,10,2,no_correction,Sit,0.000000000,76
+HAPT,101,10,2,no_correction,Stand,0.474576271,56
+HAPT,101,10,2,no_correction,Lie,0.468085106,72
+HAPT,101,10,2,add_only,Walk,0.761904762,64
+HAPT,101,10,2,add_only,Stairs up,0.760000000,60
+HAPT,101,10,2,add_only,Stairs down,0.769230769,48
+HAPT,101,10,2,add_only,Sit,0.000000000,76
+HAPT,101,10,2,add_only,Stand,0.474576271,56
+HAPT,101,10,2,add_only,Lie,0.468085106,72
+HAPT,101,10,2,proposed,Walk,0.752941176,64
+HAPT,101,10,2,proposed,Stairs up,0.755102041,60
+HAPT,101,10,2,proposed,Stairs down,0.769230769,48
+HAPT,101,10,2,proposed,Sit,0.000000000,76
+HAPT,101,10,2,proposed,Stand,0.474576271,56
+HAPT,101,10,2,proposed,Lie,0.468085106,72
+HAPT,17,11,2,no_correction,Walk,0.699029126,72
+HAPT,17,11,2,no_correction,Stairs up,0.620000000,68
+HAPT,17,11,2,no_correction,Stairs down,0.723404255,60
+HAPT,17,11,2,no_correction,Sit,1.000000000,68
+HAPT,17,11,2,no_correction,Stand,1.000000000,68
+HAPT,17,11,2,no_correction,Lie,1.000000000,68
+HAPT,17,11,2,add_only,Walk,0.709359606,72
+HAPT,17,11,2,add_only,Stairs up,0.660194175,68
+HAPT,17,11,2,add_only,Stairs down,0.723404255,60
+HAPT,17,11,2,add_only,Sit,1.000000000,68
+HAPT,17,11,2,add_only,Stand,1.000000000,68
+HAPT,17,11,2,add_only,Lie,1.000000000,68
+HAPT,17,11,2,proposed,Walk,0.699029126,72
+HAPT,17,11,2,proposed,Stairs up,0.666666667,68
+HAPT,17,11,2,proposed,Stairs down,0.695652174,60
+HAPT,17,11,2,proposed,Sit,1.000000000,68
+HAPT,17,11,2,proposed,Stand,1.000000000,68
+HAPT,17,11,2,proposed,Lie,1.000000000,68
+HAPT,43,11,2,no_correction,Walk,0.746113990,72
+HAPT,43,11,2,no_correction,Stairs up,0.800000000,68
+HAPT,43,11,2,no_correction,Stairs down,0.695652174,60
+HAPT,43,11,2,no_correction,Sit,0.692307692,68
+HAPT,43,11,2,no_correction,Stand,0.809523810,68
+HAPT,43,11,2,no_correction,Lie,1.000000000,68
+HAPT,43,11,2,add_only,Walk,0.742268041,72
+HAPT,43,11,2,add_only,Stairs up,0.789473684,68
+HAPT,43,11,2,add_only,Stairs down,0.695652174,60
+HAPT,43,11,2,add_only,Sit,0.692307692,68
+HAPT,43,11,2,add_only,Stand,0.809523810,68
+HAPT,43,11,2,add_only,Lie,1.000000000,68
+HAPT,43,11,2,proposed,Walk,0.699029126,72
+HAPT,43,11,2,proposed,Stairs up,0.666666667,68
+HAPT,43,11,2,proposed,Stairs down,0.695652174,60
+HAPT,43,11,2,proposed,Sit,1.000000000,68
+HAPT,43,11,2,proposed,Stand,1.000000000,68
+HAPT,43,11,2,proposed,Lie,1.000000000,68
+HAPT,101,11,2,no_correction,Walk,0.750000000,72
+HAPT,101,11,2,no_correction,Stairs up,0.827586207,68
+HAPT,101,11,2,no_correction,Stairs down,0.695652174,60
+HAPT,101,11,2,no_correction,Sit,0.692307692,68
+HAPT,101,11,2,no_correction,Stand,0.809523810,68
+HAPT,101,11,2,no_correction,Lie,1.000000000,68
+HAPT,101,11,2,add_only,Walk,0.702439024,72
+HAPT,101,11,2,add_only,Stairs up,0.679611650,68
+HAPT,101,11,2,add_only,Stairs down,0.695652174,60
+HAPT,101,11,2,add_only,Sit,0.692307692,68
+HAPT,101,11,2,add_only,Stand,0.809523810,68
+HAPT,101,11,2,add_only,Lie,1.000000000,68
+HAPT,101,11,2,proposed,Walk,0.709359606,72
+HAPT,101,11,2,proposed,Stairs up,0.704761905,68
+HAPT,101,11,2,proposed,Stairs down,0.695652174,60
+HAPT,101,11,2,proposed,Sit,1.000000000,68
+HAPT,101,11,2,proposed,Stand,1.000000000,68
+HAPT,101,11,2,proposed,Lie,1.000000000,68
+HAPT,17,12,2,no_correction,Walk,0.774647887,56
+HAPT,17,12,2,no_correction,Stairs up,0.800000000,60
+HAPT,17,12,2,no_correction,Stairs down,0.823529412,48
+HAPT,17,12,2,no_correction,Sit,0.915254237,64
+HAPT,17,12,2,no_correction,Stand,0.919540230,84
+HAPT,17,12,2,no_correction,Lie,1.000000000,88
+HAPT,17,12,2,add_only,Walk,0.780141844,56
+HAPT,17,12,2,add_only,Stairs up,0.800000000,60
+HAPT,17,12,2,add_only,Stairs down,0.837209302,48
+HAPT,17,12,2,add_only,Sit,1.000000000,64
+HAPT,17,12,2,add_only,Stand,0.975609756,84
+HAPT,17,12,2,add_only,Lie,1.000000000,88
+HAPT,17,12,2,proposed,Walk,0.780141844,56
+HAPT,17,12,2,proposed,Stairs up,0.752475248,60
+HAPT,17,12,2,proposed,Stairs down,0.888888889,48
+HAPT,17,12,2,proposed,Sit,1.000000000,64
+HAPT,17,12,2,proposed,Stand,0.975609756,84
+HAPT,17,12,2,proposed,Lie,1.000000000,88
+HAPT,43,12,2,no_correction,Walk,0.762589928,56
+HAPT,43,12,2,no_correction,Stairs up,0.767676768,60
+HAPT,43,12,2,no_correction,Stairs down,0.881720430,48
+HAPT,43,12,2,no_correction,Sit,1.000000000,64
+HAPT,43,12,2,no_correction,Stand,0.981818182,84
+HAPT,43,12,2,no_correction,Lie,1.000000000,88
+HAPT,43,12,2,add_only,Walk,0.771428571,56
+HAPT,43,12,2,add_only,Stairs up,0.767676768,60
+HAPT,43,12,2,add_only,Stairs down,0.891304348,48
+HAPT,43,12,2,add_only,Sit,1.000000000,64
+HAPT,43,12,2,add_only,Stand,0.981818182,84
+HAPT,43,12,2,add_only,Lie,1.000000000,88
+HAPT,43,12,2,proposed,Walk,0.774647887,56
+HAPT,43,12,2,proposed,Stairs up,0.760000000,60
+HAPT,43,12,2,proposed,Stairs down,0.876404494,48
+HAPT,43,12,2,proposed,Sit,1.000000000,64
+HAPT,43,12,2,proposed,Stand,0.981818182,84
+HAPT,43,12,2,proposed,Lie,1.000000000,88
+HAPT,101,12,2,no_correction,Walk,0.852713178,56
+HAPT,101,12,2,no_correction,Stairs up,0.950819672,60
+HAPT,101,12,2,no_correction,Stairs down,0.790123457,48
+HAPT,101,12,2,no_correction,Sit,0.000000000,64
+HAPT,101,12,2,no_correction,Stand,0.701754386,84
+HAPT,101,12,2,no_correction,Lie,1.000000000,88
+HAPT,101,12,2,add_only,Walk,0.808823529,56
+HAPT,101,12,2,add_only,Stairs up,0.896551724,60
+HAPT,101,12,2,add_only,Stairs down,0.790123457,48
+HAPT,101,12,2,add_only,Sit,0.000000000,64
+HAPT,101,12,2,add_only,Stand,0.696035242,84
+HAPT,101,12,2,add_only,Lie,1.000000000,88
+HAPT,101,12,2,proposed,Walk,0.758620690,56
+HAPT,101,12,2,proposed,Stairs up,0.752475248,60
+HAPT,101,12,2,proposed,Stairs down,0.837209302,48
+HAPT,101,12,2,proposed,Sit,0.000000000,64
+HAPT,101,12,2,proposed,Stand,0.701754386,84
+HAPT,101,12,2,proposed,Lie,1.000000000,88
+HAPT,17,13,2,no_correction,Walk,0.475247525,68
+HAPT,17,13,2,no_correction,Stairs up,0.942148760,60
+HAPT,17,13,2,no_correction,Stairs down,0.641221374,48
+HAPT,17,13,2,no_correction,Sit,0.571428571,60
+HAPT,17,13,2,no_correction,Stand,0.802139037,76
+HAPT,17,13,2,no_correction,Lie,1.000000000,76
+HAPT,17,13,2,add_only,Walk,0.849315068,68
+HAPT,17,13,2,add_only,Stairs up,0.942148760,60
+HAPT,17,13,2,add_only,Stairs down,0.813953488,48
+HAPT,17,13,2,add_only,Sit,0.571428571,60
+HAPT,17,13,2,add_only,Stand,0.802139037,76
+HAPT,17,13,2,add_only,Lie,1.000000000,76
+HAPT,17,13,2,proposed,Walk,0.842105263,68
+HAPT,17,13,2,proposed,Stairs up,0.912280702,60
+HAPT,17,13,2,proposed,Stairs down,0.827586207,48
+HAPT,17,13,2,proposed,Sit,1.000000000,60
+HAPT,17,13,2,proposed,Stand,0.993377483,76
+HAPT,17,13,2,proposed,Lie,1.000000000,76
+HAPT,43,13,2,no_correction,Walk,0.164705882,68
+HAPT,43,13,2,no_correction,Stairs up,0.789115646,60
+HAPT,43,13,2,no_correction,Stairs down,0.611570248,48
+HAPT,43,13,2,no_correction,Sit,0.899082569,60
+HAPT,43,13,2,no_correction,Stand,0.925925926,76
+HAPT,43,13,2,no_correction,Lie,1.000000000,76
+HAPT,43,13,2,add_only,Walk,0.666666667,68
+HAPT,43,13,2,add_only,Stairs up,0.805555556,60
+HAPT,43,13,2,add_only,Stairs down,0.746987952,48
+HAPT,43,13,2,add_only,Sit,0.604651163,60
+HAPT,43,13,2,add_only,Stand,0.810810811,76
+HAPT,43,13,2,add_only,Lie,1.000000000,76
+HAPT,43,13,2,proposed,Walk,0.797385621,68
+HAPT,43,13,2,proposed,Stairs up,0.905982906,60
+HAPT,43,13,2,proposed,Stairs down,0.746987952,48
+HAPT,43,13,2,proposed,Sit,1.000000000,60
+HAPT,43,13,2,proposed,Stand,0.993377483,76
+HAPT,43,13,2,proposed,Lie,1.000000000,76
+HAPT,101,13,2,no_correction,Walk,0.810126582,68
+HAPT,101,13,2,no_correction,Stairs up,0.892857143,60
+HAPT,101,13,2,no_correction,Stairs down,0.771084337,48
+HAPT,101,13,2,no_correction,Sit,0.571428571,60
+HAPT,101,13,2,no_correction,Stand,0.802139037,76
+HAPT,101,13,2,no_correction,Lie,1.000000000,76
+HAPT,101,13,2,add_only,Walk,0.739884393,68
+HAPT,101,13,2,add_only,Stairs up,0.721649485,60
+HAPT,101,13,2,add_only,Stairs down,0.771084337,48
+HAPT,101,13,2,add_only,Sit,0.571428571,60
+HAPT,101,13,2,add_only,Stand,0.802139037,76
+HAPT,101,13,2,add_only,Lie,1.000000000,76
+HAPT,101,13,2,proposed,Walk,0.750000000,68
+HAPT,101,13,2,proposed,Stairs up,0.769230769,60
+HAPT,101,13,2,proposed,Stairs down,0.765432099,48
+HAPT,101,13,2,proposed,Sit,0.789473684,60
+HAPT,101,13,2,proposed,Stand,0.722689076,76
+HAPT,101,13,2,proposed,Lie,1.000000000,76
+HAPT,17,14,2,no_correction,Walk,0.000000000,72
+HAPT,17,14,2,no_correction,Stairs up,0.173333333,64
+HAPT,17,14,2,no_correction,Stairs down,0.870588235,48
+HAPT,17,14,2,no_correction,Sit,0.875000000,72
+HAPT,17,14,2,no_correction,Stand,0.904761905,76
+HAPT,17,14,2,no_correction,Lie,1.000000000,64
+HAPT,17,14,2,add_only,Walk,0.947368421,72
+HAPT,17,14,2,add_only,Stairs up,0.947368421,64
+HAPT,17,14,2,add_only,Stairs down,0.843373494,48
+HAPT,17,14,2,add_only,Sit,0.666666667,72
+HAPT,17,14,2,add_only,Stand,0.808510638,76
+HAPT,17,14,2,add_only,Lie,1.000000000,64
+HAPT,17,14,2,proposed,Walk,0.972972973,72
+HAPT,17,14,2,proposed,Stairs up,0.933333333,64
+HAPT,17,14,2,proposed,Stairs down,0.870588235,48
+HAPT,17,14,2,proposed,Sit,0.666666667,72
+HAPT,17,14,2,proposed,Stand,0.808510638,76
+HAPT,17,14,2,proposed,Lie,1.000000000,64
+HAPT,43,14,2,no_correction,Walk,0.795580110,72
+HAPT,43,14,2,no_correction,Stairs up,0.867256637,64
+HAPT,43,14,2,no_correction,Stairs down,0.702702703,48
+HAPT,43,14,2,no_correction,Sit,0.666666667,72
+HAPT,43,14,2,no_correction,Stand,0.808510638,76
+HAPT,43,14,2,no_correction,Lie,1.000000000,64
+HAPT,43,14,2,add_only,Walk,0.888888889,72
+HAPT,43,14,2,add_only,Stairs up,0.960629921,64
+HAPT,43,14,2,add_only,Stairs down,0.784810127,48
+HAPT,43,14,2,add_only,Sit,0.666666667,72
+HAPT,43,14,2,add_only,Stand,0.808510638,76
+HAPT,43,14,2,add_only,Lie,1.000000000,64
+HAPT,43,14,2,proposed,Walk,0.966442953,72
+HAPT,43,14,2,proposed,Stairs up,0.933333333,64
+HAPT,43,14,2,proposed,Stairs down,0.857142857,48
+HAPT,43,14,2,proposed,Sit,0.666666667,72
+HAPT,43,14,2,proposed,Stand,0.808510638,76
+HAPT,43,14,2,proposed,Lie,1.000000000,64
+HAPT,101,14,2,no_correction,Walk,0.852071006,72
+HAPT,101,14,2,no_correction,Stairs up,0.960000000,64
+HAPT,101,14,2,no_correction,Stairs down,0.702702703,48
+HAPT,101,14,2,no_correction,Sit,0.789915966,72
+HAPT,101,14,2,no_correction,Stand,0.858757062,76
+HAPT,101,14,2,no_correction,Lie,1.000000000,64
+HAPT,101,14,2,add_only,Walk,0.888888889,72
+HAPT,101,14,2,add_only,Stairs up,0.953125000,64
+HAPT,101,14,2,add_only,Stairs down,0.769230769,48
+HAPT,101,14,2,add_only,Sit,0.666666667,72
+HAPT,101,14,2,add_only,Stand,0.808510638,76
+HAPT,101,14,2,add_only,Lie,1.000000000,64
+HAPT,101,14,2,proposed,Walk,0.947368421,72
+HAPT,101,14,2,proposed,Stairs up,0.933333333,64
+HAPT,101,14,2,proposed,Stairs down,0.814814815,48
+HAPT,101,14,2,proposed,Sit,0.666666667,72
+HAPT,101,14,2,proposed,Stand,0.808510638,76
+HAPT,101,14,2,proposed,Lie,1.000000000,64
+HAPT,17,15,2,no_correction,Walk,0.795031056,64
+HAPT,17,15,2,no_correction,Stairs up,0.715789474,60
+HAPT,17,15,2,no_correction,Stairs down,0.933333333,48
+HAPT,17,15,2,no_correction,Sit,0.645161290,84
+HAPT,17,15,2,no_correction,Stand,0.741573034,68
+HAPT,17,15,2,no_correction,Lie,1.000000000,96
+HAPT,17,15,2,add_only,Walk,0.815286624,64
+HAPT,17,15,2,add_only,Stairs up,0.755102041,60
+HAPT,17,15,2,add_only,Stairs down,0.945054945,48
+HAPT,17,15,2,add_only,Sit,0.645161290,84
+HAPT,17,15,2,add_only,Stand,0.741573034,68
+HAPT,17,15,2,add_only,Lie,1.000000000,96
+HAPT,17,15,2,proposed,Walk,0.805031447,64
+HAPT,17,15,2,proposed,Stairs up,0.767676768,60
+HAPT,17,15,2,proposed,Stairs down,0.909090909,48
+HAPT,17,15,2,proposed,Sit,0.645161290,84
+HAPT,17,15,2,proposed,Stand,0.741573034,68
+HAPT,17,15,2,proposed,Lie,1.000000000,96
+HAPT,43,15,2,no_correction,Walk,0.815286624,64
+HAPT,43,15,2,no_correction,Stairs up,0.851851852,60
+HAPT,43,15,2,no_correction,Stairs down,0.814814815,48
+HAPT,43,15,2,no_correction,Sit,0.645161290,84
+HAPT,43,15,2,no_correction,Stand,0.741573034,68
+HAPT,43,15,2,no_correction,Lie,1.000000000,96
+HAPT,43,15,2,add_only,Walk,0.820512821,64
+HAPT,43,15,2,add_only,Stairs up,0.859813084,60
+HAPT,43,15,2,add_only,Stairs down,0.843373494,48
+HAPT,43,15,2,add_only,Sit,0.645161290,84
+HAPT,43,15,2,add_only,Stand,0.741573034,68
+HAPT,43,15,2,add_only,Lie,1.000000000,96
+HAPT,43,15,2,proposed,Walk,0.800000000,64
+HAPT,43,15,2,proposed,Stairs up,0.755102041,60
+HAPT,43,15,2,proposed,Stairs down,0.909090909,48
+HAPT,43,15,2,proposed,Sit,0.645161290,84
+HAPT,43,15,2,proposed,Stand,0.741573034,68
+HAPT,43,15,2,proposed,Lie,1.000000000,96
+HAPT,101,15,2,no_correction,Walk,0.853333333,64
+HAPT,101,15,2,no_correction,Stairs up,0.859813084,60
+HAPT,101,15,2,no_correction,Stairs down,0.909090909,48
+HAPT,101,15,2,no_correction,Sit,0.645161290,84
+HAPT,101,15,2,no_correction,Stand,0.748603352,68
+HAPT,101,15,2,no_correction,Lie,1.000000000,96
+HAPT,101,15,2,add_only,Walk,0.795031056,64
+HAPT,101,15,2,add_only,Stairs up,0.767676768,60
+HAPT,101,15,2,add_only,Stairs down,0.870588235,48
+HAPT,101,15,2,add_only,Sit,0.645161290,84
+HAPT,101,15,2,add_only,Stand,0.748603352,68
+HAPT,101,15,2,add_only,Lie,1.000000000,96
+HAPT,101,15,2,proposed,Walk,0.805031447,64
+HAPT,101,15,2,proposed,Stairs up,0.767676768,60
+HAPT,101,15,2,proposed,Stairs down,0.896551724,48
+HAPT,101,15,2,proposed,Sit,0.645161290,84
+HAPT,101,15,2,proposed,Stand,0.748603352,68
+HAPT,101,15,2,proposed,Lie,1.000000000,96
+HAPT,17,16,2,no_correction,Walk,0.723163842,64
+HAPT,17,16,2,no_correction,Stairs up,0.750000000,60
+HAPT,17,16,2,no_correction,Stairs down,0.712643678,56
+HAPT,17,16,2,no_correction,Sit,0.984615385,96
+HAPT,17,16,2,no_correction,Stand,0.985365854,104
+HAPT,17,16,2,no_correction,Lie,1.000000000,88
+HAPT,17,16,2,add_only,Walk,0.735632184,64
+HAPT,17,16,2,add_only,Stairs up,0.750000000,60
+HAPT,17,16,2,add_only,Stairs down,0.755555556,56
+HAPT,17,16,2,add_only,Sit,0.842105263,96
+HAPT,17,16,2,add_only,Stand,0.790697674,104
+HAPT,17,16,2,add_only,Lie,1.000000000,88
+HAPT,17,16,2,proposed,Walk,0.707182320,64
+HAPT,17,16,2,proposed,Stairs up,0.651685393,60
+HAPT,17,16,2,proposed,Stairs down,0.755555556,56
+HAPT,17,16,2,proposed,Sit,0.648648649,96
+HAPT,17,16,2,proposed,Stand,0.000000000,104
+HAPT,17,16,2,proposed,Lie,1.000000000,88
+HAPT,43,16,2,no_correction,Walk,0.727272727,64
+HAPT,43,16,2,no_correction,Stairs up,0.723404255,60
+HAPT,43,16,2,no_correction,Stairs down,0.755555556,56
+HAPT,43,16,2,no_correction,Sit,0.000000000,96
+HAPT,43,16,2,no_correction,Stand,0.684210526,104
+HAPT,43,16,2,no_correction,Lie,1.000000000,88
+HAPT,43,16,2,add_only,Walk,0.723163842,64
+HAPT,43,16,2,add_only,Stairs up,0.709677419,60
+HAPT,43,16,2,add_only,Stairs down,0.755555556,56
+HAPT,43,16,2,add_only,Sit,0.736842105,96
+HAPT,43,16,2,add_only,Stand,0.838709677,104
+HAPT,43,16,2,add_only,Lie,1.000000000,88
+HAPT,43,16,2,proposed,Walk,0.711111111,64
+HAPT,43,16,2,proposed,Stairs up,0.666666667,60
+HAPT,43,16,2,proposed,Stairs down,0.755555556,56
+HAPT,43,16,2,proposed,Sit,0.648648649,96
+HAPT,43,16,2,proposed,Stand,0.000000000,104
+HAPT,43,16,2,proposed,Lie,1.000000000,88
+HAPT,101,16,2,no_correction,Walk,0.711111111,64
+HAPT,101,16,2,no_correction,Stairs up,0.666666667,60
+HAPT,101,16,2,no_correction,Stairs down,0.755555556,56
+HAPT,101,16,2,no_correction,Sit,0.736842105,96
+HAPT,101,16,2,no_correction,Stand,0.838709677,104
+HAPT,101,16,2,no_correction,Lie,1.000000000,88
+HAPT,101,16,2,add_only,Walk,0.711111111,64
+HAPT,101,16,2,add_only,Stairs up,0.666666667,60
+HAPT,101,16,2,add_only,Stairs down,0.755555556,56
+HAPT,101,16,2,add_only,Sit,0.863905325,96
+HAPT,101,16,2,add_only,Stand,0.900432900,104
+HAPT,101,16,2,add_only,Lie,1.000000000,88
+HAPT,101,16,2,proposed,Walk,0.711111111,64
+HAPT,101,16,2,proposed,Stairs up,0.666666667,60
+HAPT,101,16,2,proposed,Stairs down,0.755555556,56
+HAPT,101,16,2,proposed,Sit,0.648648649,96
+HAPT,101,16,2,proposed,Stand,0.000000000,104
+HAPT,101,16,2,proposed,Lie,1.000000000,88
+HAPT,17,17,2,no_correction,Walk,0.727272727,72
+HAPT,17,17,2,no_correction,Stairs up,0.838709677,60
+HAPT,17,17,2,no_correction,Stairs down,0.712643678,56
+HAPT,17,17,2,no_correction,Sit,1.000000000,76
+HAPT,17,17,2,no_correction,Stand,1.000000000,92
+HAPT,17,17,2,no_correction,Lie,1.000000000,92
+HAPT,17,17,2,add_only,Walk,0.731428571,72
+HAPT,17,17,2,add_only,Stairs up,0.807017544,60
+HAPT,17,17,2,add_only,Stairs down,0.712643678,56
+HAPT,17,17,2,add_only,Sit,0.793650794,76
+HAPT,17,17,2,add_only,Stand,0.876190476,92
+HAPT,17,17,2,add_only,Lie,1.000000000,92
+HAPT,17,17,2,proposed,Walk,0.761904762,72
+HAPT,17,17,2,proposed,Stairs up,0.787878788,60
+HAPT,17,17,2,proposed,Stairs down,0.727272727,56
+HAPT,17,17,2,proposed,Sit,0.689655172,76
+HAPT,17,17,2,proposed,Stand,0.836363636,92
+HAPT,17,17,2,proposed,Lie,1.000000000,92
+HAPT,43,17,2,no_correction,Walk,0.813559322,72
+HAPT,43,17,2,no_correction,Stairs up,0.938053097,60
+HAPT,43,17,2,no_correction,Stairs down,0.697674419,56
+HAPT,43,17,2,no_correction,Sit,0.000000000,76
+HAPT,43,17,2,no_correction,Stand,0.707692308,92
+HAPT,43,17,2,no_correction,Lie,1.000000000,92
+HAPT,43,17,2,add_only,Walk,0.808988764,72
+HAPT,43,17,2,add_only,Stairs up,0.938053097,60
+HAPT,43,17,2,add_only,Stairs down,0.682352941,56
+HAPT,43,17,2,add_only,Sit,0.000000000,76
+HAPT,43,17,2,add_only,Stand,0.707692308,92
+HAPT,43,17,2,add_only,Lie,1.000000000,92
+HAPT,43,17,2,proposed,Walk,0.774193548,72
+HAPT,43,17,2,proposed,Stairs up,0.834951456,60
+HAPT,43,17,2,proposed,Stairs down,0.712643678,56
+HAPT,43,17,2,proposed,Sit,0.689655172,76
+HAPT,43,17,2,proposed,Stand,0.836363636,92
+HAPT,43,17,2,proposed,Lie,1.000000000,92
+HAPT,101,17,2,no_correction,Walk,0.761904762,72
+HAPT,101,17,2,no_correction,Stairs up,0.775510204,60
+HAPT,101,17,2,no_correction,Stairs down,0.741573034,56
+HAPT,101,17,2,no_correction,Sit,1.000000000,76
+HAPT,101,17,2,no_correction,Stand,1.000000000,92
+HAPT,101,17,2,no_correction,Lie,1.000000000,92
+HAPT,101,17,2,add_only,Walk,0.757894737,72
+HAPT,101,17,2,add_only,Stairs up,0.775510204,60
+HAPT,101,17,2,add_only,Stairs down,0.727272727,56
+HAPT,101,17,2,add_only,Sit,1.000000000,76
+HAPT,101,17,2,add_only,Stand,1.000000000,92
+HAPT,101,17,2,add_only,Lie,1.000000000,92
+HAPT,101,17,2,proposed,Walk,0.761904762,72
+HAPT,101,17,2,proposed,Stairs up,0.800000000,60
+HAPT,101,17,2,proposed,Stairs down,0.712643678,56
+HAPT,101,17,2,proposed,Sit,1.000000000,76
+HAPT,101,17,2,proposed,Stand,1.000000000,92
+HAPT,101,17,2,proposed,Lie,1.000000000,92
+HAPT,17,18,2,no_correction,Walk,0.000000000,68
+HAPT,17,18,2,no_correction,Stairs up,0.605042017,72
+HAPT,17,18,2,no_correction,Stairs down,0.745098039,64
+HAPT,17,18,2,no_correction,Sit,0.640000000,68
+HAPT,17,18,2,no_correction,Stand,0.836363636,92
+HAPT,17,18,2,no_correction,Lie,1.000000000,88
+HAPT,17,18,2,add_only,Walk,0.721893491,68
+HAPT,17,18,2,add_only,Stairs up,0.879432624,72
+HAPT,17,18,2,add_only,Stairs down,0.693877551,64
+HAPT,17,18,2,add_only,Sit,0.640000000,68
+HAPT,17,18,2,add_only,Stand,0.836363636,92
+HAPT,17,18,2,add_only,Lie,1.000000000,88
+HAPT,17,18,2,proposed,Walk,0.683417085,68
+HAPT,17,18,2,proposed,Stairs up,0.714285714,72
+HAPT,17,18,2,proposed,Stairs down,0.680412371,64
+HAPT,17,18,2,proposed,Sit,0.640000000,68
+HAPT,17,18,2,proposed,Stand,0.836363636,92
+HAPT,17,18,2,proposed,Lie,1.000000000,88
+HAPT,43,18,2,no_correction,Walk,0.680000000,68
+HAPT,43,18,2,no_correction,Stairs up,0.725663717,72
+HAPT,43,18,2,no_correction,Stairs down,0.652631579,64
+HAPT,43,18,2,no_correction,Sit,0.612244898,68
+HAPT,43,18,2,no_correction,Stand,0.828828829,92
+HAPT,43,18,2,no_correction,Lie,1.000000000,88
+HAPT,43,18,2,add_only,Walk,0.676616915,68
+HAPT,43,18,2,add_only,Stairs up,0.725663717,72
+HAPT,43,18,2,add_only,Stairs down,0.638297872,64
+HAPT,43,18,2,add_only,Sit,0.612244898,68
+HAPT,43,18,2,add_only,Stand,0.828828829,92
+HAPT,43,18,2,add_only,Lie,1.000000000,88
+HAPT,43,18,2,proposed,Walk,0.680000000,68
+HAPT,43,18,2,proposed,Stairs up,0.714285714,72
+HAPT,43,18,2,proposed,Stairs down,0.666666667,64
+HAPT,43,18,2,proposed,Sit,0.640000000,68
+HAPT,43,18,2,proposed,Stand,0.836363636,92
+HAPT,43,18,2,proposed,Lie,1.000000000,88
+HAPT,101,18,2,no_correction,Walk,0.676616915,68
+HAPT,101,18,2,no_correction,Stairs up,0.714285714,72
+HAPT,101,18,2,no_correction,Stairs down,0.652631579,64
+HAPT,101,18,2,no_correction,Sit,0.640000000,68
+HAPT,101,18,2,no_correction,Stand,0.836363636,92
+HAPT,101,18,2,no_correction,Lie,1.000000000,88
+HAPT,101,18,2,add_only,Walk,0.676616915,68
+HAPT,101,18,2,add_only,Stairs up,0.714285714,72
+HAPT,101,18,2,add_only,Stairs down,0.652631579,64
+HAPT,101,18,2,add_only,Sit,0.640000000,68
+HAPT,101,18,2,add_only,Stand,0.836363636,92
+HAPT,101,18,2,add_only,Lie,1.000000000,88
+HAPT,101,18,2,proposed,Walk,0.663414634,68
+HAPT,101,18,2,proposed,Stairs up,0.666666667,72
+HAPT,101,18,2,proposed,Stairs down,0.652631579,64
+HAPT,101,18,2,proposed,Sit,0.640000000,68
+HAPT,101,18,2,proposed,Stand,0.836363636,92
+HAPT,101,18,2,proposed,Lie,1.000000000,88
+HAPT,17,19,2,no_correction,Walk,0.884057971,64
+HAPT,17,19,2,no_correction,Stairs up,0.967741935,48
+HAPT,17,19,2,no_correction,Stairs down,0.853932584,48
+HAPT,17,19,2,no_correction,Sit,0.580645161,88
+HAPT,17,19,2,no_correction,Stand,0.763636364,84
+HAPT,17,19,2,no_correction,Lie,1.000000000,104
+HAPT,17,19,2,add_only,Walk,0.884057971,64
+HAPT,17,19,2,add_only,Stairs up,0.967741935,48
+HAPT,17,19,2,add_only,Stairs down,0.853932584,48
+HAPT,17,19,2,add_only,Sit,0.580645161,88
+HAPT,17,19,2,add_only,Stand,0.763636364,84
+HAPT,17,19,2,add_only,Lie,1.000000000,104
+HAPT,17,19,2,proposed,Walk,0.884057971,64
+HAPT,17,19,2,proposed,Stairs up,0.967741935,48
+HAPT,17,19,2,proposed,Stairs down,0.853932584,48
+HAPT,17,19,2,proposed,Sit,0.614173228,88
+HAPT,17,19,2,proposed,Stand,0.774193548,84
+HAPT,17,19,2,proposed,Lie,1.000000000,104
+HAPT,43,19,2,no_correction,Walk,0.936507937,64
+HAPT,43,19,2,no_correction,Stairs up,1.000000000,48
+HAPT,43,19,2,no_correction,Stairs down,0.918367347,48
+HAPT,43,19,2,no_correction,Sit,0.742857143,88
+HAPT,43,19,2,no_correction,Stand,1.000000000,84
+HAPT,43,19,2,no_correction,Lie,0.852459016,104
+HAPT,43,19,2,add_only,Walk,0.935483871,64
+HAPT,43,19,2,add_only,Stairs up,1.000000000,48
+HAPT,43,19,2,add_only,Stairs down,0.920000000,48
+HAPT,43,19,2,add_only,Sit,0.742857143,88
+HAPT,43,19,2,add_only,Stand,1.000000000,84
+HAPT,43,19,2,add_only,Lie,0.852459016,104
+HAPT,43,19,2,proposed,Walk,0.818181818,64
+HAPT,43,19,2,proposed,Stairs up,1.000000000,48
+HAPT,43,19,2,proposed,Stairs down,0.824561404,48
+HAPT,43,19,2,proposed,Sit,0.742857143,88
+HAPT,43,19,2,proposed,Stand,1.000000000,84
+HAPT,43,19,2,proposed,Lie,0.852459016,104
+HAPT,101,19,2,no_correction,Walk,0.881355932,64
+HAPT,101,19,2,no_correction,Stairs up,1.000000000,48
+HAPT,101,19,2,no_correction,Stairs down,0.867924528,48
+HAPT,101,19,2,no_correction,Sit,0.742857143,88
+HAPT,101,19,2,no_correction,Stand,1.000000000,84
+HAPT,101,19,2,no_correction,Lie,0.852459016,104
+HAPT,101,19,2,add_only,Walk,0.881355932,64
+HAPT,101,19,2,add_only,Stairs up,1.000000000,48
+HAPT,101,19,2,add_only,Stairs down,0.867924528,48
+HAPT,101,19,2,add_only,Sit,0.742857143,88
+HAPT,101,19,2,add_only,Stand,1.000000000,84
+HAPT,101,19,2,add_only,Lie,0.852459016,104
+HAPT,101,19,2,proposed,Walk,0.740740741,64
+HAPT,101,19,2,proposed,Stairs up,0.967741935,48
+HAPT,101,19,2,proposed,Stairs down,0.789915966,48
+HAPT,101,19,2,proposed,Sit,0.742857143,88
+HAPT,101,19,2,proposed,Stand,1.000000000,84
+HAPT,101,19,2,proposed,Lie,0.852459016,104
+HAPT,17,20,2,no_correction,Walk,0.743801653,56
+HAPT,17,20,2,no_correction,Stairs up,0.991596639,60
+HAPT,17,20,2,no_correction,Stairs down,0.711538462,56
+HAPT,17,20,2,no_correction,Sit,0.620689655,80
+HAPT,17,20,2,no_correction,Stand,0.813559322,96
+HAPT,17,20,2,no_correction,Lie,1.000000000,88
+HAPT,17,20,2,add_only,Walk,0.820895522,56
+HAPT,17,20,2,add_only,Stairs up,0.991596639,60
+HAPT,17,20,2,add_only,Stairs down,0.747252747,56
+HAPT,17,20,2,add_only,Sit,0.620689655,80
+HAPT,17,20,2,add_only,Stand,0.813559322,96
+HAPT,17,20,2,add_only,Lie,1.000000000,88
+HAPT,17,20,2,proposed,Walk,0.774647887,56
+HAPT,17,20,2,proposed,Stairs up,0.918918919,60
+HAPT,17,20,2,proposed,Stairs down,0.747252747,56
+HAPT,17,20,2,proposed,Sit,0.620689655,80
+HAPT,17,20,2,proposed,Stand,0.813559322,96
+HAPT,17,20,2,proposed,Lie,1.000000000,88
+HAPT,43,20,2,no_correction,Walk,0.805755396,56
+HAPT,43,20,2,no_correction,Stairs up,0.947368421,60
+HAPT,43,20,2,no_correction,Stairs down,0.769230769,56
+HAPT,43,20,2,no_correction,Sit,0.000000000,80
+HAPT,43,20,2,no_correction,Stand,0.705882353,96
+HAPT,43,20,2,no_correction,Lie,1.000000000,88
+HAPT,43,20,2,add_only,Walk,0.805755396,56
+HAPT,43,20,2,add_only,Stairs up,0.947368421,60
+HAPT,43,20,2,add_only,Stairs down,0.769230769,56
+HAPT,43,20,2,add_only,Sit,0.461538462,80
+HAPT,43,20,2,add_only,Stand,0.774193548,96
+HAPT,43,20,2,add_only,Lie,1.000000000,88
+HAPT,43,20,2,proposed,Walk,0.805755396,56
+HAPT,43,20,2,proposed,Stairs up,0.947368421,60
+HAPT,43,20,2,proposed,Stairs down,0.769230769,56
+HAPT,43,20,2,proposed,Sit,0.608695652,80
+HAPT,43,20,2,proposed,Stand,0.810126582,96
+HAPT,43,20,2,proposed,Lie,1.000000000,88
+HAPT,101,20,2,no_correction,Walk,0.767123288,56
+HAPT,101,20,2,no_correction,Stairs up,0.928571429,60
+HAPT,101,20,2,no_correction,Stairs down,0.697674419,56
+HAPT,101,20,2,no_correction,Sit,0.000000000,80
+HAPT,101,20,2,no_correction,Stand,0.705882353,96
+HAPT,101,20,2,no_correction,Lie,1.000000000,88
+HAPT,101,20,2,add_only,Walk,0.756756757,56
+HAPT,101,20,2,add_only,Stairs up,0.928571429,60
+HAPT,101,20,2,add_only,Stairs down,0.666666667,56
+HAPT,101,20,2,add_only,Sit,0.000000000,80
+HAPT,101,20,2,add_only,Stand,0.705882353,96
+HAPT,101,20,2,add_only,Lie,1.000000000,88
+HAPT,101,20,2,proposed,Walk,0.751677852,56
+HAPT,101,20,2,proposed,Stairs up,0.867924528,60
+HAPT,101,20,2,proposed,Stairs down,0.741573034,56
+HAPT,101,20,2,proposed,Sit,0.620689655,80
+HAPT,101,20,2,proposed,Stand,0.813559322,96
+HAPT,101,20,2,proposed,Lie,1.000000000,88
+HAPT,17,21,2,no_correction,Walk,0.800000000,64
+HAPT,17,21,2,no_correction,Stairs up,0.804597701,52
+HAPT,17,21,2,no_correction,Stairs down,0.831460674,52
+HAPT,17,21,2,no_correction,Sit,1.000000000,96
+HAPT,17,21,2,no_correction,Stand,1.000000000,116
+HAPT,17,21,2,no_correction,Lie,1.000000000,116
+HAPT,17,21,2,add_only,Walk,0.805031447,64
+HAPT,17,21,2,add_only,Stairs up,0.818181818,52
+HAPT,17,21,2,add_only,Stairs down,0.831460674,52
+HAPT,17,21,2,add_only,Sit,1.000000000,96
+HAPT,17,21,2,add_only,Stand,1.000000000,116
+HAPT,17,21,2,add_only,Lie,1.000000000,116
+HAPT,17,21,2,proposed,Walk,0.853333333,64
+HAPT,17,21,2,proposed,Stairs up,0.949494949,52
+HAPT,17,21,2,proposed,Stairs down,0.804597701,52
+HAPT,17,21,2,proposed,Sit,1.000000000,96
+HAPT,17,21,2,proposed,Stand,1.000000000,116
+HAPT,17,21,2,proposed,Lie,1.000000000,116
+HAPT,43,21,2,no_correction,Walk,0.870748299,64
+HAPT,43,21,2,no_correction,Stairs up,0.980392157,52
+HAPT,43,21,2,no_correction,Stairs down,0.804597701,52
+HAPT,43,21,2,no_correction,Sit,0.628571429,96
+HAPT,43,21,2,no_correction,Stand,0.816901408,116
+HAPT,43,21,2,no_correction,Lie,1.000000000,116
+HAPT,43,21,2,add_only,Walk,0.870748299,64
+HAPT,43,21,2,add_only,Stairs up,0.980392157,52
+HAPT,43,21,2,add_only,Stairs down,0.804597701,52
+HAPT,43,21,2,add_only,Sit,0.628571429,96
+HAPT,43,21,2,add_only,Stand,0.816901408,116
+HAPT,43,21,2,add_only,Lie,1.000000000,116
+HAPT,43,21,2,proposed,Walk,0.870748299,64
+HAPT,43,21,2,proposed,Stairs up,0.980392157,52
+HAPT,43,21,2,proposed,Stairs down,0.804597701,52
+HAPT,43,21,2,proposed,Sit,1.000000000,96
+HAPT,43,21,2,proposed,Stand,1.000000000,116
+HAPT,43,21,2,proposed,Lie,1.000000000,116
+HAPT,101,21,2,no_correction,Walk,0.859060403,64
+HAPT,101,21,2,no_correction,Stairs up,1.000000000,52
+HAPT,101,21,2,no_correction,Stairs down,0.746987952,52
+HAPT,101,21,2,no_correction,Sit,1.000000000,96
+HAPT,101,21,2,no_correction,Stand,1.000000000,116
+HAPT,101,21,2,no_correction,Lie,1.000000000,116
+HAPT,101,21,2,add_only,Walk,0.876712329,64
+HAPT,101,21,2,add_only,Stairs up,1.000000000,52
+HAPT,101,21,2,add_only,Stairs down,0.790697674,52
+HAPT,101,21,2,add_only,Sit,1.000000000,96
+HAPT,101,21,2,add_only,Stand,1.000000000,116
+HAPT,101,21,2,add_only,Lie,1.000000000,116
+HAPT,101,21,2,proposed,Walk,0.882758621,64
+HAPT,101,21,2,proposed,Stairs up,0.990291262,52
+HAPT,101,21,2,proposed,Stairs down,0.818181818,52
+HAPT,101,21,2,proposed,Sit,1.000000000,96
+HAPT,101,21,2,proposed,Stand,1.000000000,116
+HAPT,101,21,2,proposed,Lie,1.000000000,116
+HAPT,17,22,2,no_correction,Walk,0.817518248,56
+HAPT,17,22,2,no_correction,Stairs up,0.909090909,48
+HAPT,17,22,2,no_correction,Stairs down,0.784810127,48
+HAPT,17,22,2,no_correction,Sit,1.000000000,76
+HAPT,17,22,2,no_correction,Stand,1.000000000,80
+HAPT,17,22,2,no_correction,Lie,1.000000000,84
+HAPT,17,22,2,add_only,Walk,0.817518248,56
+HAPT,17,22,2,add_only,Stairs up,0.909090909,48
+HAPT,17,22,2,add_only,Stairs down,0.784810127,48
+HAPT,17,22,2,add_only,Sit,1.000000000,76
+HAPT,17,22,2,add_only,Stand,1.000000000,80
+HAPT,17,22,2,add_only,Lie,1.000000000,84
+HAPT,17,22,2,proposed,Walk,0.811594203,56
+HAPT,17,22,2,proposed,Stairs up,0.870588235,48
+HAPT,17,22,2,proposed,Stairs down,0.814814815,48
+HAPT,17,22,2,proposed,Sit,1.000000000,76
+HAPT,17,22,2,proposed,Stand,1.000000000,80
+HAPT,17,22,2,proposed,Lie,1.000000000,84
+HAPT,43,22,2,no_correction,Walk,0.550000000,56
+HAPT,43,22,2,no_correction,Stairs up,0.789915966,48
+HAPT,43,22,2,no_correction,Stairs down,0.492307692,48
+HAPT,43,22,2,no_correction,Sit,0.642857143,76
+HAPT,43,22,2,no_correction,Stand,0.800000000,80
+HAPT,43,22,2,no_correction,Lie,1.000000000,84
+HAPT,43,22,2,add_only,Walk,0.800000000,56
+HAPT,43,22,2,add_only,Stairs up,0.930693069,48
+HAPT,43,22,2,add_only,Stairs down,0.769230769,48
+HAPT,43,22,2,add_only,Sit,0.642857143,76
+HAPT,43,22,2,add_only,Stand,0.800000000,80
+HAPT,43,22,2,add_only,Lie,1.000000000,84
+HAPT,43,22,2,proposed,Walk,0.800000000,56
+HAPT,43,22,2,proposed,Stairs up,0.857142857,48
+HAPT,43,22,2,proposed,Stairs down,0.800000000,48
+HAPT,43,22,2,proposed,Sit,0.711864407,76
+HAPT,43,22,2,proposed,Stand,0.824742268,80
+HAPT,43,22,2,proposed,Lie,1.000000000,84
+HAPT,101,22,2,no_correction,Walk,0.875000000,56
+HAPT,101,22,2,no_correction,Stairs up,0.989473684,48
+HAPT,101,22,2,no_correction,Stairs down,0.814814815,48
+HAPT,101,22,2,no_correction,Sit,1.000000000,76
+HAPT,101,22,2,no_correction,Stand,1.000000000,80
+HAPT,101,22,2,no_correction,Lie,1.000000000,84
+HAPT,101,22,2,add_only,Walk,0.805755396,56
+HAPT,101,22,2,add_only,Stairs up,0.857142857,48
+HAPT,101,22,2,add_only,Stairs down,0.814814815,48
+HAPT,101,22,2,add_only,Sit,1.000000000,76
+HAPT,101,22,2,add_only,Stand,1.000000000,80
+HAPT,101,22,2,add_only,Lie,1.000000000,84
+HAPT,101,22,2,proposed,Walk,0.805755396,56
+HAPT,101,22,2,proposed,Stairs up,0.857142857,48
+HAPT,101,22,2,proposed,Stairs down,0.814814815,48
+HAPT,101,22,2,proposed,Sit,1.000000000,76
+HAPT,101,22,2,proposed,Stand,1.000000000,80
+HAPT,101,22,2,proposed,Lie,1.000000000,84
+HAPT,17,23,2,no_correction,Walk,0.852713178,72
+HAPT,17,23,2,no_correction,Stairs up,1.000000000,64
+HAPT,17,23,2,no_correction,Stairs down,0.867132867,64
+HAPT,17,23,2,no_correction,Sit,0.978723404,72
+HAPT,17,23,2,no_correction,Stand,0.983240223,88
+HAPT,17,23,2,no_correction,Lie,1.000000000,96
+HAPT,17,23,2,add_only,Walk,0.929032258,72
+HAPT,17,23,2,add_only,Stairs up,0.992125984,64
+HAPT,17,23,2,add_only,Stairs down,0.915254237,64
+HAPT,17,23,2,add_only,Sit,0.985915493,72
+HAPT,17,23,2,add_only,Stand,0.988764045,88
+HAPT,17,23,2,add_only,Lie,1.000000000,96
+HAPT,17,23,2,proposed,Walk,0.847058824,72
+HAPT,17,23,2,proposed,Stairs up,0.992125984,64
+HAPT,17,23,2,proposed,Stairs down,0.757281553,64
+HAPT,17,23,2,proposed,Sit,1.000000000,72
+HAPT,17,23,2,proposed,Stand,1.000000000,88
+HAPT,17,23,2,proposed,Lie,1.000000000,96
+HAPT,43,23,2,no_correction,Walk,0.786885246,72
+HAPT,43,23,2,no_correction,Stairs up,1.000000000,64
+HAPT,43,23,2,no_correction,Stairs down,0.561797753,64
+HAPT,43,23,2,no_correction,Sit,0.615384615,72
+HAPT,43,23,2,no_correction,Stand,0.814814815,88
+HAPT,43,23,2,no_correction,Lie,1.000000000,96
+HAPT,43,23,2,add_only,Walk,0.793296089,72
+HAPT,43,23,2,add_only,Stairs up,0.992248062,64
+HAPT,43,23,2,add_only,Stairs down,0.608695652,64
+HAPT,43,23,2,add_only,Sit,0.615384615,72
+HAPT,43,23,2,add_only,Stand,0.814814815,88
+HAPT,43,23,2,add_only,Lie,1.000000000,96
+HAPT,43,23,2,proposed,Walk,0.822857143,72
+HAPT,43,23,2,proposed,Stairs up,0.992125984,64
+HAPT,43,23,2,proposed,Stairs down,0.693877551,64
+HAPT,43,23,2,proposed,Sit,0.615384615,72
+HAPT,43,23,2,proposed,Stand,0.814814815,88
+HAPT,43,23,2,proposed,Lie,1.000000000,96
+HAPT,101,23,2,no_correction,Walk,0.941176471,72
+HAPT,101,23,2,no_correction,Stairs up,1.000000000,64
+HAPT,101,23,2,no_correction,Stairs down,0.924369748,64
+HAPT,101,23,2,no_correction,Sit,0.615384615,72
+HAPT,101,23,2,no_correction,Stand,0.814814815,88
+HAPT,101,23,2,no_correction,Lie,1.000000000,96
+HAPT,101,23,2,add_only,Walk,0.878048780,72
+HAPT,101,23,2,add_only,Stairs up,1.000000000,64
+HAPT,101,23,2,add_only,Stairs down,0.814814815,64
+HAPT,101,23,2,add_only,Sit,0.615384615,72
+HAPT,101,23,2,add_only,Stand,0.814814815,88
+HAPT,101,23,2,add_only,Lie,1.000000000,96
+HAPT,101,23,2,proposed,Walk,0.827586207,72
+HAPT,101,23,2,proposed,Stairs up,0.992125984,64
+HAPT,101,23,2,proposed,Stairs down,0.707070707,64
+HAPT,101,23,2,proposed,Sit,0.615384615,72
+HAPT,101,23,2,proposed,Stand,0.141414141,88
+HAPT,101,23,2,proposed,Lie,1.000000000,96
+HAPT,17,24,2,no_correction,Walk,0.687782805,76
+HAPT,17,24,2,no_correction,Stairs up,0.725663717,72
+HAPT,17,24,2,no_correction,Stairs down,0.641509434,72
+HAPT,17,24,2,no_correction,Sit,0.600000000,84
+HAPT,17,24,2,no_correction,Stand,0.793103448,92
+HAPT,17,24,2,no_correction,Lie,1.000000000,88
+HAPT,17,24,2,add_only,Walk,0.694063927,76
+HAPT,17,24,2,add_only,Stairs up,0.725663717,72
+HAPT,17,24,2,add_only,Stairs down,0.666666667,72
+HAPT,17,24,2,add_only,Sit,0.600000000,84
+HAPT,17,24,2,add_only,Stand,0.793103448,92
+HAPT,17,24,2,add_only,Lie,1.000000000,88
+HAPT,17,24,2,proposed,Walk,0.691244240,76
+HAPT,17,24,2,proposed,Stairs up,0.736842105,72
+HAPT,17,24,2,proposed,Stairs down,0.660550459,72
+HAPT,17,24,2,proposed,Sit,0.634146341,84
+HAPT,17,24,2,proposed,Stand,0.803493450,92
+HAPT,17,24,2,proposed,Lie,1.000000000,88
+HAPT,43,24,2,no_correction,Walk,0.743455497,76
+HAPT,43,24,2,no_correction,Stairs up,0.959459459,72
+HAPT,43,24,2,no_correction,Stairs down,0.574257426,72
+HAPT,43,24,2,no_correction,Sit,0.600000000,84
+HAPT,43,24,2,no_correction,Stand,0.793103448,92
+HAPT,43,24,2,no_correction,Lie,1.000000000,88
+HAPT,43,24,2,add_only,Walk,0.738461538,76
+HAPT,43,24,2,add_only,Stairs up,0.937062937,72
+HAPT,43,24,2,add_only,Stairs down,0.588235294,72
+HAPT,43,24,2,add_only,Sit,0.600000000,84
+HAPT,43,24,2,add_only,Stand,0.793103448,92
+HAPT,43,24,2,add_only,Lie,1.000000000,88
+HAPT,43,24,2,proposed,Walk,0.691244240,76
+HAPT,43,24,2,proposed,Stairs up,0.747826087,72
+HAPT,43,24,2,proposed,Stairs down,0.648148148,72
+HAPT,43,24,2,proposed,Sit,0.666666667,84
+HAPT,43,24,2,proposed,Stand,0.814159292,92
+HAPT,43,24,2,proposed,Lie,1.000000000,88
+HAPT,101,24,2,no_correction,Walk,0.813186813,76
+HAPT,101,24,2,no_correction,Stairs up,1.000000000,72
+HAPT,101,24,2,no_correction,Stairs down,0.701754386,72
+HAPT,101,24,2,no_correction,Sit,0.600000000,84
+HAPT,101,24,2,no_correction,Stand,0.793103448,92
+HAPT,101,24,2,no_correction,Lie,1.000000000,88
+HAPT,101,24,2,add_only,Walk,0.706976744,76
+HAPT,101,24,2,add_only,Stairs up,0.747826087,72
+HAPT,101,24,2,add_only,Stairs down,0.690909091,72
+HAPT,101,24,2,add_only,Sit,0.600000000,84
+HAPT,101,24,2,add_only,Stand,0.793103448,92
+HAPT,101,24,2,add_only,Lie,1.000000000,88
+HAPT,101,24,2,proposed,Walk,0.687782805,76
+HAPT,101,24,2,proposed,Stairs up,0.725663717,72
+HAPT,101,24,2,proposed,Stairs down,0.641509434,72
+HAPT,101,24,2,proposed,Sit,0.634146341,84
+HAPT,101,24,2,proposed,Stand,0.803493450,92
+HAPT,101,24,2,proposed,Lie,1.000000000,88
+HAPT,17,25,2,no_correction,Walk,0.548780488,96
+HAPT,17,25,2,no_correction,Stairs up,0.705882353,72
+HAPT,17,25,2,no_correction,Stairs down,0.692307692,68
+HAPT,17,25,2,no_correction,Sit,0.000000000,76
+HAPT,17,25,2,no_correction,Stand,0.707692308,92
+HAPT,17,25,2,no_correction,Lie,0.941798942,100
+HAPT,17,25,2,add_only,Walk,0.593023256,96
+HAPT,17,25,2,add_only,Stairs up,0.730964467,72
+HAPT,17,25,2,add_only,Stairs down,0.679611650,68
+HAPT,17,25,2,add_only,Sit,0.000000000,76
+HAPT,17,25,2,add_only,Stand,0.707692308,92
+HAPT,17,25,2,add_only,Lie,0.941798942,100
+HAPT,17,25,2,proposed,Walk,0.825688073,96
+HAPT,17,25,2,proposed,Stairs up,0.972972973,72
+HAPT,17,25,2,proposed,Stairs down,0.679245283,68
+HAPT,17,25,2,proposed,Sit,0.000000000,76
+HAPT,17,25,2,proposed,Stand,0.707692308,92
+HAPT,17,25,2,proposed,Lie,0.918918919,100
+HAPT,43,25,2,no_correction,Walk,0.727272727,96
+HAPT,43,25,2,no_correction,Stairs up,0.831168831,72
+HAPT,43,25,2,no_correction,Stairs down,0.715596330,68
+HAPT,43,25,2,no_correction,Sit,0.400000000,76
+HAPT,43,25,2,no_correction,Stand,0.763485477,92
+HAPT,43,25,2,no_correction,Lie,1.000000000,100
+HAPT,43,25,2,add_only,Walk,0.790476190,96
+HAPT,43,25,2,add_only,Stairs up,0.929032258,72
+HAPT,43,25,2,add_only,Stairs down,0.691588785,68
+HAPT,43,25,2,add_only,Sit,0.986666667,76
+HAPT,43,25,2,add_only,Stand,0.989247312,92
+HAPT,43,25,2,add_only,Lie,1.000000000,100
+HAPT,43,25,2,proposed,Walk,0.796296296,96
+HAPT,43,25,2,proposed,Stairs up,0.947368421,72
+HAPT,43,25,2,proposed,Stairs down,0.653846154,68
+HAPT,43,25,2,proposed,Sit,0.986666667,76
+HAPT,43,25,2,proposed,Stand,0.989247312,92
+HAPT,43,25,2,proposed,Lie,1.000000000,100
+HAPT,101,25,2,no_correction,Walk,0.805555556,96
+HAPT,101,25,2,no_correction,Stairs up,0.953642384,72
+HAPT,101,25,2,no_correction,Stairs down,0.666666667,68
+HAPT,101,25,2,no_correction,Sit,0.000000000,76
+HAPT,101,25,2,no_correction,Stand,0.707692308,92
+HAPT,101,25,2,no_correction,Lie,1.000000000,100
+HAPT,101,25,2,add_only,Walk,0.805555556,96
+HAPT,101,25,2,add_only,Stairs up,0.953642384,72
+HAPT,101,25,2,add_only,Stairs down,0.666666667,68
+HAPT,101,25,2,add_only,Sit,0.000000000,76
+HAPT,101,25,2,add_only,Stand,0.707692308,92
+HAPT,101,25,2,add_only,Lie,1.000000000,100
+HAPT,101,25,2,proposed,Walk,0.805555556,96
+HAPT,101,25,2,proposed,Stairs up,0.953642384,72
+HAPT,101,25,2,proposed,Stairs down,0.666666667,68
+HAPT,101,25,2,proposed,Sit,0.000000000,76
+HAPT,101,25,2,proposed,Stand,0.707692308,92
+HAPT,101,25,2,proposed,Lie,1.000000000,100
+HAPT,17,26,2,no_correction,Walk,0.756218905,76
+HAPT,17,26,2,no_correction,Stairs up,0.787878788,60
+HAPT,17,26,2,no_correction,Stairs down,0.720000000,64
+HAPT,17,26,2,no_correction,Sit,0.000000000,84
+HAPT,17,26,2,no_correction,Stand,0.686567164,92
+HAPT,17,26,2,no_correction,Lie,1.000000000,104
+HAPT,17,26,2,add_only,Walk,0.756218905,76
+HAPT,17,26,2,add_only,Stairs up,0.787878788,60
+HAPT,17,26,2,add_only,Stairs down,0.720000000,64
+HAPT,17,26,2,add_only,Sit,0.611570248,84
+HAPT,17,26,2,add_only,Stand,0.796536797,92
+HAPT,17,26,2,add_only,Lie,1.000000000,104
+HAPT,17,26,2,proposed,Walk,0.756218905,76
+HAPT,17,26,2,proposed,Stairs up,0.787878788,60
+HAPT,17,26,2,proposed,Stairs down,0.720000000,64
+HAPT,17,26,2,proposed,Sit,0.645161290,84
+HAPT,17,26,2,proposed,Stand,0.807017544,92
+HAPT,17,26,2,proposed,Lie,1.000000000,104
+HAPT,43,26,2,no_correction,Walk,0.771573604,76
+HAPT,43,26,2,no_correction,Stairs up,0.823529412,60
+HAPT,43,26,2,no_correction,Stairs down,0.732673267,64
+HAPT,43,26,2,no_correction,Sit,0.645161290,84
+HAPT,43,26,2,no_correction,Stand,0.807017544,92
+HAPT,43,26,2,no_correction,Lie,1.000000000,104
+HAPT,43,26,2,add_only,Walk,0.760000000,76
+HAPT,43,26,2,add_only,Stairs up,0.800000000,60
+HAPT,43,26,2,add_only,Stairs down,0.720000000,64
+HAPT,43,26,2,add_only,Sit,0.645161290,84
+HAPT,43,26,2,add_only,Stand,0.807017544,92
+HAPT,43,26,2,add_only,Lie,1.000000000,104
+HAPT,43,26,2,proposed,Walk,0.760000000,76
+HAPT,43,26,2,proposed,Stairs up,0.787878788,60
+HAPT,43,26,2,proposed,Stairs down,0.732673267,64
+HAPT,43,26,2,proposed,Sit,0.645161290,84
+HAPT,43,26,2,proposed,Stand,0.807017544,92
+HAPT,43,26,2,proposed,Lie,1.000000000,104
+HAPT,101,26,2,no_correction,Walk,0.775510204,76
+HAPT,101,26,2,no_correction,Stairs up,0.823529412,60
+HAPT,101,26,2,no_correction,Stairs down,0.745098039,64
+HAPT,101,26,2,no_correction,Sit,0.645161290,84
+HAPT,101,26,2,no_correction,Stand,0.807017544,92
+HAPT,101,26,2,no_correction,Lie,1.000000000,104
+HAPT,101,26,2,add_only,Walk,0.760000000,76
+HAPT,101,26,2,add_only,Stairs up,0.787878788,60
+HAPT,101,26,2,add_only,Stairs down,0.732673267,64
+HAPT,101,26,2,add_only,Sit,0.645161290,84
+HAPT,101,26,2,add_only,Stand,0.807017544,92
+HAPT,101,26,2,add_only,Lie,1.000000000,104
+HAPT,101,26,2,proposed,Walk,0.760000000,76
+HAPT,101,26,2,proposed,Stairs up,0.787878788,60
+HAPT,101,26,2,proposed,Stairs down,0.732673267,64
+HAPT,101,26,2,proposed,Sit,0.645161290,84
+HAPT,101,26,2,proposed,Stand,0.807017544,92
+HAPT,101,26,2,proposed,Lie,1.000000000,104
+HAPT,17,27,2,no_correction,Walk,0.857142857,72
+HAPT,17,27,2,no_correction,Stairs up,0.991735537,60
+HAPT,17,27,2,no_correction,Stairs down,0.712643678,56
+HAPT,17,27,2,no_correction,Sit,0.645161290,84
+HAPT,17,27,2,no_correction,Stand,0.835820896,112
+HAPT,17,27,2,no_correction,Lie,1.000000000,96
+HAPT,17,27,2,add_only,Walk,0.795580110,72
+HAPT,17,27,2,add_only,Stairs up,0.888888889,60
+HAPT,17,27,2,add_only,Stairs down,0.712643678,56
+HAPT,17,27,2,add_only,Sit,0.645161290,84
+HAPT,17,27,2,add_only,Stand,0.835820896,112
+HAPT,17,27,2,add_only,Lie,1.000000000,96
+HAPT,17,27,2,proposed,Walk,0.800000000,72
+HAPT,17,27,2,proposed,Stairs up,0.918918919,60
+HAPT,17,27,2,proposed,Stairs down,0.682352941,56
+HAPT,17,27,2,proposed,Sit,0.645161290,84
+HAPT,17,27,2,proposed,Stand,0.835820896,112
+HAPT,17,27,2,proposed,Lie,1.000000000,96
+HAPT,43,27,2,no_correction,Walk,0.825581395,72
+HAPT,43,27,2,no_correction,Stairs up,0.966101695,60
+HAPT,43,27,2,no_correction,Stairs down,0.697674419,56
+HAPT,43,27,2,no_correction,Sit,0.645161290,84
+HAPT,43,27,2,no_correction,Stand,0.835820896,112
+HAPT,43,27,2,no_correction,Lie,1.000000000,96
+HAPT,43,27,2,add_only,Walk,0.820809249,72
+HAPT,43,27,2,add_only,Stairs up,0.966101695,60
+HAPT,43,27,2,add_only,Stairs down,0.682352941,56
+HAPT,43,27,2,add_only,Sit,0.645161290,84
+HAPT,43,27,2,add_only,Stand,0.835820896,112
+HAPT,43,27,2,add_only,Lie,1.000000000,96
+HAPT,43,27,2,proposed,Walk,0.791208791,72
+HAPT,43,27,2,proposed,Stairs up,0.888888889,60
+HAPT,43,27,2,proposed,Stairs down,0.697674419,56
+HAPT,43,27,2,proposed,Sit,0.645161290,84
+HAPT,43,27,2,proposed,Stand,0.835820896,112
+HAPT,43,27,2,proposed,Lie,1.000000000,96
+HAPT,101,27,2,no_correction,Walk,0.823529412,72
+HAPT,101,27,2,no_correction,Stairs up,0.966666667,60
+HAPT,101,27,2,no_correction,Stairs down,0.697674419,56
+HAPT,101,27,2,no_correction,Sit,0.645161290,84
+HAPT,101,27,2,no_correction,Stand,0.835820896,112
+HAPT,101,27,2,no_correction,Lie,1.000000000,96
+HAPT,101,27,2,add_only,Walk,0.818713450,72
+HAPT,101,27,2,add_only,Stairs up,0.966666667,60
+HAPT,101,27,2,add_only,Stairs down,0.682352941,56
+HAPT,101,27,2,add_only,Sit,0.645161290,84
+HAPT,101,27,2,add_only,Stand,0.835820896,112
+HAPT,101,27,2,add_only,Lie,1.000000000,96
+HAPT,101,27,2,proposed,Walk,0.791208791,72
+HAPT,101,27,2,proposed,Stairs up,0.888888889,60
+HAPT,101,27,2,proposed,Stairs down,0.697674419,56
+HAPT,101,27,2,proposed,Sit,0.645161290,84
+HAPT,101,27,2,proposed,Stand,0.835820896,112
+HAPT,101,27,2,proposed,Lie,1.000000000,96
+HAPT,17,28,2,no_correction,Walk,0.888888889,64
+HAPT,17,28,2,no_correction,Stairs up,0.880000000,56
+HAPT,17,28,2,no_correction,Stairs down,0.960000000,52
+HAPT,17,28,2,no_correction,Sit,0.654205607,72
+HAPT,17,28,2,no_correction,Stand,0.832579186,92
+HAPT,17,28,2,no_correction,Lie,1.000000000,92
+HAPT,17,28,2,add_only,Walk,0.901408451,64
+HAPT,17,28,2,add_only,Stairs up,0.901960784,56
+HAPT,17,28,2,add_only,Stairs down,0.960000000,52
+HAPT,17,28,2,add_only,Sit,0.666666667,72
+HAPT,17,28,2,add_only,Stand,0.836363636,92
+HAPT,17,28,2,add_only,Lie,1.000000000,92
+HAPT,17,28,2,proposed,Walk,0.920863309,64
+HAPT,17,28,2,proposed,Stairs up,0.933333333,56
+HAPT,17,28,2,proposed,Stairs down,0.960000000,52
+HAPT,17,28,2,proposed,Sit,0.666666667,72
+HAPT,17,28,2,proposed,Stand,0.836363636,92
+HAPT,17,28,2,proposed,Lie,1.000000000,92
+HAPT,43,28,2,no_correction,Walk,0.941176471,64
+HAPT,43,28,2,no_correction,Stairs up,0.962962963,56
+HAPT,43,28,2,no_correction,Stairs down,0.960000000,52
+HAPT,43,28,2,no_correction,Sit,0.000000000,72
+HAPT,43,28,2,no_correction,Stand,0.718750000,92
+HAPT,43,28,2,no_correction,Lie,0.647058824,92
+HAPT,43,28,2,add_only,Walk,0.888888889,64
+HAPT,43,28,2,add_only,Stairs up,0.871287129,56
+HAPT,43,28,2,add_only,Stairs down,0.960000000,52
+HAPT,43,28,2,add_only,Sit,0.000000000,72
+HAPT,43,28,2,add_only,Stand,0.718750000,92
+HAPT,43,28,2,add_only,Lie,0.647058824,92
+HAPT,43,28,2,proposed,Walk,0.914285714,64
+HAPT,43,28,2,proposed,Stairs up,0.803278689,56
+HAPT,43,28,2,proposed,Stairs down,0.949494949,52
+HAPT,43,28,2,proposed,Sit,0.666666667,72
+HAPT,43,28,2,proposed,Stand,0.836363636,92
+HAPT,43,28,2,proposed,Lie,0.898203593,92
+HAPT,101,28,2,no_correction,Walk,0.882758621,64
+HAPT,101,28,2,no_correction,Stairs up,0.897196262,56
+HAPT,101,28,2,no_correction,Stairs down,0.905263158,52
+HAPT,101,28,2,no_correction,Sit,0.637168142,72
+HAPT,101,28,2,no_correction,Stand,0.669230769,92
+HAPT,101,28,2,no_correction,Lie,0.647058824,92
+HAPT,101,28,2,add_only,Walk,0.888888889,64
+HAPT,101,28,2,add_only,Stairs up,0.897196262,56
+HAPT,101,28,2,add_only,Stairs down,0.916666667,52
+HAPT,101,28,2,add_only,Sit,0.470588235,72
+HAPT,101,28,2,add_only,Stand,0.836363636,92
+HAPT,101,28,2,add_only,Lie,0.647058824,92
+HAPT,101,28,2,proposed,Walk,0.907801418,64
+HAPT,101,28,2,proposed,Stairs up,0.886792453,56
+HAPT,101,28,2,proposed,Stairs down,0.960000000,52
+HAPT,101,28,2,proposed,Sit,0.470588235,72
+HAPT,101,28,2,proposed,Stand,0.836363636,92
+HAPT,101,28,2,proposed,Lie,0.647058824,92
+HAPT,17,29,2,no_correction,Walk,0.757396450,64
+HAPT,17,29,2,no_correction,Stairs up,0.878504673,60
+HAPT,17,29,2,no_correction,Stairs down,0.695652174,60
+HAPT,17,29,2,no_correction,Sit,0.000000000,80
+HAPT,17,29,2,no_correction,Stand,0.687500000,88
+HAPT,17,29,2,no_correction,Lie,1.000000000,72
+HAPT,17,29,2,add_only,Walk,0.744186047,64
+HAPT,17,29,2,add_only,Stairs up,0.834951456,60
+HAPT,17,29,2,add_only,Stairs down,0.709677419,60
+HAPT,17,29,2,add_only,Sit,0.000000000,80
+HAPT,17,29,2,add_only,Stand,0.687500000,88
+HAPT,17,29,2,add_only,Lie,1.000000000,72
+HAPT,17,29,2,proposed,Walk,0.707182320,64
+HAPT,17,29,2,proposed,Stairs up,0.723404255,60
+HAPT,17,29,2,proposed,Stairs down,0.709677419,60
+HAPT,17,29,2,proposed,Sit,1.000000000,80
+HAPT,17,29,2,proposed,Stand,1.000000000,88
+HAPT,17,29,2,proposed,Lie,1.000000000,72
+HAPT,43,29,2,no_correction,Walk,0.707182320,64
+HAPT,43,29,2,no_correction,Stairs up,0.787878788,60
+HAPT,43,29,2,no_correction,Stairs down,0.636363636,60
+HAPT,43,29,2,no_correction,Sit,0.000000000,80
+HAPT,43,29,2,no_correction,Stand,0.687500000,88
+HAPT,43,29,2,no_correction,Lie,1.000000000,72
+HAPT,43,29,2,add_only,Walk,0.711111111,64
+HAPT,43,29,2,add_only,Stairs up,0.787878788,60
+HAPT,43,29,2,add_only,Stairs down,0.651685393,60
+HAPT,43,29,2,add_only,Sit,0.000000000,80
+HAPT,43,29,2,add_only,Stand,0.687500000,88
+HAPT,43,29,2,add_only,Lie,1.000000000,72
+HAPT,43,29,2,proposed,Walk,0.707182320,64
+HAPT,43,29,2,proposed,Stairs up,0.723404255,60
+HAPT,43,29,2,proposed,Stairs down,0.709677419,60
+HAPT,43,29,2,proposed,Sit,1.000000000,80
+HAPT,43,29,2,proposed,Stand,1.000000000,88
+HAPT,43,29,2,proposed,Lie,1.000000000,72
+HAPT,101,29,2,no_correction,Walk,0.795031056,64
+HAPT,101,29,2,no_correction,Stairs up,0.991596639,60
+HAPT,101,29,2,no_correction,Stairs down,0.636363636,60
+HAPT,101,29,2,no_correction,Sit,0.000000000,80
+HAPT,101,29,2,no_correction,Stand,0.687500000,88
+HAPT,101,29,2,no_correction,Lie,1.000000000,72
+HAPT,101,29,2,add_only,Walk,0.790123457,64
+HAPT,101,29,2,add_only,Stairs up,0.983050847,60
+HAPT,101,29,2,add_only,Stairs down,0.636363636,60
+HAPT,101,29,2,add_only,Sit,0.000000000,80
+HAPT,101,29,2,add_only,Stand,0.687500000,88
+HAPT,101,29,2,add_only,Lie,1.000000000,72
+HAPT,101,29,2,proposed,Walk,0.719101124,64
+HAPT,101,29,2,proposed,Stairs up,0.762886598,60
+HAPT,101,29,2,proposed,Stairs down,0.709677419,60
+HAPT,101,29,2,proposed,Sit,1.000000000,80
+HAPT,101,29,2,proposed,Stand,1.000000000,88
+HAPT,101,29,2,proposed,Lie,1.000000000,72
+HAPT,17,30,2,no_correction,Walk,0.680851064,80
+HAPT,17,30,2,no_correction,Stairs up,0.641509434,72
+HAPT,17,30,2,no_correction,Stairs down,0.654205607,72
+HAPT,17,30,2,no_correction,Sit,1.000000000,76
+HAPT,17,30,2,no_correction,Stand,1.000000000,84
+HAPT,17,30,2,no_correction,Lie,1.000000000,80
+HAPT,17,30,2,add_only,Walk,0.693693694,80
+HAPT,17,30,2,add_only,Stairs up,0.641509434,72
+HAPT,17,30,2,add_only,Stairs down,0.750000000,72
+HAPT,17,30,2,add_only,Sit,1.000000000,76
+HAPT,17,30,2,add_only,Stand,1.000000000,84
+HAPT,17,30,2,add_only,Lie,1.000000000,80
+HAPT,17,30,2,proposed,Walk,0.698689956,80
+HAPT,17,30,2,proposed,Stairs up,0.641509434,72
+HAPT,17,30,2,proposed,Stairs down,0.725663717,72
+HAPT,17,30,2,proposed,Sit,0.592592593,76
+HAPT,17,30,2,proposed,Stand,0.792452830,84
+HAPT,17,30,2,proposed,Lie,1.000000000,80
+HAPT,43,30,2,no_correction,Walk,0.784313725,80
+HAPT,43,30,2,no_correction,Stairs up,0.857142857,72
+HAPT,43,30,2,no_correction,Stairs down,0.779661017,72
+HAPT,43,30,2,no_correction,Sit,0.592592593,76
+HAPT,43,30,2,no_correction,Stand,0.792452830,84
+HAPT,43,30,2,no_correction,Lie,1.000000000,80
+HAPT,43,30,2,add_only,Walk,0.723981900,80
+HAPT,43,30,2,add_only,Stairs up,0.758620690,72
+HAPT,43,30,2,add_only,Stairs down,0.702702703,72
+HAPT,43,30,2,add_only,Sit,0.592592593,76
+HAPT,43,30,2,add_only,Stand,0.792452830,84
+HAPT,43,30,2,add_only,Lie,1.000000000,80
+HAPT,43,30,2,proposed,Walk,0.711111111,80
+HAPT,43,30,2,proposed,Stairs up,0.725663717,72
+HAPT,43,30,2,proposed,Stairs down,0.690909091,72
+HAPT,43,30,2,proposed,Sit,0.722689076,76
+HAPT,43,30,2,proposed,Stand,0.835820896,84
+HAPT,43,30,2,proposed,Lie,1.000000000,80
+HAPT,101,30,2,no_correction,Walk,0.802030457,80
+HAPT,101,30,2,no_correction,Stairs up,0.971830986,72
+HAPT,101,30,2,no_correction,Stairs down,0.678899083,72
+HAPT,101,30,2,no_correction,Sit,1.000000000,76
+HAPT,101,30,2,no_correction,Stand,1.000000000,84
+HAPT,101,30,2,no_correction,Lie,1.000000000,80
+HAPT,101,30,2,add_only,Walk,0.776699029,80
+HAPT,101,30,2,add_only,Stairs up,0.883720930,72
+HAPT,101,30,2,add_only,Stairs down,0.725663717,72
+HAPT,101,30,2,add_only,Sit,1.000000000,76
+HAPT,101,30,2,add_only,Stand,1.000000000,84
+HAPT,101,30,2,add_only,Lie,1.000000000,80
+HAPT,101,30,2,proposed,Walk,0.704845815,80
+HAPT,101,30,2,proposed,Stairs up,0.702702703,72
+HAPT,101,30,2,proposed,Stairs down,0.690909091,72
+HAPT,101,30,2,proposed,Sit,1.000000000,76
+HAPT,101,30,2,proposed,Stand,1.000000000,84
+HAPT,101,30,2,proposed,Lie,1.000000000,80
+MotionSense,17,1,2,no_correction,Walk,0.937500000,48
+MotionSense,17,1,2,no_correction,Stairs up,0.957746479,36
+MotionSense,17,1,2,no_correction,Stairs down,0.955223881,32
+MotionSense,17,1,2,no_correction,Sit,1.000000000,408
+MotionSense,17,1,2,no_correction,Stand,1.000000000,96
+MotionSense,17,1,2,no_correction,Jog,0.981818182,56
+MotionSense,17,1,2,add_only,Walk,0.959183673,48
+MotionSense,17,1,2,add_only,Stairs up,0.972222222,36
+MotionSense,17,1,2,add_only,Stairs down,0.984615385,32
+MotionSense,17,1,2,add_only,Sit,1.000000000,408
+MotionSense,17,1,2,add_only,Stand,1.000000000,96
+MotionSense,17,1,2,add_only,Jog,0.972477064,56
+MotionSense,17,1,2,proposed,Walk,1.000000000,48
+MotionSense,17,1,2,proposed,Stairs up,0.972972973,36
+MotionSense,17,1,2,proposed,Stairs down,1.000000000,32
+MotionSense,17,1,2,proposed,Sit,1.000000000,408
+MotionSense,17,1,2,proposed,Stand,1.000000000,96
+MotionSense,17,1,2,proposed,Jog,0.981818182,56
+MotionSense,43,1,2,no_correction,Walk,0.792452830,48
+MotionSense,43,1,2,no_correction,Stairs up,0.716417910,36
+MotionSense,43,1,2,no_correction,Stairs down,0.918032787,32
+MotionSense,43,1,2,no_correction,Sit,1.000000000,408
+MotionSense,43,1,2,no_correction,Stand,1.000000000,96
+MotionSense,43,1,2,no_correction,Jog,0.981818182,56
+MotionSense,43,1,2,add_only,Walk,0.800000000,48
+MotionSense,43,1,2,add_only,Stairs up,0.666666667,36
+MotionSense,43,1,2,add_only,Stairs down,0.935483871,32
+MotionSense,43,1,2,add_only,Sit,1.000000000,408
+MotionSense,43,1,2,add_only,Stand,1.000000000,96
+MotionSense,43,1,2,add_only,Jog,0.981818182,56
+MotionSense,43,1,2,proposed,Walk,0.817391304,48
+MotionSense,43,1,2,proposed,Stairs up,0.629629630,36
+MotionSense,43,1,2,proposed,Stairs down,0.984615385,32
+MotionSense,43,1,2,proposed,Sit,1.000000000,408
+MotionSense,43,1,2,proposed,Stand,1.000000000,96
+MotionSense,43,1,2,proposed,Jog,0.981818182,56
+MotionSense,101,1,2,no_correction,Walk,0.760000000,48
+MotionSense,101,1,2,no_correction,Stairs up,0.029850746,36
+MotionSense,101,1,2,no_correction,Stairs down,0.268656716,32
+MotionSense,101,1,2,no_correction,Sit,1.000000000,408
+MotionSense,101,1,2,no_correction,Stand,1.000000000,96
+MotionSense,101,1,2,no_correction,Jog,0.981818182,56
+MotionSense,101,1,2,add_only,Walk,0.827586207,48
+MotionSense,101,1,2,add_only,Stairs up,0.260869565,36
+MotionSense,101,1,2,add_only,Stairs down,0.250000000,32
+MotionSense,101,1,2,add_only,Sit,1.000000000,408
+MotionSense,101,1,2,add_only,Stand,1.000000000,96
+MotionSense,101,1,2,add_only,Jog,0.981818182,56
+MotionSense,101,1,2,proposed,Walk,0.768000000,48
+MotionSense,101,1,2,proposed,Stairs up,0.304347826,36
+MotionSense,101,1,2,proposed,Stairs down,0.000000000,32
+MotionSense,101,1,2,proposed,Sit,1.000000000,408
+MotionSense,101,1,2,proposed,Stand,1.000000000,96
+MotionSense,101,1,2,proposed,Jog,0.981818182,56
+MotionSense,17,2,2,no_correction,Walk,0.987755102,248
+MotionSense,17,2,2,no_correction,Stairs up,0.886075949,44
+MotionSense,17,2,2,no_correction,Stairs down,0.842105263,40
+MotionSense,17,2,2,no_correction,Sit,1.000000000,144
+MotionSense,17,2,2,no_correction,Stand,1.000000000,92
+MotionSense,17,2,2,no_correction,Jog,1.000000000,52
+MotionSense,17,2,2,add_only,Walk,0.989816701,248
+MotionSense,17,2,2,add_only,Stairs up,0.926829268,44
+MotionSense,17,2,2,add_only,Stairs down,0.879120879,40
+MotionSense,17,2,2,add_only,Sit,1.000000000,144
+MotionSense,17,2,2,add_only,Stand,1.000000000,92
+MotionSense,17,2,2,add_only,Jog,1.000000000,52
+MotionSense,17,2,2,proposed,Walk,0.951076321,248
+MotionSense,17,2,2,proposed,Stairs up,0.742857143,44
+MotionSense,17,2,2,proposed,Stairs down,0.843373494,40
+MotionSense,17,2,2,proposed,Sit,1.000000000,144
+MotionSense,17,2,2,proposed,Stand,1.000000000,92
+MotionSense,17,2,2,proposed,Jog,1.000000000,52
+MotionSense,43,2,2,no_correction,Walk,0.933837429,248
+MotionSense,43,2,2,no_correction,Stairs up,0.724637681,44
+MotionSense,43,2,2,no_correction,Stairs down,0.666666667,40
+MotionSense,43,2,2,no_correction,Sit,1.000000000,144
+MotionSense,43,2,2,no_correction,Stand,1.000000000,92
+MotionSense,43,2,2,no_correction,Jog,1.000000000,52
+MotionSense,43,2,2,add_only,Walk,0.940499040,248
+MotionSense,43,2,2,add_only,Stairs up,0.742857143,44
+MotionSense,43,2,2,add_only,Stairs down,0.712328767,40
+MotionSense,43,2,2,add_only,Sit,1.000000000,144
+MotionSense,43,2,2,add_only,Stand,1.000000000,92
+MotionSense,43,2,2,add_only,Jog,1.000000000,52
+MotionSense,43,2,2,proposed,Walk,0.968379447,248
+MotionSense,43,2,2,proposed,Stairs up,0.777777778,44
+MotionSense,43,2,2,proposed,Stairs down,0.790697674,40
+MotionSense,43,2,2,proposed,Sit,1.000000000,144
+MotionSense,43,2,2,proposed,Stand,1.000000000,92
+MotionSense,43,2,2,proposed,Jog,1.000000000,52
+MotionSense,101,2,2,no_correction,Walk,0.687830688,248
+MotionSense,101,2,2,no_correction,Stairs up,0.470588235,44
+MotionSense,101,2,2,no_correction,Stairs down,0.586206897,40
+MotionSense,101,2,2,no_correction,Sit,1.000000000,144
+MotionSense,101,2,2,no_correction,Stand,1.000000000,92
+MotionSense,101,2,2,no_correction,Jog,1.000000000,52
+MotionSense,101,2,2,add_only,Walk,0.882882883,248
+MotionSense,101,2,2,add_only,Stairs up,0.666666667,44
+MotionSense,101,2,2,add_only,Stairs down,0.680000000,40
+MotionSense,101,2,2,add_only,Sit,1.000000000,144
+MotionSense,101,2,2,add_only,Stand,1.000000000,92
+MotionSense,101,2,2,add_only,Jog,1.000000000,52
+MotionSense,101,2,2,proposed,Walk,0.983935743,248
+MotionSense,101,2,2,proposed,Stairs up,0.915662651,44
+MotionSense,101,2,2,proposed,Stairs down,0.819277108,40
+MotionSense,101,2,2,proposed,Sit,1.000000000,144
+MotionSense,101,2,2,proposed,Stand,1.000000000,92
+MotionSense,101,2,2,proposed,Jog,1.000000000,52
+MotionSense,17,3,2,no_correction,Walk,0.902777778,140
+MotionSense,17,3,2,no_correction,Stairs up,0.854368932,44
+MotionSense,17,3,2,no_correction,Stairs down,0.933333333,40
+MotionSense,17,3,2,no_correction,Sit,1.000000000,72
+MotionSense,17,3,2,no_correction,Stand,1.000000000,156
+MotionSense,17,3,2,no_correction,Jog,0.742857143,44
+MotionSense,17,3,2,add_only,Walk,0.979020979,140
+MotionSense,17,3,2,add_only,Stairs up,0.954545455,44
+MotionSense,17,3,2,add_only,Stairs down,0.962962963,40
+MotionSense,17,3,2,add_only,Sit,1.000000000,72
+MotionSense,17,3,2,add_only,Stand,1.000000000,156
+MotionSense,17,3,2,add_only,Jog,0.913580247,44
+MotionSense,17,3,2,proposed,Walk,1.000000000,140
+MotionSense,17,3,2,proposed,Stairs up,0.933333333,44
+MotionSense,17,3,2,proposed,Stairs down,0.962962963,40
+MotionSense,17,3,2,proposed,Sit,1.000000000,72
+MotionSense,17,3,2,proposed,Stand,1.000000000,156
+MotionSense,17,3,2,proposed,Jog,0.964705882,44
+MotionSense,43,3,2,no_correction,Walk,0.164705882,140
+MotionSense,43,3,2,no_correction,Stairs up,0.554744526,44
+MotionSense,43,3,2,no_correction,Stairs down,0.331034483,40
+MotionSense,43,3,2,no_correction,Sit,1.000000000,72
+MotionSense,43,3,2,no_correction,Stand,1.000000000,156
+MotionSense,43,3,2,no_correction,Jog,0.952380952,44
+MotionSense,43,3,2,add_only,Walk,0.744394619,140
+MotionSense,43,3,2,add_only,Stairs up,0.567567568,44
+MotionSense,43,3,2,add_only,Stairs down,0.962962963,40
+MotionSense,43,3,2,add_only,Sit,1.000000000,72
+MotionSense,43,3,2,add_only,Stand,1.000000000,156
+MotionSense,43,3,2,add_only,Jog,0.952380952,44
+MotionSense,43,3,2,proposed,Walk,0.985611511,140
+MotionSense,43,3,2,proposed,Stairs up,0.863636364,44
+MotionSense,43,3,2,proposed,Stairs down,0.919540230,40
+MotionSense,43,3,2,proposed,Sit,1.000000000,72
+MotionSense,43,3,2,proposed,Stand,1.000000000,156
+MotionSense,43,3,2,proposed,Jog,0.939759036,44
+MotionSense,101,3,2,no_correction,Walk,0.913907285,140
+MotionSense,101,3,2,no_correction,Stairs up,0.862745098,44
+MotionSense,101,3,2,no_correction,Stairs down,0.888888889,40
+MotionSense,101,3,2,no_correction,Sit,1.000000000,72
+MotionSense,101,3,2,no_correction,Stand,1.000000000,156
+MotionSense,101,3,2,no_correction,Jog,0.533333333,44
+MotionSense,101,3,2,add_only,Walk,0.975265018,140
+MotionSense,101,3,2,add_only,Stairs up,0.903225806,44
+MotionSense,101,3,2,add_only,Stairs down,0.962962963,40
+MotionSense,101,3,2,add_only,Sit,1.000000000,72
+MotionSense,101,3,2,add_only,Stand,1.000000000,156
+MotionSense,101,3,2,add_only,Jog,0.886075949,44
+MotionSense,101,3,2,proposed,Walk,0.996441281,140
+MotionSense,101,3,2,proposed,Stairs up,0.923076923,44
+MotionSense,101,3,2,proposed,Stairs down,0.962962963,40
+MotionSense,101,3,2,proposed,Sit,1.000000000,72
+MotionSense,101,3,2,proposed,Stand,1.000000000,156
+MotionSense,101,3,2,proposed,Jog,0.939759036,44
+MotionSense,17,4,2,no_correction,Walk,0.832369942,144
+MotionSense,17,4,2,no_correction,Stairs up,0.086956522,44
+MotionSense,17,4,2,no_correction,Stairs down,0.666666667,32
+MotionSense,17,4,2,no_correction,Sit,1.000000000,116
+MotionSense,17,4,2,no_correction,Stand,1.000000000,96
+MotionSense,17,4,2,no_correction,Jog,1.000000000,32
+MotionSense,17,4,2,add_only,Walk,0.875379939,144
+MotionSense,17,4,2,add_only,Stairs up,0.428571429,44
+MotionSense,17,4,2,add_only,Stairs down,0.800000000,32
+MotionSense,17,4,2,add_only,Sit,1.000000000,116
+MotionSense,17,4,2,add_only,Stand,1.000000000,96
+MotionSense,17,4,2,add_only,Jog,1.000000000,32
+MotionSense,17,4,2,proposed,Walk,0.923076923,144
+MotionSense,17,4,2,proposed,Stairs up,0.724637681,44
+MotionSense,17,4,2,proposed,Stairs down,0.881355932,32
+MotionSense,17,4,2,proposed,Sit,1.000000000,116
+MotionSense,17,4,2,proposed,Stand,1.000000000,96
+MotionSense,17,4,2,proposed,Jog,1.000000000,32
+MotionSense,43,4,2,no_correction,Walk,0.820895522,144
+MotionSense,43,4,2,no_correction,Stairs up,0.722222222,44
+MotionSense,43,4,2,no_correction,Stairs down,0.625000000,32
+MotionSense,43,4,2,no_correction,Sit,1.000000000,116
+MotionSense,43,4,2,no_correction,Stand,1.000000000,96
+MotionSense,43,4,2,no_correction,Jog,1.000000000,32
+MotionSense,43,4,2,add_only,Walk,0.932885906,144
+MotionSense,43,4,2,add_only,Stairs up,0.873563218,44
+MotionSense,43,4,2,add_only,Stairs down,0.727272727,32
+MotionSense,43,4,2,add_only,Sit,1.000000000,116
+MotionSense,43,4,2,add_only,Stand,1.000000000,96
+MotionSense,43,4,2,add_only,Jog,1.000000000,32
+MotionSense,43,4,2,proposed,Walk,0.923588040,144
+MotionSense,43,4,2,proposed,Stairs up,0.810810811,44
+MotionSense,43,4,2,proposed,Stairs down,0.861538462,32
+MotionSense,43,4,2,proposed,Sit,1.000000000,116
+MotionSense,43,4,2,proposed,Stand,1.000000000,96
+MotionSense,43,4,2,proposed,Jog,1.000000000,32
+MotionSense,101,4,2,no_correction,Walk,0.641509434,144
+MotionSense,101,4,2,no_correction,Stairs up,0.196078431,44
+MotionSense,101,4,2,no_correction,Stairs down,0.483870968,32
+MotionSense,101,4,2,no_correction,Sit,1.000000000,116
+MotionSense,101,4,2,no_correction,Stand,1.000000000,96
+MotionSense,101,4,2,no_correction,Jog,1.000000000,32
+MotionSense,101,4,2,add_only,Walk,0.886731392,144
+MotionSense,101,4,2,add_only,Stairs up,0.557377049,44
+MotionSense,101,4,2,add_only,Stairs down,0.828571429,32
+MotionSense,101,4,2,add_only,Sit,1.000000000,116
+MotionSense,101,4,2,add_only,Stand,1.000000000,96
+MotionSense,101,4,2,add_only,Jog,1.000000000,32
+MotionSense,101,4,2,proposed,Walk,0.908517350,144
+MotionSense,101,4,2,proposed,Stairs up,0.557377049,44
+MotionSense,101,4,2,proposed,Stairs down,0.903225806,32
+MotionSense,101,4,2,proposed,Sit,1.000000000,116
+MotionSense,101,4,2,proposed,Stand,1.000000000,96
+MotionSense,101,4,2,proposed,Jog,1.000000000,32
+MotionSense,17,5,2,no_correction,Walk,0.968421053,92
+MotionSense,17,5,2,no_correction,Stairs up,0.939393939,32
+MotionSense,17,5,2,no_correction,Stairs down,0.800000000,24
+MotionSense,17,5,2,no_correction,Sit,0.730434783,168
+MotionSense,17,5,2,no_correction,Stand,0.000000000,124
+MotionSense,17,5,2,no_correction,Jog,0.883720930,24
+MotionSense,17,5,2,add_only,Walk,0.983957219,92
+MotionSense,17,5,2,add_only,Stairs up,0.939393939,32
+MotionSense,17,5,2,add_only,Stairs down,0.851063830,24
+MotionSense,17,5,2,add_only,Sit,0.730434783,168
+MotionSense,17,5,2,add_only,Stand,0.000000000,124
+MotionSense,17,5,2,add_only,Jog,0.909090909,24
+MotionSense,17,5,2,proposed,Walk,1.000000000,92
+MotionSense,17,5,2,proposed,Stairs up,0.955223881,32
+MotionSense,17,5,2,proposed,Stairs down,0.875000000,24
+MotionSense,17,5,2,proposed,Sit,0.730434783,168
+MotionSense,17,5,2,proposed,Stand,0.000000000,124
+MotionSense,17,5,2,proposed,Jog,0.933333333,24
+MotionSense,43,5,2,no_correction,Walk,0.893401015,92
+MotionSense,43,5,2,no_correction,Stairs up,0.800000000,32
+MotionSense,43,5,2,no_correction,Stairs down,0.511627907,24
+MotionSense,43,5,2,no_correction,Sit,0.730434783,168
+MotionSense,43,5,2,no_correction,Stand,0.000000000,124
+MotionSense,43,5,2,no_correction,Jog,0.909090909,24
+MotionSense,43,5,2,add_only,Walk,0.860606061,92
+MotionSense,43,5,2,add_only,Stairs up,0.752941176,32
+MotionSense,43,5,2,add_only,Stairs down,0.960000000,24
+MotionSense,43,5,2,add_only,Sit,0.730434783,168
+MotionSense,43,5,2,add_only,Stand,0.000000000,124
+MotionSense,43,5,2,add_only,Jog,0.909090909,24
+MotionSense,43,5,2,proposed,Walk,1.000000000,92
+MotionSense,43,5,2,proposed,Stairs up,1.000000000,32
+MotionSense,43,5,2,proposed,Stairs down,0.941176471,24
+MotionSense,43,5,2,proposed,Sit,0.730434783,168
+MotionSense,43,5,2,proposed,Stand,0.000000000,124
+MotionSense,43,5,2,proposed,Jog,0.933333333,24
+MotionSense,101,5,2,no_correction,Walk,0.662162162,92
+MotionSense,101,5,2,no_correction,Stairs up,0.576576577,32
+MotionSense,101,5,2,no_correction,Stairs down,0.808510638,24
+MotionSense,101,5,2,no_correction,Sit,0.730434783,168
+MotionSense,101,5,2,no_correction,Stand,0.000000000,124
+MotionSense,101,5,2,no_correction,Jog,0.736842105,24
+MotionSense,101,5,2,add_only,Walk,0.900584795,92
+MotionSense,101,5,2,add_only,Stairs up,0.761904762,32
+MotionSense,101,5,2,add_only,Stairs down,0.826086957,24
+MotionSense,101,5,2,add_only,Sit,0.730434783,168
+MotionSense,101,5,2,add_only,Stand,0.000000000,124
+MotionSense,101,5,2,add_only,Jog,0.883720930,24
+MotionSense,101,5,2,proposed,Walk,0.994594595,92
+MotionSense,101,5,2,proposed,Stairs up,0.941176471,32
+MotionSense,101,5,2,proposed,Stairs down,0.851063830,24
+MotionSense,101,5,2,proposed,Sit,0.730434783,168
+MotionSense,101,5,2,proposed,Stand,0.000000000,124
+MotionSense,101,5,2,proposed,Jog,0.909090909,24
+MotionSense,17,6,2,no_correction,Walk,0.753246753,92
+MotionSense,17,6,2,no_correction,Stairs up,1.000000000,36
+MotionSense,17,6,2,no_correction,Stairs down,0.701754386,40
+MotionSense,17,6,2,no_correction,Sit,1.000000000,160
+MotionSense,17,6,2,no_correction,Stand,1.000000000,220
+MotionSense,17,6,2,no_correction,Jog,0.933333333,32
+MotionSense,17,6,2,add_only,Walk,0.763157895,92
+MotionSense,17,6,2,add_only,Stairs up,0.958904110,36
+MotionSense,17,6,2,add_only,Stairs down,0.695652174,40
+MotionSense,17,6,2,add_only,Sit,1.000000000,160
+MotionSense,17,6,2,add_only,Stand,1.000000000,220
+MotionSense,17,6,2,add_only,Jog,0.933333333,32
+MotionSense,17,6,2,proposed,Walk,1.000000000,92
+MotionSense,17,6,2,proposed,Stairs up,0.933333333,36
+MotionSense,17,6,2,proposed,Stairs down,0.987654321,40
+MotionSense,17,6,2,proposed,Sit,1.000000000,160
+MotionSense,17,6,2,proposed,Stand,1.000000000,220
+MotionSense,17,6,2,proposed,Jog,0.933333333,32
+MotionSense,43,6,2,no_correction,Walk,0.973544974,92
+MotionSense,43,6,2,no_correction,Stairs up,0.985915493,36
+MotionSense,43,6,2,no_correction,Stairs down,1.000000000,40
+MotionSense,43,6,2,no_correction,Sit,1.000000000,160
+MotionSense,43,6,2,no_correction,Stand,1.000000000,220
+MotionSense,43,6,2,no_correction,Jog,0.933333333,32
+MotionSense,43,6,2,add_only,Walk,0.983957219,92
+MotionSense,43,6,2,add_only,Stairs up,0.986301370,36
+MotionSense,43,6,2,add_only,Stairs down,1.000000000,40
+MotionSense,43,6,2,add_only,Sit,1.000000000,160
+MotionSense,43,6,2,add_only,Stand,1.000000000,220
+MotionSense,43,6,2,add_only,Jog,0.933333333,32
+MotionSense,43,6,2,proposed,Walk,0.989247312,92
+MotionSense,43,6,2,proposed,Stairs up,0.972972973,36
+MotionSense,43,6,2,proposed,Stairs down,1.000000000,40
+MotionSense,43,6,2,proposed,Sit,1.000000000,160
+MotionSense,43,6,2,proposed,Stand,1.000000000,220
+MotionSense,43,6,2,proposed,Jog,0.933333333,32
+MotionSense,101,6,2,no_correction,Walk,0.874251497,92
+MotionSense,101,6,2,no_correction,Stairs up,0.707070707,36
+MotionSense,101,6,2,no_correction,Stairs down,0.826666667,40
+MotionSense,101,6,2,no_correction,Sit,1.000000000,160
+MotionSense,101,6,2,no_correction,Stand,1.000000000,220
+MotionSense,101,6,2,no_correction,Jog,0.915254237,32
+MotionSense,101,6,2,add_only,Walk,0.874251497,92
+MotionSense,101,6,2,add_only,Stairs up,0.707070707,36
+MotionSense,101,6,2,add_only,Stairs down,0.826666667,40
+MotionSense,101,6,2,add_only,Sit,1.000000000,160
+MotionSense,101,6,2,add_only,Stand,1.000000000,220
+MotionSense,101,6,2,add_only,Jog,0.915254237,32
+MotionSense,101,6,2,proposed,Walk,0.973544974,92
+MotionSense,101,6,2,proposed,Stairs up,0.800000000,36
+MotionSense,101,6,2,proposed,Stairs down,0.873239437,40
+MotionSense,101,6,2,proposed,Sit,1.000000000,160
+MotionSense,101,6,2,proposed,Stand,1.000000000,220
+MotionSense,101,6,2,proposed,Jog,0.933333333,32
+MotionSense,17,7,2,no_correction,Walk,0.000000000,112
+MotionSense,17,7,2,no_correction,Stairs up,0.516129032,48
+MotionSense,17,7,2,no_correction,Stairs down,0.622222222,32
+MotionSense,17,7,2,no_correction,Sit,1.000000000,192
+MotionSense,17,7,2,no_correction,Stand,1.000000000,100
+MotionSense,17,7,2,no_correction,Jog,0.909090909,48
+MotionSense,17,7,2,add_only,Walk,0.000000000,112
+MotionSense,17,7,2,add_only,Stairs up,0.516129032,48
+MotionSense,17,7,2,add_only,Stairs down,0.622222222,32
+MotionSense,17,7,2,add_only,Sit,1.000000000,192
+MotionSense,17,7,2,add_only,Stand,1.000000000,100
+MotionSense,17,7,2,add_only,Jog,0.921348315,48
+MotionSense,17,7,2,proposed,Walk,0.696517413,112
+MotionSense,17,7,2,proposed,Stairs up,0.608000000,48
+MotionSense,17,7,2,proposed,Stairs down,0.730158730,32
+MotionSense,17,7,2,proposed,Sit,1.000000000,192
+MotionSense,17,7,2,proposed,Stand,1.000000000,100
+MotionSense,17,7,2,proposed,Jog,0.945054945,48
+MotionSense,43,7,2,no_correction,Walk,0.683760684,112
+MotionSense,43,7,2,no_correction,Stairs up,0.459770115,48
+MotionSense,43,7,2,no_correction,Stairs down,0.529411765,32
+MotionSense,43,7,2,no_correction,Sit,1.000000000,192
+MotionSense,43,7,2,no_correction,Stand,1.000000000,100
+MotionSense,43,7,2,no_correction,Jog,0.945054945,48
+MotionSense,43,7,2,add_only,Walk,0.526829268,112
+MotionSense,43,7,2,add_only,Stairs up,0.396551724,48
+MotionSense,43,7,2,add_only,Stairs down,0.529411765,32
+MotionSense,43,7,2,add_only,Sit,1.000000000,192
+MotionSense,43,7,2,add_only,Stand,1.000000000,100
+MotionSense,43,7,2,add_only,Jog,0.945054945,48
+MotionSense,43,7,2,proposed,Walk,0.502732240,112
+MotionSense,43,7,2,proposed,Stairs up,0.522388060,48
+MotionSense,43,7,2,proposed,Stairs down,0.555555556,32
+MotionSense,43,7,2,proposed,Sit,1.000000000,192
+MotionSense,43,7,2,proposed,Stand,1.000000000,100
+MotionSense,43,7,2,proposed,Jog,0.945054945,48
+MotionSense,101,7,2,no_correction,Walk,0.000000000,112
+MotionSense,101,7,2,no_correction,Stairs up,0.542372881,48
+MotionSense,101,7,2,no_correction,Stairs down,0.545454545,32
+MotionSense,101,7,2,no_correction,Sit,1.000000000,192
+MotionSense,101,7,2,no_correction,Stand,1.000000000,100
+MotionSense,101,7,2,no_correction,Jog,0.933333333,48
+MotionSense,101,7,2,add_only,Walk,0.371428571,112
+MotionSense,101,7,2,add_only,Stairs up,0.600000000,48
+MotionSense,101,7,2,add_only,Stairs down,0.622222222,32
+MotionSense,101,7,2,add_only,Sit,1.000000000,192
+MotionSense,101,7,2,add_only,Stand,1.000000000,100
+MotionSense,101,7,2,add_only,Jog,0.933333333,48
+MotionSense,101,7,2,proposed,Walk,0.651162791,112
+MotionSense,101,7,2,proposed,Stairs up,0.695652174,48
+MotionSense,101,7,2,proposed,Stairs down,0.700000000,32
+MotionSense,101,7,2,proposed,Sit,1.000000000,192
+MotionSense,101,7,2,proposed,Stand,1.000000000,100
+MotionSense,101,7,2,proposed,Jog,0.933333333,48
+MotionSense,17,8,2,no_correction,Walk,0.895927602,100
+MotionSense,17,8,2,no_correction,Stairs up,0.717948718,44
+MotionSense,17,8,2,no_correction,Stairs down,0.780000000,40
+MotionSense,17,8,2,no_correction,Sit,1.000000000,184
+MotionSense,17,8,2,no_correction,Stand,1.000000000,120
+MotionSense,17,8,2,no_correction,Jog,0.725663717,72
+MotionSense,17,8,2,add_only,Walk,0.925373134,100
+MotionSense,17,8,2,add_only,Stairs up,0.857142857,44
+MotionSense,17,8,2,add_only,Stairs down,0.780000000,40
+MotionSense,17,8,2,add_only,Sit,1.000000000,184
+MotionSense,17,8,2,add_only,Stand,1.000000000,120
+MotionSense,17,8,2,add_only,Jog,0.725663717,72
+MotionSense,17,8,2,proposed,Walk,0.403100775,100
+MotionSense,17,8,2,proposed,Stairs up,0.536585366,44
+MotionSense,17,8,2,proposed,Stairs down,0.754716981,40
+MotionSense,17,8,2,proposed,Sit,1.000000000,184
+MotionSense,17,8,2,proposed,Stand,1.000000000,120
+MotionSense,17,8,2,proposed,Jog,0.725663717,72
+MotionSense,43,8,2,no_correction,Walk,0.732600733,100
+MotionSense,43,8,2,no_correction,Stairs up,0.619718310,44
+MotionSense,43,8,2,no_correction,Stairs down,0.800000000,40
+MotionSense,43,8,2,no_correction,Sit,1.000000000,184
+MotionSense,43,8,2,no_correction,Stand,1.000000000,120
+MotionSense,43,8,2,no_correction,Jog,0.451612903,72
+MotionSense,43,8,2,add_only,Walk,0.727941176,100
+MotionSense,43,8,2,add_only,Stairs up,0.638888889,44
+MotionSense,43,8,2,add_only,Stairs down,0.800000000,40
+MotionSense,43,8,2,add_only,Sit,1.000000000,184
+MotionSense,43,8,2,add_only,Stand,1.000000000,120
+MotionSense,43,8,2,add_only,Jog,0.451612903,72
+MotionSense,43,8,2,proposed,Walk,0.673913043,100
+MotionSense,43,8,2,proposed,Stairs up,0.735632184,44
+MotionSense,43,8,2,proposed,Stairs down,0.823529412,40
+MotionSense,43,8,2,proposed,Sit,1.000000000,184
+MotionSense,43,8,2,proposed,Stand,1.000000000,120
+MotionSense,43,8,2,proposed,Jog,0.222222222,72
+MotionSense,101,8,2,no_correction,Walk,0.689895470,100
+MotionSense,101,8,2,no_correction,Stairs up,0.684210526,44
+MotionSense,101,8,2,no_correction,Stairs down,0.779220779,40
+MotionSense,101,8,2,no_correction,Sit,1.000000000,184
+MotionSense,101,8,2,no_correction,Stand,1.000000000,120
+MotionSense,101,8,2,no_correction,Jog,0.000000000,72
+MotionSense,101,8,2,add_only,Walk,0.694656489,100
+MotionSense,101,8,2,add_only,Stairs up,0.824742268,44
+MotionSense,101,8,2,add_only,Stairs down,0.779220779,40
+MotionSense,101,8,2,add_only,Sit,1.000000000,184
+MotionSense,101,8,2,add_only,Stand,1.000000000,120
+MotionSense,101,8,2,add_only,Jog,0.105263158,72
+MotionSense,101,8,2,proposed,Walk,0.755186722,100
+MotionSense,101,8,2,proposed,Stairs up,0.765957447,44
+MotionSense,101,8,2,proposed,Stairs down,0.545454545,40
+MotionSense,101,8,2,proposed,Sit,1.000000000,184
+MotionSense,101,8,2,proposed,Stand,1.000000000,120
+MotionSense,101,8,2,proposed,Jog,0.153846154,72
+MotionSense,17,9,2,no_correction,Walk,0.339622642,88
+MotionSense,17,9,2,no_correction,Stairs up,0.750000000,44
+MotionSense,17,9,2,no_correction,Stairs down,0.450704225,32
+MotionSense,17,9,2,no_correction,Sit,1.000000000,200
+MotionSense,17,9,2,no_correction,Stand,1.000000000,80
+MotionSense,17,9,2,no_correction,Jog,1.000000000,36
+MotionSense,17,9,2,add_only,Walk,0.592000000,88
+MotionSense,17,9,2,add_only,Stairs up,0.765432099,44
+MotionSense,17,9,2,add_only,Stairs down,0.524590164,32
+MotionSense,17,9,2,add_only,Sit,1.000000000,200
+MotionSense,17,9,2,add_only,Stand,1.000000000,80
+MotionSense,17,9,2,add_only,Jog,1.000000000,36
+MotionSense,17,9,2,proposed,Walk,0.956043956,88
+MotionSense,17,9,2,proposed,Stairs up,0.810810811,44
+MotionSense,17,9,2,proposed,Stairs down,0.694444444,32
+MotionSense,17,9,2,proposed,Sit,1.000000000,200
+MotionSense,17,9,2,proposed,Stand,1.000000000,80
+MotionSense,17,9,2,proposed,Jog,1.000000000,36
+MotionSense,43,9,2,no_correction,Walk,0.022471910,88
+MotionSense,43,9,2,no_correction,Stairs up,0.475675676,44
+MotionSense,43,9,2,no_correction,Stairs down,0.777777778,32
+MotionSense,43,9,2,no_correction,Sit,1.000000000,200
+MotionSense,43,9,2,no_correction,Stand,1.000000000,80
+MotionSense,43,9,2,no_correction,Jog,1.000000000,36
+MotionSense,43,9,2,add_only,Walk,0.164948454,88
+MotionSense,43,9,2,add_only,Stairs up,0.485875706,44
+MotionSense,43,9,2,add_only,Stairs down,0.777777778,32
+MotionSense,43,9,2,add_only,Sit,1.000000000,200
+MotionSense,43,9,2,add_only,Stand,1.000000000,80
+MotionSense,43,9,2,add_only,Jog,1.000000000,36
+MotionSense,43,9,2,proposed,Walk,0.838095238,88
+MotionSense,43,9,2,proposed,Stairs up,0.553846154,44
+MotionSense,43,9,2,proposed,Stairs down,0.792452830,32
+MotionSense,43,9,2,proposed,Sit,1.000000000,200
+MotionSense,43,9,2,proposed,Stand,1.000000000,80
+MotionSense,43,9,2,proposed,Jog,1.000000000,36
+MotionSense,101,9,2,no_correction,Walk,0.132075472,88
+MotionSense,101,9,2,no_correction,Stairs up,0.646153846,44
+MotionSense,101,9,2,no_correction,Stairs down,0.300000000,32
+MotionSense,101,9,2,no_correction,Sit,1.000000000,200
+MotionSense,101,9,2,no_correction,Stand,1.000000000,80
+MotionSense,101,9,2,no_correction,Jog,0.956521739,36
+MotionSense,101,9,2,add_only,Walk,0.132075472,88
+MotionSense,101,9,2,add_only,Stairs up,0.646153846,44
+MotionSense,101,9,2,add_only,Stairs down,0.300000000,32
+MotionSense,101,9,2,add_only,Sit,1.000000000,200
+MotionSense,101,9,2,add_only,Stand,1.000000000,80
+MotionSense,101,9,2,add_only,Jog,0.956521739,36
+MotionSense,101,9,2,proposed,Walk,0.840579710,88
+MotionSense,101,9,2,proposed,Stairs up,0.646153846,44
+MotionSense,101,9,2,proposed,Stairs down,0.000000000,32
+MotionSense,101,9,2,proposed,Sit,1.000000000,200
+MotionSense,101,9,2,proposed,Stand,1.000000000,80
+MotionSense,101,9,2,proposed,Jog,1.000000000,36
+MotionSense,17,10,2,no_correction,Walk,0.842696629,84
+MotionSense,17,10,2,no_correction,Stairs up,0.545454545,48
+MotionSense,17,10,2,no_correction,Stairs down,0.611111111,40
+MotionSense,17,10,2,no_correction,Sit,1.000000000,228
+MotionSense,17,10,2,no_correction,Stand,1.000000000,124
+MotionSense,17,10,2,no_correction,Jog,0.949494949,52
+MotionSense,17,10,2,add_only,Walk,0.852791878,84
+MotionSense,17,10,2,add_only,Stairs up,0.775000000,48
+MotionSense,17,10,2,add_only,Stairs down,0.694444444,40
+MotionSense,17,10,2,add_only,Sit,1.000000000,228
+MotionSense,17,10,2,add_only,Stand,1.000000000,124
+MotionSense,17,10,2,add_only,Jog,0.949494949,52
+MotionSense,17,10,2,proposed,Walk,0.811594203,84
+MotionSense,17,10,2,proposed,Stairs up,0.666666667,48
+MotionSense,17,10,2,proposed,Stairs down,0.628571429,40
+MotionSense,17,10,2,proposed,Sit,1.000000000,228
+MotionSense,17,10,2,proposed,Stand,1.000000000,124
+MotionSense,17,10,2,proposed,Jog,0.949494949,52
+MotionSense,43,10,2,no_correction,Walk,0.000000000,84
+MotionSense,43,10,2,no_correction,Stairs up,0.426666667,48
+MotionSense,43,10,2,no_correction,Stairs down,0.000000000,40
+MotionSense,43,10,2,no_correction,Sit,1.000000000,228
+MotionSense,43,10,2,no_correction,Stand,1.000000000,124
+MotionSense,43,10,2,no_correction,Jog,0.949494949,52
+MotionSense,43,10,2,add_only,Walk,0.000000000,84
+MotionSense,43,10,2,add_only,Stairs up,0.448598131,48
+MotionSense,43,10,2,add_only,Stairs down,0.000000000,40
+MotionSense,43,10,2,add_only,Sit,1.000000000,228
+MotionSense,43,10,2,add_only,Stand,1.000000000,124
+MotionSense,43,10,2,add_only,Jog,0.949494949,52
+MotionSense,43,10,2,proposed,Walk,0.819512195,84
+MotionSense,43,10,2,proposed,Stairs up,0.923076923,48
+MotionSense,43,10,2,proposed,Stairs down,0.000000000,40
+MotionSense,43,10,2,proposed,Sit,1.000000000,228
+MotionSense,43,10,2,proposed,Stand,1.000000000,124
+MotionSense,43,10,2,proposed,Jog,0.949494949,52
+MotionSense,101,10,2,no_correction,Walk,0.000000000,84
+MotionSense,101,10,2,no_correction,Stairs up,0.467661692,48
+MotionSense,101,10,2,no_correction,Stairs down,0.000000000,40
+MotionSense,101,10,2,no_correction,Sit,1.000000000,228
+MotionSense,101,10,2,no_correction,Stand,1.000000000,124
+MotionSense,101,10,2,no_correction,Jog,0.932038835,52
+MotionSense,101,10,2,add_only,Walk,0.360000000,84
+MotionSense,101,10,2,add_only,Stairs up,0.615384615,48
+MotionSense,101,10,2,add_only,Stairs down,0.000000000,40
+MotionSense,101,10,2,add_only,Sit,1.000000000,228
+MotionSense,101,10,2,add_only,Stand,1.000000000,124
+MotionSense,101,10,2,add_only,Jog,0.921568627,52
+MotionSense,101,10,2,proposed,Walk,0.717948718,84
+MotionSense,101,10,2,proposed,Stairs up,0.720000000,48
+MotionSense,101,10,2,proposed,Stairs down,0.000000000,40
+MotionSense,101,10,2,proposed,Sit,1.000000000,228
+MotionSense,101,10,2,proposed,Stand,1.000000000,124
+MotionSense,101,10,2,proposed,Jog,0.949494949,52
+MotionSense,17,11,2,no_correction,Walk,0.747826087,60
+MotionSense,17,11,2,no_correction,Stairs up,0.629213483,40
+MotionSense,17,11,2,no_correction,Stairs down,0.888888889,32
+MotionSense,17,11,2,no_correction,Sit,1.000000000,300
+MotionSense,17,11,2,no_correction,Stand,1.000000000,112
+MotionSense,17,11,2,no_correction,Jog,0.956521739,36
+MotionSense,17,11,2,add_only,Walk,1.000000000,60
+MotionSense,17,11,2,add_only,Stairs up,0.963855422,40
+MotionSense,17,11,2,add_only,Stairs down,0.906250000,32
+MotionSense,17,11,2,add_only,Sit,1.000000000,300
+MotionSense,17,11,2,add_only,Stand,1.000000000,112
+MotionSense,17,11,2,add_only,Jog,0.956521739,36
+MotionSense,17,11,2,proposed,Walk,0.991735537,60
+MotionSense,17,11,2,proposed,Stairs up,0.963855422,40
+MotionSense,17,11,2,proposed,Stairs down,0.920634921,32
+MotionSense,17,11,2,proposed,Sit,1.000000000,300
+MotionSense,17,11,2,proposed,Stand,1.000000000,112
+MotionSense,17,11,2,proposed,Jog,0.956521739,36
+MotionSense,43,11,2,no_correction,Walk,0.975609756,60
+MotionSense,43,11,2,no_correction,Stairs up,1.000000000,40
+MotionSense,43,11,2,no_correction,Stairs down,1.000000000,32
+MotionSense,43,11,2,no_correction,Sit,1.000000000,300
+MotionSense,43,11,2,no_correction,Stand,1.000000000,112
+MotionSense,43,11,2,no_correction,Jog,0.956521739,36
+MotionSense,43,11,2,add_only,Walk,0.967741935,60
+MotionSense,43,11,2,add_only,Stairs up,1.000000000,40
+MotionSense,43,11,2,add_only,Stairs down,1.000000000,32
+MotionSense,43,11,2,add_only,Sit,1.000000000,300
+MotionSense,43,11,2,add_only,Stand,1.000000000,112
+MotionSense,43,11,2,add_only,Jog,0.941176471,36
+MotionSense,43,11,2,proposed,Walk,0.975609756,60
+MotionSense,43,11,2,proposed,Stairs up,0.987341772,40
+MotionSense,43,11,2,proposed,Stairs down,0.984615385,32
+MotionSense,43,11,2,proposed,Sit,1.000000000,300
+MotionSense,43,11,2,proposed,Stand,1.000000000,112
+MotionSense,43,11,2,proposed,Jog,0.956521739,36
+MotionSense,101,11,2,no_correction,Walk,0.991735537,60
+MotionSense,101,11,2,no_correction,Stairs up,0.963855422,40
+MotionSense,101,11,2,no_correction,Stairs down,0.920634921,32
+MotionSense,101,11,2,no_correction,Sit,1.000000000,300
+MotionSense,101,11,2,no_correction,Stand,1.000000000,112
+MotionSense,101,11,2,no_correction,Jog,0.956521739,36
+MotionSense,101,11,2,add_only,Walk,0.967741935,60
+MotionSense,101,11,2,add_only,Stairs up,1.000000000,40
+MotionSense,101,11,2,add_only,Stairs down,1.000000000,32
+MotionSense,101,11,2,add_only,Sit,1.000000000,300
+MotionSense,101,11,2,add_only,Stand,1.000000000,112
+MotionSense,101,11,2,add_only,Jog,0.941176471,36
+MotionSense,101,11,2,proposed,Walk,0.975609756,60
+MotionSense,101,11,2,proposed,Stairs up,1.000000000,40
+MotionSense,101,11,2,proposed,Stairs down,1.000000000,32
+MotionSense,101,11,2,proposed,Sit,1.000000000,300
+MotionSense,101,11,2,proposed,Stand,1.000000000,112
+MotionSense,101,11,2,proposed,Jog,0.956521739,36
+MotionSense,17,12,2,no_correction,Walk,0.961538462,100
+MotionSense,17,12,2,no_correction,Stairs up,0.980392157,52
+MotionSense,17,12,2,no_correction,Stairs down,0.784313725,28
+MotionSense,17,12,2,no_correction,Sit,1.000000000,112
+MotionSense,17,12,2,no_correction,Stand,1.000000000,84
+MotionSense,17,12,2,no_correction,Jog,0.988505747,44
+MotionSense,17,12,2,add_only,Walk,0.970873786,100
+MotionSense,17,12,2,add_only,Stairs up,0.990291262,52
+MotionSense,17,12,2,add_only,Stairs down,0.814814815,28
+MotionSense,17,12,2,add_only,Sit,1.000000000,112
+MotionSense,17,12,2,add_only,Stand,1.000000000,84
+MotionSense,17,12,2,add_only,Jog,0.964705882,44
+MotionSense,17,12,2,proposed,Walk,0.985221675,100
+MotionSense,17,12,2,proposed,Stairs up,0.990291262,52
+MotionSense,17,12,2,proposed,Stairs down,0.877192982,28
+MotionSense,17,12,2,proposed,Sit,1.000000000,112
+MotionSense,17,12,2,proposed,Stand,1.000000000,84
+MotionSense,17,12,2,proposed,Jog,0.964705882,44
+MotionSense,43,12,2,no_correction,Walk,0.415384615,100
+MotionSense,43,12,2,no_correction,Stairs up,1.000000000,52
+MotionSense,43,12,2,no_correction,Stairs down,0.387596899,28
+MotionSense,43,12,2,no_correction,Sit,1.000000000,112
+MotionSense,43,12,2,no_correction,Stand,1.000000000,84
+MotionSense,43,12,2,no_correction,Jog,0.964705882,44
+MotionSense,43,12,2,add_only,Walk,0.899470899,100
+MotionSense,43,12,2,add_only,Stairs up,1.000000000,52
+MotionSense,43,12,2,add_only,Stairs down,0.685714286,28
+MotionSense,43,12,2,add_only,Sit,1.000000000,112
+MotionSense,43,12,2,add_only,Stand,1.000000000,84
+MotionSense,43,12,2,add_only,Jog,0.964705882,44
+MotionSense,43,12,2,proposed,Walk,0.970873786,100
+MotionSense,43,12,2,proposed,Stairs up,1.000000000,52
+MotionSense,43,12,2,proposed,Stairs down,0.830188679,28
+MotionSense,43,12,2,proposed,Sit,1.000000000,112
+MotionSense,43,12,2,proposed,Stand,1.000000000,84
+MotionSense,43,12,2,proposed,Jog,0.964705882,44
+MotionSense,101,12,2,no_correction,Walk,0.938967136,100
+MotionSense,101,12,2,no_correction,Stairs up,0.990291262,52
+MotionSense,101,12,2,no_correction,Stairs down,0.638297872,28
+MotionSense,101,12,2,no_correction,Sit,1.000000000,112
+MotionSense,101,12,2,no_correction,Stand,1.000000000,84
+MotionSense,101,12,2,no_correction,Jog,0.964705882,44
+MotionSense,101,12,2,add_only,Walk,0.938967136,100
+MotionSense,101,12,2,add_only,Stairs up,1.000000000,52
+MotionSense,101,12,2,add_only,Stairs down,0.652173913,28
+MotionSense,101,12,2,add_only,Sit,1.000000000,112
+MotionSense,101,12,2,add_only,Stand,1.000000000,84
+MotionSense,101,12,2,add_only,Jog,0.964705882,44
+MotionSense,101,12,2,proposed,Walk,0.947867299,100
+MotionSense,101,12,2,proposed,Stairs up,1.000000000,52
+MotionSense,101,12,2,proposed,Stairs down,0.708333333,28
+MotionSense,101,12,2,proposed,Sit,1.000000000,112
+MotionSense,101,12,2,proposed,Stand,1.000000000,84
+MotionSense,101,12,2,proposed,Jog,0.964705882,44
+MotionSense,17,13,2,no_correction,Walk,0.978417266,68
+MotionSense,17,13,2,no_correction,Stairs up,1.000000000,12
+MotionSense,17,13,2,no_correction,Stairs down,0.933333333,16
+MotionSense,17,13,2,no_correction,Sit,1.000000000,124
+MotionSense,17,13,2,no_correction,Stand,1.000000000,152
+MotionSense,17,13,2,no_correction,Jog,0.985915493,36
+MotionSense,17,13,2,add_only,Walk,0.971428571,68
+MotionSense,17,13,2,add_only,Stairs up,1.000000000,12
+MotionSense,17,13,2,add_only,Stairs down,0.896551724,16
+MotionSense,17,13,2,add_only,Sit,1.000000000,124
+MotionSense,17,13,2,add_only,Stand,1.000000000,152
+MotionSense,17,13,2,add_only,Jog,0.985915493,36
+MotionSense,17,13,2,proposed,Walk,0.931506849,68
+MotionSense,17,13,2,proposed,Stairs up,1.000000000,12
+MotionSense,17,13,2,proposed,Stairs down,0.545454545,16
+MotionSense,17,13,2,proposed,Sit,1.000000000,124
+MotionSense,17,13,2,proposed,Stand,1.000000000,152
+MotionSense,17,13,2,proposed,Jog,1.000000000,36
+MotionSense,43,13,2,no_correction,Walk,0.244444444,68
+MotionSense,43,13,2,no_correction,Stairs up,0.275000000,12
+MotionSense,43,13,2,no_correction,Stairs down,0.476190476,16
+MotionSense,43,13,2,no_correction,Sit,1.000000000,124
+MotionSense,43,13,2,no_correction,Stand,1.000000000,152
+MotionSense,43,13,2,no_correction,Jog,0.986301370,36
+MotionSense,43,13,2,add_only,Walk,0.431372549,68
+MotionSense,43,13,2,add_only,Stairs up,0.318840580,12
+MotionSense,43,13,2,add_only,Stairs down,0.400000000,16
+MotionSense,43,13,2,add_only,Sit,1.000000000,124
+MotionSense,43,13,2,add_only,Stand,1.000000000,152
+MotionSense,43,13,2,add_only,Jog,0.986301370,36
+MotionSense,43,13,2,proposed,Walk,0.931506849,68
+MotionSense,43,13,2,proposed,Stairs up,0.956521739,12
+MotionSense,43,13,2,proposed,Stairs down,0.545454545,16
+MotionSense,43,13,2,proposed,Sit,1.000000000,124
+MotionSense,43,13,2,proposed,Stand,1.000000000,152
+MotionSense,43,13,2,proposed,Jog,0.986301370,36
+MotionSense,101,13,2,no_correction,Walk,0.951048951,68
+MotionSense,101,13,2,no_correction,Stairs up,0.588235294,12
+MotionSense,101,13,2,no_correction,Stairs down,1.000000000,16
+MotionSense,101,13,2,no_correction,Sit,1.000000000,124
+MotionSense,101,13,2,no_correction,Stand,1.000000000,152
+MotionSense,101,13,2,no_correction,Jog,1.000000000,36
+MotionSense,101,13,2,add_only,Walk,0.964539007,68
+MotionSense,101,13,2,add_only,Stairs up,0.588235294,12
+MotionSense,101,13,2,add_only,Stairs down,1.000000000,16
+MotionSense,101,13,2,add_only,Sit,1.000000000,124
+MotionSense,101,13,2,add_only,Stand,1.000000000,152
+MotionSense,101,13,2,add_only,Jog,0.972972973,36
+MotionSense,101,13,2,proposed,Walk,0.978417266,68
+MotionSense,101,13,2,proposed,Stairs up,0.857142857,12
+MotionSense,101,13,2,proposed,Stairs down,0.896551724,16
+MotionSense,101,13,2,proposed,Sit,1.000000000,124
+MotionSense,101,13,2,proposed,Stand,1.000000000,152
+MotionSense,101,13,2,proposed,Jog,0.960000000,36
+MotionSense,17,14,2,no_correction,Walk,0.931034483,84
+MotionSense,17,14,2,no_correction,Stairs up,0.987341772,40
+MotionSense,17,14,2,no_correction,Stairs down,0.774193548,16
+MotionSense,17,14,2,no_correction,Sit,1.000000000,112
+MotionSense,17,14,2,no_correction,Stand,1.000000000,104
+MotionSense,17,14,2,no_correction,Jog,0.952380952,44
+MotionSense,17,14,2,add_only,Walk,0.928176796,84
+MotionSense,17,14,2,add_only,Stairs up,0.974358974,40
+MotionSense,17,14,2,add_only,Stairs down,0.769230769,16
+MotionSense,17,14,2,add_only,Sit,1.000000000,112
+MotionSense,17,14,2,add_only,Stand,1.000000000,104
+MotionSense,17,14,2,add_only,Jog,0.939759036,44
+MotionSense,17,14,2,proposed,Walk,0.903225806,84
+MotionSense,17,14,2,proposed,Stairs up,0.933333333,40
+MotionSense,17,14,2,proposed,Stairs down,0.666666667,16
+MotionSense,17,14,2,proposed,Sit,1.000000000,112
+MotionSense,17,14,2,proposed,Stand,1.000000000,104
+MotionSense,17,14,2,proposed,Jog,0.939759036,44
+MotionSense,43,14,2,no_correction,Walk,0.913043478,84
+MotionSense,43,14,2,no_correction,Stairs up,1.000000000,40
+MotionSense,43,14,2,no_correction,Stairs down,0.476190476,16
+MotionSense,43,14,2,no_correction,Sit,1.000000000,112
+MotionSense,43,14,2,no_correction,Stand,1.000000000,104
+MotionSense,43,14,2,no_correction,Jog,0.939759036,44
+MotionSense,43,14,2,add_only,Walk,0.913043478,84
+MotionSense,43,14,2,add_only,Stairs up,1.000000000,40
+MotionSense,43,14,2,add_only,Stairs down,0.476190476,16
+MotionSense,43,14,2,add_only,Sit,1.000000000,112
+MotionSense,43,14,2,add_only,Stand,1.000000000,104
+MotionSense,43,14,2,add_only,Jog,0.939759036,44
+MotionSense,43,14,2,proposed,Walk,0.923076923,84
+MotionSense,43,14,2,proposed,Stairs up,0.987654321,40
+MotionSense,43,14,2,proposed,Stairs down,0.545454545,16
+MotionSense,43,14,2,proposed,Sit,1.000000000,112
+MotionSense,43,14,2,proposed,Stand,1.000000000,104
+MotionSense,43,14,2,proposed,Jog,0.939759036,44
+MotionSense,101,14,2,no_correction,Walk,0.928176796,84
+MotionSense,101,14,2,no_correction,Stairs up,1.000000000,40
+MotionSense,101,14,2,no_correction,Stairs down,0.720000000,16
+MotionSense,101,14,2,no_correction,Sit,1.000000000,112
+MotionSense,101,14,2,no_correction,Stand,1.000000000,104
+MotionSense,101,14,2,no_correction,Jog,0.926829268,44
+MotionSense,101,14,2,add_only,Walk,0.938547486,84
+MotionSense,101,14,2,add_only,Stairs up,1.000000000,40
+MotionSense,101,14,2,add_only,Stairs down,0.814814815,16
+MotionSense,101,14,2,add_only,Sit,1.000000000,112
+MotionSense,101,14,2,add_only,Stand,1.000000000,104
+MotionSense,101,14,2,add_only,Jog,0.926829268,44
+MotionSense,101,14,2,proposed,Walk,0.971098266,84
+MotionSense,101,14,2,proposed,Stairs up,0.987654321,40
+MotionSense,101,14,2,proposed,Stairs down,0.709677419,16
+MotionSense,101,14,2,proposed,Sit,1.000000000,112
+MotionSense,101,14,2,proposed,Stand,1.000000000,104
+MotionSense,101,14,2,proposed,Jog,0.939759036,44
+MotionSense,17,15,2,no_correction,Walk,0.956937799,100
+MotionSense,17,15,2,no_correction,Stairs up,0.939393939,32
+MotionSense,17,15,2,no_correction,Stairs down,0.793650794,36
+MotionSense,17,15,2,no_correction,Sit,1.000000000,236
+MotionSense,17,15,2,no_correction,Stand,1.000000000,204
+MotionSense,17,15,2,no_correction,Jog,0.976744186,44
+MotionSense,17,15,2,add_only,Walk,0.823045267,100
+MotionSense,17,15,2,add_only,Stairs up,0.117647059,32
+MotionSense,17,15,2,add_only,Stairs down,0.774193548,36
+MotionSense,17,15,2,add_only,Sit,1.000000000,236
+MotionSense,17,15,2,add_only,Stand,1.000000000,204
+MotionSense,17,15,2,add_only,Jog,0.964705882,44
+MotionSense,17,15,2,proposed,Walk,0.823045267,100
+MotionSense,17,15,2,proposed,Stairs up,0.000000000,32
+MotionSense,17,15,2,proposed,Stairs down,0.793650794,36
+MotionSense,17,15,2,proposed,Sit,1.000000000,236
+MotionSense,17,15,2,proposed,Stand,1.000000000,204
+MotionSense,17,15,2,proposed,Jog,0.976744186,44
+MotionSense,43,15,2,no_correction,Walk,0.921658986,100
+MotionSense,43,15,2,no_correction,Stairs up,0.984615385,32
+MotionSense,43,15,2,no_correction,Stairs down,0.654545455,36
+MotionSense,43,15,2,no_correction,Sit,1.000000000,236
+MotionSense,43,15,2,no_correction,Stand,1.000000000,204
+MotionSense,43,15,2,no_correction,Jog,0.988505747,44
+MotionSense,43,15,2,add_only,Walk,0.925925926,100
+MotionSense,43,15,2,add_only,Stairs up,0.969696970,32
+MotionSense,43,15,2,add_only,Stairs down,0.654545455,36
+MotionSense,43,15,2,add_only,Sit,1.000000000,236
+MotionSense,43,15,2,add_only,Stand,1.000000000,204
+MotionSense,43,15,2,add_only,Jog,0.988505747,44
+MotionSense,43,15,2,proposed,Walk,0.930232558,100
+MotionSense,43,15,2,proposed,Stairs up,1.000000000,32
+MotionSense,43,15,2,proposed,Stairs down,0.724137931,36
+MotionSense,43,15,2,proposed,Sit,1.000000000,236
+MotionSense,43,15,2,proposed,Stand,1.000000000,204
+MotionSense,43,15,2,proposed,Jog,0.988505747,44
+MotionSense,101,15,2,no_correction,Walk,0.873362445,100
+MotionSense,101,15,2,no_correction,Stairs up,0.577777778,32
+MotionSense,101,15,2,no_correction,Stairs down,0.812500000,36
+MotionSense,101,15,2,no_correction,Sit,1.000000000,236
+MotionSense,101,15,2,no_correction,Stand,1.000000000,204
+MotionSense,101,15,2,no_correction,Jog,0.976744186,44
+MotionSense,101,15,2,add_only,Walk,0.829875519,100
+MotionSense,101,15,2,add_only,Stairs up,0.000000000,32
+MotionSense,101,15,2,add_only,Stairs down,0.830769231,36
+MotionSense,101,15,2,add_only,Sit,1.000000000,236
+MotionSense,101,15,2,add_only,Stand,1.000000000,204
+MotionSense,101,15,2,add_only,Jog,0.976744186,44
+MotionSense,101,15,2,proposed,Walk,0.829875519,100
+MotionSense,101,15,2,proposed,Stairs up,0.000000000,32
+MotionSense,101,15,2,proposed,Stairs down,0.830769231,36
+MotionSense,101,15,2,proposed,Sit,1.000000000,236
+MotionSense,101,15,2,proposed,Stand,1.000000000,204
+MotionSense,101,15,2,proposed,Jog,0.976744186,44
+MotionSense,17,16,2,no_correction,Walk,0.804878049,104
+MotionSense,17,16,2,no_correction,Stairs up,0.804123711,52
+MotionSense,17,16,2,no_correction,Stairs down,0.558823529,44
+MotionSense,17,16,2,no_correction,Sit,1.000000000,164
+MotionSense,17,16,2,no_correction,Stand,1.000000000,164
+MotionSense,17,16,2,no_correction,Jog,0.905982906,64
+MotionSense,17,16,2,add_only,Walk,0.823045267,104
+MotionSense,17,16,2,add_only,Stairs up,0.812500000,52
+MotionSense,17,16,2,add_only,Stairs down,0.611111111,44
+MotionSense,17,16,2,add_only,Sit,0.000000000,164
+MotionSense,17,16,2,add_only,Stand,0.666666667,164
+MotionSense,17,16,2,add_only,Jog,0.905982906,64
+MotionSense,17,16,2,proposed,Walk,0.835341365,104
+MotionSense,17,16,2,proposed,Stairs up,0.818181818,52
+MotionSense,17,16,2,proposed,Stairs down,0.621621622,44
+MotionSense,17,16,2,proposed,Sit,0.000000000,164
+MotionSense,17,16,2,proposed,Stand,0.666666667,164
+MotionSense,17,16,2,proposed,Jog,0.905982906,64
+MotionSense,43,16,2,no_correction,Walk,0.503225806,104
+MotionSense,43,16,2,no_correction,Stairs up,0.589595376,52
+MotionSense,43,16,2,no_correction,Stairs down,0.869565217,44
+MotionSense,43,16,2,no_correction,Sit,1.000000000,164
+MotionSense,43,16,2,no_correction,Stand,1.000000000,164
+MotionSense,43,16,2,no_correction,Jog,0.814814815,64
+MotionSense,43,16,2,add_only,Walk,0.827225131,104
+MotionSense,43,16,2,add_only,Stairs up,0.766917293,52
+MotionSense,43,16,2,add_only,Stairs down,0.879120879,44
+MotionSense,43,16,2,add_only,Sit,0.996941896,164
+MotionSense,43,16,2,add_only,Stand,0.996960486,164
+MotionSense,43,16,2,add_only,Jog,0.867256637,64
+MotionSense,43,16,2,proposed,Walk,0.880341880,104
+MotionSense,43,16,2,proposed,Stairs up,0.822222222,52
+MotionSense,43,16,2,proposed,Stairs down,0.827586207,44
+MotionSense,43,16,2,proposed,Sit,1.000000000,164
+MotionSense,43,16,2,proposed,Stand,1.000000000,164
+MotionSense,43,16,2,proposed,Jog,0.905982906,64
+MotionSense,101,16,2,no_correction,Walk,0.902325581,104
+MotionSense,101,16,2,no_correction,Stairs up,0.765957447,52
+MotionSense,101,16,2,no_correction,Stairs down,0.785714286,44
+MotionSense,101,16,2,no_correction,Sit,1.000000000,164
+MotionSense,101,16,2,no_correction,Stand,1.000000000,164
+MotionSense,101,16,2,no_correction,Jog,0.803738318,64
+MotionSense,101,16,2,add_only,Walk,0.910798122,104
+MotionSense,101,16,2,add_only,Stairs up,0.765957447,52
+MotionSense,101,16,2,add_only,Stairs down,0.785714286,44
+MotionSense,101,16,2,add_only,Sit,1.000000000,164
+MotionSense,101,16,2,add_only,Stand,1.000000000,164
+MotionSense,101,16,2,add_only,Jog,0.825688073,64
+MotionSense,101,16,2,proposed,Walk,0.873949580,104
+MotionSense,101,16,2,proposed,Stairs up,0.716049383,52
+MotionSense,101,16,2,proposed,Stairs down,0.881720430,44
+MotionSense,101,16,2,proposed,Sit,1.000000000,164
+MotionSense,101,16,2,proposed,Stand,1.000000000,164
+MotionSense,101,16,2,proposed,Jog,0.896551724,64
+MotionSense,17,17,2,no_correction,Walk,0.943820225,84
+MotionSense,17,17,2,no_correction,Stairs up,0.868686869,44
+MotionSense,17,17,2,no_correction,Stairs down,0.694444444,44
+MotionSense,17,17,2,no_correction,Sit,1.000000000,120
+MotionSense,17,17,2,no_correction,Stand,1.000000000,120
+MotionSense,17,17,2,no_correction,Jog,0.915254237,32
+MotionSense,17,17,2,add_only,Walk,0.943820225,84
+MotionSense,17,17,2,add_only,Stairs up,0.857142857,44
+MotionSense,17,17,2,add_only,Stairs down,0.712328767,44
+MotionSense,17,17,2,add_only,Sit,1.000000000,120
+MotionSense,17,17,2,add_only,Stand,1.000000000,120
+MotionSense,17,17,2,add_only,Jog,0.915254237,32
+MotionSense,17,17,2,proposed,Walk,0.870466321,84
+MotionSense,17,17,2,proposed,Stairs up,0.779220779,44
+MotionSense,17,17,2,proposed,Stairs down,0.810126582,44
+MotionSense,17,17,2,proposed,Sit,1.000000000,120
+MotionSense,17,17,2,proposed,Stand,1.000000000,120
+MotionSense,17,17,2,proposed,Jog,0.915254237,32
+MotionSense,43,17,2,no_correction,Walk,0.971098266,84
+MotionSense,43,17,2,no_correction,Stairs up,0.966292135,44
+MotionSense,43,17,2,no_correction,Stairs down,0.965517241,44
+MotionSense,43,17,2,no_correction,Sit,1.000000000,120
+MotionSense,43,17,2,no_correction,Stand,1.000000000,120
+MotionSense,43,17,2,no_correction,Jog,0.915254237,32
+MotionSense,43,17,2,add_only,Walk,0.971098266,84
+MotionSense,43,17,2,add_only,Stairs up,0.871287129,44
+MotionSense,43,17,2,add_only,Stairs down,0.826666667,44
+MotionSense,43,17,2,add_only,Sit,1.000000000,120
+MotionSense,43,17,2,add_only,Stand,1.000000000,120
+MotionSense,43,17,2,add_only,Jog,0.915254237,32
+MotionSense,43,17,2,proposed,Walk,0.971098266,84
+MotionSense,43,17,2,proposed,Stairs up,0.871287129,44
+MotionSense,43,17,2,proposed,Stairs down,0.826666667,44
+MotionSense,43,17,2,proposed,Sit,1.000000000,120
+MotionSense,43,17,2,proposed,Stand,1.000000000,120
+MotionSense,43,17,2,proposed,Jog,0.915254237,32
+MotionSense,101,17,2,no_correction,Walk,0.912087912,84
+MotionSense,101,17,2,no_correction,Stairs up,0.795454545,44
+MotionSense,101,17,2,no_correction,Stairs down,0.753246753,44
+MotionSense,101,17,2,no_correction,Sit,1.000000000,120
+MotionSense,101,17,2,no_correction,Stand,1.000000000,120
+MotionSense,101,17,2,no_correction,Jog,0.950819672,32
+MotionSense,101,17,2,add_only,Walk,0.949152542,84
+MotionSense,101,17,2,add_only,Stairs up,0.782608696,44
+MotionSense,101,17,2,add_only,Stairs down,0.794871795,44
+MotionSense,101,17,2,add_only,Sit,1.000000000,120
+MotionSense,101,17,2,add_only,Stand,1.000000000,120
+MotionSense,101,17,2,add_only,Jog,0.950819672,32
+MotionSense,101,17,2,proposed,Walk,0.943820225,84
+MotionSense,101,17,2,proposed,Stairs up,0.794871795,44
+MotionSense,101,17,2,proposed,Stairs down,0.860215054,44
+MotionSense,101,17,2,proposed,Sit,1.000000000,120
+MotionSense,101,17,2,proposed,Stand,1.000000000,120
+MotionSense,101,17,2,proposed,Jog,0.915254237,32
+MotionSense,17,18,2,no_correction,Walk,0.819819820,92
+MotionSense,17,18,2,no_correction,Stairs up,0.714285714,44
+MotionSense,17,18,2,no_correction,Stairs down,0.625000000,40
+MotionSense,17,18,2,no_correction,Sit,1.000000000,176
+MotionSense,17,18,2,no_correction,Stand,1.000000000,148
+MotionSense,17,18,2,no_correction,Jog,0.952380952,44
+MotionSense,17,18,2,add_only,Walk,0.846511628,92
+MotionSense,17,18,2,add_only,Stairs up,0.783783784,44
+MotionSense,17,18,2,add_only,Stairs down,0.686567164,40
+MotionSense,17,18,2,add_only,Sit,1.000000000,176
+MotionSense,17,18,2,add_only,Stand,1.000000000,148
+MotionSense,17,18,2,add_only,Jog,0.952380952,44
+MotionSense,17,18,2,proposed,Walk,0.880382775,92
+MotionSense,17,18,2,proposed,Stairs up,0.857142857,44
+MotionSense,17,18,2,proposed,Stairs down,0.742857143,40
+MotionSense,17,18,2,proposed,Sit,1.000000000,176
+MotionSense,17,18,2,proposed,Stand,1.000000000,148
+MotionSense,17,18,2,proposed,Jog,0.952380952,44
+MotionSense,43,18,2,no_correction,Walk,0.839024390,92
+MotionSense,43,18,2,no_correction,Stairs up,0.926315789,44
+MotionSense,43,18,2,no_correction,Stairs down,0.615384615,40
+MotionSense,43,18,2,no_correction,Sit,1.000000000,176
+MotionSense,43,18,2,no_correction,Stand,1.000000000,148
+MotionSense,43,18,2,no_correction,Jog,0.826666667,44
+MotionSense,43,18,2,add_only,Walk,0.900523560,92
+MotionSense,43,18,2,add_only,Stairs up,0.926315789,44
+MotionSense,43,18,2,add_only,Stairs down,0.760563380,40
+MotionSense,43,18,2,add_only,Sit,1.000000000,176
+MotionSense,43,18,2,add_only,Stand,1.000000000,148
+MotionSense,43,18,2,add_only,Jog,0.939759036,44
+MotionSense,43,18,2,proposed,Walk,0.927835052,92
+MotionSense,43,18,2,proposed,Stairs up,0.967032967,44
+MotionSense,43,18,2,proposed,Stairs down,0.760563380,40
+MotionSense,43,18,2,proposed,Sit,1.000000000,176
+MotionSense,43,18,2,proposed,Stand,1.000000000,148
+MotionSense,43,18,2,proposed,Jog,0.952380952,44
+MotionSense,101,18,2,no_correction,Walk,0.763157895,92
+MotionSense,101,18,2,no_correction,Stairs up,0.676923077,44
+MotionSense,101,18,2,no_correction,Stairs down,0.720000000,40
+MotionSense,101,18,2,no_correction,Sit,1.000000000,176
+MotionSense,101,18,2,no_correction,Stand,1.000000000,148
+MotionSense,101,18,2,no_correction,Jog,0.939759036,44
+MotionSense,101,18,2,add_only,Walk,0.922279793,92
+MotionSense,101,18,2,add_only,Stairs up,0.946236559,44
+MotionSense,101,18,2,add_only,Stairs down,0.742857143,40
+MotionSense,101,18,2,add_only,Sit,1.000000000,176
+MotionSense,101,18,2,add_only,Stand,1.000000000,148
+MotionSense,101,18,2,add_only,Jog,0.952380952,44
+MotionSense,101,18,2,proposed,Walk,0.910891089,92
+MotionSense,101,18,2,proposed,Stairs up,0.952380952,44
+MotionSense,101,18,2,proposed,Stairs down,0.742857143,40
+MotionSense,101,18,2,proposed,Sit,1.000000000,176
+MotionSense,101,18,2,proposed,Stand,1.000000000,148
+MotionSense,101,18,2,proposed,Jog,0.952380952,44
+MotionSense,17,19,2,no_correction,Walk,0.474137931,124
+MotionSense,17,19,2,no_correction,Stairs up,0.581818182,48
+MotionSense,17,19,2,no_correction,Stairs down,0.000000000,28
+MotionSense,17,19,2,no_correction,Sit,1.000000000,192
+MotionSense,17,19,2,no_correction,Stand,1.000000000,156
+MotionSense,17,19,2,no_correction,Jog,0.603174603,44
+MotionSense,17,19,2,add_only,Walk,0.504587156,124
+MotionSense,17,19,2,add_only,Stairs up,0.581818182,48
+MotionSense,17,19,2,add_only,Stairs down,0.000000000,28
+MotionSense,17,19,2,add_only,Sit,1.000000000,192
+MotionSense,17,19,2,add_only,Stand,1.000000000,156
+MotionSense,17,19,2,add_only,Jog,0.857142857,44
+MotionSense,17,19,2,proposed,Walk,0.760784314,124
+MotionSense,17,19,2,proposed,Stairs up,0.750000000,48
+MotionSense,17,19,2,proposed,Stairs down,0.000000000,28
+MotionSense,17,19,2,proposed,Sit,1.000000000,192
+MotionSense,17,19,2,proposed,Stand,0.990476190,156
+MotionSense,17,19,2,proposed,Jog,0.926829268,44
+MotionSense,43,19,2,no_correction,Walk,0.883211679,124
+MotionSense,43,19,2,no_correction,Stairs up,0.740740741,48
+MotionSense,43,19,2,no_correction,Stairs down,0.666666667,28
+MotionSense,43,19,2,no_correction,Sit,1.000000000,192
+MotionSense,43,19,2,no_correction,Stand,1.000000000,156
+MotionSense,43,19,2,no_correction,Jog,0.926829268,44
+MotionSense,43,19,2,add_only,Walk,0.877049180,124
+MotionSense,43,19,2,add_only,Stairs up,0.814814815,48
+MotionSense,43,19,2,add_only,Stairs down,0.703703704,28
+MotionSense,43,19,2,add_only,Sit,1.000000000,192
+MotionSense,43,19,2,add_only,Stand,1.000000000,156
+MotionSense,43,19,2,add_only,Jog,0.926829268,44
+MotionSense,43,19,2,proposed,Walk,0.491228070,124
+MotionSense,43,19,2,proposed,Stairs up,0.745762712,48
+MotionSense,43,19,2,proposed,Stairs down,0.413793103,28
+MotionSense,43,19,2,proposed,Sit,1.000000000,192
+MotionSense,43,19,2,proposed,Stand,0.996805112,156
+MotionSense,43,19,2,proposed,Jog,0.926829268,44
+MotionSense,101,19,2,no_correction,Walk,0.894545455,124
+MotionSense,101,19,2,no_correction,Stairs up,0.775000000,48
+MotionSense,101,19,2,no_correction,Stairs down,0.666666667,28
+MotionSense,101,19,2,no_correction,Sit,1.000000000,192
+MotionSense,101,19,2,no_correction,Stand,1.000000000,156
+MotionSense,101,19,2,no_correction,Jog,0.926829268,44
+MotionSense,101,19,2,add_only,Walk,0.903225806,124
+MotionSense,101,19,2,add_only,Stairs up,0.857142857,48
+MotionSense,101,19,2,add_only,Stairs down,0.716981132,28
+MotionSense,101,19,2,add_only,Sit,1.000000000,192
+MotionSense,101,19,2,add_only,Stand,1.000000000,156
+MotionSense,101,19,2,add_only,Jog,0.926829268,44
+MotionSense,101,19,2,proposed,Walk,0.508875740,124
+MotionSense,101,19,2,proposed,Stairs up,0.692307692,48
+MotionSense,101,19,2,proposed,Stairs down,0.519230769,28
+MotionSense,101,19,2,proposed,Sit,1.000000000,192
+MotionSense,101,19,2,proposed,Stand,0.990476190,156
+MotionSense,101,19,2,proposed,Jog,0.926829268,44
+MotionSense,17,20,2,no_correction,Walk,0.943231441,108
+MotionSense,17,20,2,no_correction,Stairs up,0.952380952,40
+MotionSense,17,20,2,no_correction,Stairs down,0.769230769,32
+MotionSense,17,20,2,no_correction,Sit,1.000000000,96
+MotionSense,17,20,2,no_correction,Stand,1.000000000,80
+MotionSense,17,20,2,no_correction,Jog,0.949494949,52
+MotionSense,17,20,2,add_only,Walk,0.960000000,108
+MotionSense,17,20,2,add_only,Stairs up,0.952380952,40
+MotionSense,17,20,2,add_only,Stairs down,0.857142857,32
+MotionSense,17,20,2,add_only,Sit,1.000000000,96
+MotionSense,17,20,2,add_only,Stand,1.000000000,80
+MotionSense,17,20,2,add_only,Jog,0.949494949,52
+MotionSense,17,20,2,proposed,Walk,0.960000000,108
+MotionSense,17,20,2,proposed,Stairs up,0.939759036,40
+MotionSense,17,20,2,proposed,Stairs down,0.842105263,32
+MotionSense,17,20,2,proposed,Sit,1.000000000,96
+MotionSense,17,20,2,proposed,Stand,1.000000000,80
+MotionSense,17,20,2,proposed,Jog,0.949494949,52
+MotionSense,43,20,2,no_correction,Walk,0.981818182,108
+MotionSense,43,20,2,no_correction,Stairs up,0.928571429,40
+MotionSense,43,20,2,no_correction,Stairs down,0.935483871,32
+MotionSense,43,20,2,no_correction,Sit,1.000000000,96
+MotionSense,43,20,2,no_correction,Stand,1.000000000,80
+MotionSense,43,20,2,no_correction,Jog,0.938775510,52
+MotionSense,43,20,2,add_only,Walk,0.981818182,108
+MotionSense,43,20,2,add_only,Stairs up,0.928571429,40
+MotionSense,43,20,2,add_only,Stairs down,0.935483871,32
+MotionSense,43,20,2,add_only,Sit,1.000000000,96
+MotionSense,43,20,2,add_only,Stand,1.000000000,80
+MotionSense,43,20,2,add_only,Jog,0.938775510,52
+MotionSense,43,20,2,proposed,Walk,0.955752212,108
+MotionSense,43,20,2,proposed,Stairs up,0.951219512,40
+MotionSense,43,20,2,proposed,Stairs down,0.842105263,32
+MotionSense,43,20,2,proposed,Sit,1.000000000,96
+MotionSense,43,20,2,proposed,Stand,1.000000000,80
+MotionSense,43,20,2,proposed,Jog,0.949494949,52
+MotionSense,101,20,2,no_correction,Walk,0.943231441,108
+MotionSense,101,20,2,no_correction,Stairs up,0.941176471,40
+MotionSense,101,20,2,no_correction,Stairs down,0.745098039,32
+MotionSense,101,20,2,no_correction,Sit,1.000000000,96
+MotionSense,101,20,2,no_correction,Stand,1.000000000,80
+MotionSense,101,20,2,no_correction,Jog,0.949494949,52
+MotionSense,101,20,2,add_only,Walk,0.943231441,108
+MotionSense,101,20,2,add_only,Stairs up,0.941176471,40
+MotionSense,101,20,2,add_only,Stairs down,0.745098039,32
+MotionSense,101,20,2,add_only,Sit,1.000000000,96
+MotionSense,101,20,2,add_only,Stand,1.000000000,80
+MotionSense,101,20,2,add_only,Jog,0.949494949,52
+MotionSense,101,20,2,proposed,Walk,0.915254237,108
+MotionSense,101,20,2,proposed,Stairs up,0.886075949,40
+MotionSense,101,20,2,proposed,Stairs down,0.720000000,32
+MotionSense,101,20,2,proposed,Sit,1.000000000,96
+MotionSense,101,20,2,proposed,Stand,1.000000000,80
+MotionSense,101,20,2,proposed,Jog,0.949494949,52
+MotionSense,17,21,2,no_correction,Walk,0.905109489,124
+MotionSense,17,21,2,no_correction,Stairs up,0.715789474,60
+MotionSense,17,21,2,no_correction,Stairs down,0.951219512,40
+MotionSense,17,21,2,no_correction,Sit,1.000000000,160
+MotionSense,17,21,2,no_correction,Stand,1.000000000,148
+MotionSense,17,21,2,no_correction,Jog,0.974358974,60
+MotionSense,17,21,2,add_only,Walk,0.932330827,124
+MotionSense,17,21,2,add_only,Stairs up,0.823529412,60
+MotionSense,17,21,2,add_only,Stairs down,0.963855422,40
+MotionSense,17,21,2,add_only,Sit,1.000000000,160
+MotionSense,17,21,2,add_only,Stand,1.000000000,148
+MotionSense,17,21,2,add_only,Jog,0.974358974,60
+MotionSense,17,21,2,proposed,Walk,0.957528958,124
+MotionSense,17,21,2,proposed,Stairs up,0.909090909,60
+MotionSense,17,21,2,proposed,Stairs down,0.926829268,40
+MotionSense,17,21,2,proposed,Sit,1.000000000,160
+MotionSense,17,21,2,proposed,Stand,1.000000000,148
+MotionSense,17,21,2,proposed,Jog,0.974358974,60
+MotionSense,43,21,2,no_correction,Walk,0.992000000,124
+MotionSense,43,21,2,no_correction,Stairs up,1.000000000,60
+MotionSense,43,21,2,no_correction,Stairs down,0.963855422,40
+MotionSense,43,21,2,no_correction,Sit,1.000000000,160
+MotionSense,43,21,2,no_correction,Stand,1.000000000,148
+MotionSense,43,21,2,no_correction,Jog,0.956521739,60
+MotionSense,43,21,2,add_only,Walk,0.992000000,124
+MotionSense,43,21,2,add_only,Stairs up,1.000000000,60
+MotionSense,43,21,2,add_only,Stairs down,0.963855422,40
+MotionSense,43,21,2,add_only,Sit,1.000000000,160
+MotionSense,43,21,2,add_only,Stand,1.000000000,148
+MotionSense,43,21,2,add_only,Jog,0.956521739,60
+MotionSense,43,21,2,proposed,Walk,0.964980545,124
+MotionSense,43,21,2,proposed,Stairs up,0.918918919,60
+MotionSense,43,21,2,proposed,Stairs down,0.963855422,40
+MotionSense,43,21,2,proposed,Sit,1.000000000,160
+MotionSense,43,21,2,proposed,Stand,1.000000000,148
+MotionSense,43,21,2,proposed,Jog,0.974358974,60
+MotionSense,101,21,2,no_correction,Walk,0.633165829,124
+MotionSense,101,21,2,no_correction,Stairs up,0.662983425,60
+MotionSense,101,21,2,no_correction,Stairs down,0.904109589,40
+MotionSense,101,21,2,no_correction,Sit,1.000000000,160
+MotionSense,101,21,2,no_correction,Stand,1.000000000,148
+MotionSense,101,21,2,no_correction,Jog,0.956521739,60
+MotionSense,101,21,2,add_only,Walk,0.906882591,124
+MotionSense,101,21,2,add_only,Stairs up,0.909090909,60
+MotionSense,101,21,2,add_only,Stairs down,0.837837838,40
+MotionSense,101,21,2,add_only,Sit,1.000000000,160
+MotionSense,101,21,2,add_only,Stand,1.000000000,148
+MotionSense,101,21,2,add_only,Jog,0.956521739,60
+MotionSense,101,21,2,proposed,Walk,0.968750000,124
+MotionSense,101,21,2,proposed,Stairs up,0.974358974,60
+MotionSense,101,21,2,proposed,Stairs down,0.925000000,40
+MotionSense,101,21,2,proposed,Sit,1.000000000,160
+MotionSense,101,21,2,proposed,Stand,1.000000000,148
+MotionSense,101,21,2,proposed,Jog,0.956521739,60
+MotionSense,17,22,2,no_correction,Walk,0.961748634,88
+MotionSense,17,22,2,no_correction,Stairs up,0.985915493,36
+MotionSense,17,22,2,no_correction,Stairs down,0.857142857,24
+MotionSense,17,22,2,no_correction,Sit,1.000000000,136
+MotionSense,17,22,2,no_correction,Stand,1.000000000,228
+MotionSense,17,22,2,no_correction,Jog,1.000000000,52
+MotionSense,17,22,2,add_only,Walk,0.972375691,88
+MotionSense,17,22,2,add_only,Stairs up,0.985915493,36
+MotionSense,17,22,2,add_only,Stairs down,0.909090909,24
+MotionSense,17,22,2,add_only,Sit,1.000000000,136
+MotionSense,17,22,2,add_only,Stand,1.000000000,228
+MotionSense,17,22,2,add_only,Jog,1.000000000,52
+MotionSense,17,22,2,proposed,Walk,0.977777778,88
+MotionSense,17,22,2,proposed,Stairs up,0.956521739,36
+MotionSense,17,22,2,proposed,Stairs down,0.978723404,24
+MotionSense,17,22,2,proposed,Sit,1.000000000,136
+MotionSense,17,22,2,proposed,Stand,1.000000000,228
+MotionSense,17,22,2,proposed,Jog,1.000000000,52
+MotionSense,43,22,2,no_correction,Walk,0.903954802,88
+MotionSense,43,22,2,no_correction,Stairs up,0.900000000,36
+MotionSense,43,22,2,no_correction,Stairs down,0.769230769,24
+MotionSense,43,22,2,no_correction,Sit,1.000000000,136
+MotionSense,43,22,2,no_correction,Stand,1.000000000,228
+MotionSense,43,22,2,no_correction,Jog,1.000000000,52
+MotionSense,43,22,2,add_only,Walk,0.945652174,88
+MotionSense,43,22,2,add_only,Stairs up,0.986301370,36
+MotionSense,43,22,2,add_only,Stairs down,0.769230769,24
+MotionSense,43,22,2,add_only,Sit,1.000000000,136
+MotionSense,43,22,2,add_only,Stand,1.000000000,228
+MotionSense,43,22,2,add_only,Jog,1.000000000,52
+MotionSense,43,22,2,proposed,Walk,0.921465969,88
+MotionSense,43,22,2,proposed,Stairs up,0.875000000,36
+MotionSense,43,22,2,proposed,Stairs down,0.829268293,24
+MotionSense,43,22,2,proposed,Sit,1.000000000,136
+MotionSense,43,22,2,proposed,Stand,1.000000000,228
+MotionSense,43,22,2,proposed,Jog,1.000000000,52
+MotionSense,101,22,2,no_correction,Walk,0.888888889,88
+MotionSense,101,22,2,no_correction,Stairs up,0.736842105,36
+MotionSense,101,22,2,no_correction,Stairs down,0.829268293,24
+MotionSense,101,22,2,no_correction,Sit,1.000000000,136
+MotionSense,101,22,2,no_correction,Stand,1.000000000,228
+MotionSense,101,22,2,no_correction,Jog,1.000000000,52
+MotionSense,101,22,2,add_only,Walk,0.936170213,88
+MotionSense,101,22,2,add_only,Stairs up,0.925373134,36
+MotionSense,101,22,2,add_only,Stairs down,0.829268293,24
+MotionSense,101,22,2,add_only,Sit,1.000000000,136
+MotionSense,101,22,2,add_only,Stand,1.000000000,228
+MotionSense,101,22,2,add_only,Jog,1.000000000,52
+MotionSense,101,22,2,proposed,Walk,0.951351351,88
+MotionSense,101,22,2,proposed,Stairs up,0.971428571,36
+MotionSense,101,22,2,proposed,Stairs down,0.829268293,24
+MotionSense,101,22,2,proposed,Sit,1.000000000,136
+MotionSense,101,22,2,proposed,Stand,1.000000000,228
+MotionSense,101,22,2,proposed,Jog,1.000000000,52
+MotionSense,17,23,2,no_correction,Walk,0.840148699,128
+MotionSense,17,23,2,no_correction,Stairs up,0.773584906,56
+MotionSense,17,23,2,no_correction,Stairs down,0.676923077,36
+MotionSense,17,23,2,no_correction,Sit,1.000000000,116
+MotionSense,17,23,2,no_correction,Stand,1.000000000,80
+MotionSense,17,23,2,no_correction,Jog,1.000000000,40
+MotionSense,17,23,2,add_only,Walk,0.853932584,128
+MotionSense,17,23,2,add_only,Stairs up,0.814814815,56
+MotionSense,17,23,2,add_only,Stairs down,0.676923077,36
+MotionSense,17,23,2,add_only,Sit,1.000000000,116
+MotionSense,17,23,2,add_only,Stand,1.000000000,80
+MotionSense,17,23,2,add_only,Jog,1.000000000,40
+MotionSense,17,23,2,proposed,Walk,0.896296296,128
+MotionSense,17,23,2,proposed,Stairs up,0.870370370,56
+MotionSense,17,23,2,proposed,Stairs down,0.709677419,36
+MotionSense,17,23,2,proposed,Sit,1.000000000,116
+MotionSense,17,23,2,proposed,Stand,1.000000000,80
+MotionSense,17,23,2,proposed,Jog,1.000000000,40
+MotionSense,43,23,2,no_correction,Walk,0.708737864,128
+MotionSense,43,23,2,no_correction,Stairs up,0.622754491,56
+MotionSense,43,23,2,no_correction,Stairs down,0.656716418,36
+MotionSense,43,23,2,no_correction,Sit,1.000000000,116
+MotionSense,43,23,2,no_correction,Stand,1.000000000,80
+MotionSense,43,23,2,no_correction,Jog,1.000000000,40
+MotionSense,43,23,2,add_only,Walk,0.820512821,128
+MotionSense,43,23,2,add_only,Stairs up,0.727272727,56
+MotionSense,43,23,2,add_only,Stairs down,0.675675676,36
+MotionSense,43,23,2,add_only,Sit,1.000000000,116
+MotionSense,43,23,2,add_only,Stand,1.000000000,80
+MotionSense,43,23,2,add_only,Jog,1.000000000,40
+MotionSense,43,23,2,proposed,Walk,0.876811594,128
+MotionSense,43,23,2,proposed,Stairs up,0.803921569,56
+MotionSense,43,23,2,proposed,Stairs down,0.709677419,36
+MotionSense,43,23,2,proposed,Sit,1.000000000,116
+MotionSense,43,23,2,proposed,Stand,1.000000000,80
+MotionSense,43,23,2,proposed,Jog,1.000000000,40
+MotionSense,101,23,2,no_correction,Walk,0.609625668,128
+MotionSense,101,23,2,no_correction,Stairs up,0.614525140,56
+MotionSense,101,23,2,no_correction,Stairs down,0.729729730,36
+MotionSense,101,23,2,no_correction,Sit,1.000000000,116
+MotionSense,101,23,2,no_correction,Stand,1.000000000,80
+MotionSense,101,23,2,no_correction,Jog,1.000000000,40
+MotionSense,101,23,2,add_only,Walk,0.866952790,128
+MotionSense,101,23,2,add_only,Stairs up,0.796747967,56
+MotionSense,101,23,2,add_only,Stairs down,0.761904762,36
+MotionSense,101,23,2,add_only,Sit,1.000000000,116
+MotionSense,101,23,2,add_only,Stand,1.000000000,80
+MotionSense,101,23,2,add_only,Jog,1.000000000,40
+MotionSense,101,23,2,proposed,Walk,0.881720430,128
+MotionSense,101,23,2,proposed,Stairs up,0.820000000,56
+MotionSense,101,23,2,proposed,Stairs down,0.721311475,36
+MotionSense,101,23,2,proposed,Sit,1.000000000,116
+MotionSense,101,23,2,proposed,Stand,1.000000000,80
+MotionSense,101,23,2,proposed,Jog,1.000000000,40
+MotionSense,17,24,2,no_correction,Walk,0.894117647,76
+MotionSense,17,24,2,no_correction,Stairs up,0.769230769,24
+MotionSense,17,24,2,no_correction,Stairs down,0.400000000,12
+MotionSense,17,24,2,no_correction,Sit,1.000000000,132
+MotionSense,17,24,2,no_correction,Stand,1.000000000,152
+MotionSense,17,24,2,no_correction,Jog,1.000000000,28
+MotionSense,17,24,2,add_only,Walk,0.899408284,76
+MotionSense,17,24,2,add_only,Stairs up,0.829268293,24
+MotionSense,17,24,2,add_only,Stairs down,0.285714286,12
+MotionSense,17,24,2,add_only,Sit,1.000000000,132
+MotionSense,17,24,2,add_only,Stand,1.000000000,152
+MotionSense,17,24,2,add_only,Jog,1.000000000,28
+MotionSense,17,24,2,proposed,Walk,0.937062937,76
+MotionSense,17,24,2,proposed,Stairs up,0.842105263,24
+MotionSense,17,24,2,proposed,Stairs down,1.000000000,12
+MotionSense,17,24,2,proposed,Sit,1.000000000,132
+MotionSense,17,24,2,proposed,Stand,1.000000000,152
+MotionSense,17,24,2,proposed,Jog,1.000000000,28
+MotionSense,43,24,2,no_correction,Walk,0.000000000,76
+MotionSense,43,24,2,no_correction,Stairs up,0.387096774,24
+MotionSense,43,24,2,no_correction,Stairs down,0.500000000,12
+MotionSense,43,24,2,no_correction,Sit,1.000000000,132
+MotionSense,43,24,2,no_correction,Stand,1.000000000,152
+MotionSense,43,24,2,no_correction,Jog,1.000000000,28
+MotionSense,43,24,2,add_only,Walk,0.117647059,76
+MotionSense,43,24,2,add_only,Stairs up,0.403361345,24
+MotionSense,43,24,2,add_only,Stairs down,0.800000000,12
+MotionSense,43,24,2,add_only,Sit,1.000000000,132
+MotionSense,43,24,2,add_only,Stand,1.000000000,152
+MotionSense,43,24,2,add_only,Jog,1.000000000,28
+MotionSense,43,24,2,proposed,Walk,0.979865772,76
+MotionSense,43,24,2,proposed,Stairs up,0.941176471,24
+MotionSense,43,24,2,proposed,Stairs down,1.000000000,12
+MotionSense,43,24,2,proposed,Sit,1.000000000,132
+MotionSense,43,24,2,proposed,Stand,1.000000000,152
+MotionSense,43,24,2,proposed,Jog,1.000000000,28
+MotionSense,101,24,2,no_correction,Walk,0.962025316,76
+MotionSense,101,24,2,no_correction,Stairs up,0.956521739,24
+MotionSense,101,24,2,no_correction,Stairs down,0.800000000,12
+MotionSense,101,24,2,no_correction,Sit,1.000000000,132
+MotionSense,101,24,2,no_correction,Stand,1.000000000,152
+MotionSense,101,24,2,no_correction,Jog,1.000000000,28
+MotionSense,101,24,2,add_only,Walk,0.968152866,76
+MotionSense,101,24,2,add_only,Stairs up,1.000000000,24
+MotionSense,101,24,2,add_only,Stairs down,0.736842105,12
+MotionSense,101,24,2,add_only,Sit,1.000000000,132
+MotionSense,101,24,2,add_only,Stand,1.000000000,152
+MotionSense,101,24,2,add_only,Jog,1.000000000,28
+MotionSense,101,24,2,proposed,Walk,0.962025316,76
+MotionSense,101,24,2,proposed,Stairs up,1.000000000,24
+MotionSense,101,24,2,proposed,Stairs down,0.666666667,12
+MotionSense,101,24,2,proposed,Sit,1.000000000,132
+MotionSense,101,24,2,proposed,Stand,1.000000000,152
+MotionSense,101,24,2,proposed,Jog,1.000000000,28

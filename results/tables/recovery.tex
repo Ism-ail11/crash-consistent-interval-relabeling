@@ -1,0 +1,24 @@
+\begin{tabular}{lllrr}
+\toprule
+Dataset & Campaign & Method & Boot & Retry \\
+\midrule
+HAPT & Lost acknowledgement across checkpoint & Remove checkpoint receipt & 90/90 & 0/90 \\
+HAPT & Lost acknowledgement across checkpoint & Packed journal & 90/90 & 90/90 \\
+HAPT & Compaction interrupted & Packed journal & 12420/12420 & 12420/12420 \\
+HAPT & Lost acknowledgement & Remove retry IDs & 90/90 & 0/90 \\
+HAPT & Lost acknowledgement & Packed journal & 90/90 & 90/90 \\
+HAPT & Corrupted payload & Remove CRC validation & 0/90 & 0/90 \\
+HAPT & Corrupted payload & Packed journal & 90/90 & 90/90 \\
+HAPT & Edit interrupted & Packed journal & 2250/2250 & 2250/2250 \\
+HAPT & Snapshot interrupted & Two-bank snapshot & 810/810 & 810/810 \\
+MotionSense & Lost acknowledgement across checkpoint & Remove checkpoint receipt & 72/72 & 0/72 \\
+MotionSense & Lost acknowledgement across checkpoint & Packed journal & 72/72 & 72/72 \\
+MotionSense & Compaction interrupted & Packed journal & 9936/9936 & 9936/9936 \\
+MotionSense & Lost acknowledgement & Remove retry IDs & 72/72 & 0/72 \\
+MotionSense & Lost acknowledgement & Packed journal & 72/72 & 72/72 \\
+MotionSense & Corrupted payload & Remove CRC validation & 0/72 & 0/72 \\
+MotionSense & Corrupted payload & Packed journal & 72/72 & 72/72 \\
+MotionSense & Edit interrupted & Packed journal & 1800/1800 & 1800/1800 \\
+MotionSense & Snapshot interrupted & Two-bank snapshot & 648/648 & 648/648 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,2 @@
+renode,compiler,executable_flash,static_firmware_ram,simulator_mailbox_ram,model_state_ram,logical_journal_bank_bytes,reserved_stm32f4_flash_bytes
+Renode v1.17.0,arm-none-eabi-gcc (15:12.2.rel1-1) 12.2.1 20221205,5552,788,43388,760,564,393216

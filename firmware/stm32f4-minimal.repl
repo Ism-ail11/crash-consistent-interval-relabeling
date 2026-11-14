@@ -1,0 +1,28 @@
+// STM32F407 memory map and peripherals used by this firmware.
+// See RM0090 and Renode's platforms/cpus/stm32f4.repl.
+sram: Memory.MappedMemory @ sysbus 0x20000000
+    size: 0x20000
+
+flash: Memory.MappedMemory @ sysbus 0x08000000
+    size: 0x100000
+
+flash_controller: MTD.STM32F4_FlashController @ {
+    sysbus 0x40023C00;
+    sysbus new Bus.BusMultiRegistration { address: 0x1FFFC000; size: 0x100; region: "optionBytes" }
+}
+    flash: flash
+
+usart1: UART.STM32_UART @ sysbus <0x40011000, +0x100>
+    -> nvic@37
+
+rcc: Memory.MappedMemory @ sysbus 0x40023800
+    size: 0x400
+
+nvic: IRQControllers.NVIC @ sysbus 0xE000E000
+    priorityMask: 0xF0
+    systickFrequency: 16000000
+    IRQ -> cpu@0
+
+cpu: CPU.CortexM @ sysbus
+    cpuType: "cortex-m4"
+    nvic: nvic

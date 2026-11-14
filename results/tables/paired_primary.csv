@@ -1,0 +1,7 @@
+dataset,reference,participants,delta_pp,ci_low,ci_high
+HAPT,no_correction,30,2.222232,-0.312103,4.784699
+HAPT,source_only,30,-0.907057,-3.618135,1.766256
+HAPT,add_only,30,0.929914,-1.458787,3.308407
+MotionSense,no_correction,24,4.829421,2.300490,7.500494
+MotionSense,source_only,24,11.513146,5.013533,18.993037
+MotionSense,add_only,24,2.290564,0.605628,4.169704

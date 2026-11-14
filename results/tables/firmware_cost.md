@@ -1,0 +1,14 @@
+| Dataset     | Implementation      |   Calibration (B) |   Extra cache RAM (B) |   Edit (B) |   Edit erases |   Edit path (insn) |   Boot after 3 edits (insn) |
+|:------------|:--------------------|------------------:|----------------------:|-----------:|--------------:|-------------------:|----------------------------:|
+| HAPT        | Packed journal      |              1056 |                     0 |         24 |             0 |               2728 |                       24322 |
+| HAPT        | Unpacked journal    |              2400 |                     0 |         24 |             0 |               3418 |                       34672 |
+| HAPT        | Incremental vectors |              4704 |                     0 |         24 |             0 |               3820 |                       40870 |
+| HAPT        | Full-vector rebuild |              4704 |                     0 |         24 |             0 |              41434 |                       40870 |
+| HAPT        | RAM-cached vectors  |              4704 |                  2400 |         24 |             0 |               3418 |                       54296 |
+| HAPT        | Two-bank snapshot   |              1056 |                     0 |        180 |             1 |              23830 |                       52497 |
+| MotionSense | Packed journal      |              1056 |                     0 |         24 |             0 |               2728 |                       24322 |
+| MotionSense | Unpacked journal    |              2400 |                     0 |         24 |             0 |               3418 |                       34672 |
+| MotionSense | Incremental vectors |              4704 |                     0 |         24 |             0 |               3820 |                       40870 |
+| MotionSense | Full-vector rebuild |              4704 |                     0 |         24 |             0 |              41434 |                       40870 |
+| MotionSense | RAM-cached vectors  |              4704 |                  2400 |         24 |             0 |               3418 |                       54296 |
+| MotionSense | Two-bank snapshot   |              1056 |                     0 |        180 |             1 |              23886 |                       52563 |

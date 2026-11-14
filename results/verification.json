@@ -1,0 +1,44 @@
+{
+  "ablation_count": 9,
+  "datasets": [
+    "HAPT",
+    "MotionSense"
+  ],
+  "executed_notebook_cells": 11,
+  "executed_notebooks": 3,
+  "full_vector_prediction_agreement": 1.0,
+  "native_c_exact_recovery_cases": {
+    "checkpoint_retry": 162,
+    "compaction": 22356,
+    "duplicate": 162,
+    "integrity": 162,
+    "power_cut": 4050
+  },
+  "notebook_errors": 0,
+  "participant_seed_duration_cases": 486,
+  "primary_macro_f1_pct": {
+    "HAPT": 80.1472,
+    "MotionSense": 88.6896
+  },
+  "renode_commands_verified": 1974,
+  "renode_packed_journal_resets": 192,
+  "renode_resets_verified": 222,
+  "renode_version": "Renode v1.17.0",
+  "results_csv_sha256": {
+    "confusion.csv": "98389b06e8631c7bf5f380b54e439bdfb938ea29269254a9d1bf2cabaa48ab10",
+    "dataset_inventory.csv": "a301504f68284dfc64f332c99a2984a8b0d30690038989168ab1af57677aca86",
+    "faults.csv": "6eee265b9cb74a68f4ace3c8535a7cbec710fb4aa6207e0b6338614a0ddc9f01",
+    "firmware_memory.csv": "b549401a1ff57f908aae195db6cd00cbf93e905c45520df3221c1306443faee4",
+    "per_class.csv": "6de33b751d53a1d7128fe272b96edf54c6b1c96ed8d782b6d081700c07d34988",
+    "renode.csv": "64fcb2f4c0f249a42d16ea62dcf9056be734d8f55b5f072329203b9d9837140f",
+    "scores.csv": "9cfc65d5d1dbe4c5f534fb637a82218d8f88db8863d25145310d61bcb314c98c",
+    "stress.csv": "a01d48b8930c519a699db383f9550969a03640525d879a6408a38fb1cb754179"
+  },
+  "seeds": [
+    17,
+    43,
+    101
+  ],
+  "stress_edits_verified": 10368,
+  "stress_resets_verified": 6582
+}
